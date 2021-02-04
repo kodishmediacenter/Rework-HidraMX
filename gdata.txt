@@ -14,7 +14,7 @@
  <channels>
  <channel>
  <name>[COLOR white][B]Lista IPTV Web[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/iptv.png</thumbnail>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/tv.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/canais-fta</externallink>
  <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
  <info>Listas iptv</info>
@@ -32,22 +32,12 @@
  </channel>
  </channels>
  
- 
- <channels>
- <channel>
- <name>[COLOR white][B]Conteudo 24 horas[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://img.freepik.com/vetores-gratis/neon-24-horas-aberta-tabuleta_1017-19487.jpg?size=338&ext=jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/24horas.xml</externallink>
- <fanart>https://spinoff.com.br/wp-content/uploads/watch-free-iptv-online-with-tablet-pc-smartphone-laptop-tv.jpg</fanart>
- <info>Creditos a Fluxus Radio Credits the fluxus radio</info>
- </channel>
- </channels>
 
 <channel>
 <name>[COLOR white][B]Apks[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
 <thumbnail>https://lh5.ggpht.com/aCdAa44RDJNrNx2ZtN93_CsTV19w-NjBnbXI7B15PuqH0uAizyD-GEkvHqFaigGBqw</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/apks</externallink>
-<fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/android.png</fanart>
 <info></info>
 </channel>
 </channels>
@@ -57,7 +47,7 @@
 <channel>
 <name>[COLOR white][B]Filmes[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes-cat</externallink>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -67,7 +57,7 @@
 <channel>
 <name>[COLOR white][B]Series[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/series-cat.txt</externallink>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/series.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/seriea.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -117,7 +107,7 @@
 <channel>
 <name>[COLOR white][B]Servidores de Musica[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/musica-servers</externallink>
-<thumbnail>https://icon-library.com/images/icon-for-server/icon-for-server-5.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/seriea.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </channel>
