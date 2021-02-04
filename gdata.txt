@@ -1,6 +1,14 @@
 [COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]
 
-
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Eventos Atuais[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/iptv.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/canais-fta</externallink>
+ <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
 
 
  <channels>
@@ -34,16 +42,6 @@
  <info>Creditos a Fluxus Radio Credits the fluxus radio</info>
  </channel>
  </channels>
-
-<channels>
-<channel>
-<name>[COLOR white][B]Kodish Faroeste[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/store/master/Faroeste.xml</externallink>
-<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/virtualaddon/kodish%20faroeste/fanart.jpg</fanart>
-<info></info>
-</channel>
-</channels>
 
 <channel>
 <name>[COLOR white][B]Apks[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
