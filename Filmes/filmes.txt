@@ -1,69 +1,1217 @@
-<channels>
+<channels></channels>
 <channel>
-<name>Filmes Top do Momento</name>
-<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes11</externallink>
-<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
-<info></info>
-</channel>
-</channels>
+<name>Escape Room</name>
+<thumbnail>https://hidratorrent.com/capa/escape-room-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ 
+<item>
+<title>Escape Room</title>
+<link>magnet:?xt=urn:btih:D3417AAEAC60E258DFA2AACB1CB4E6188AD3769B&amp;dn=%5bWWW.BLUDV.TV%5d%20Sala%20de%20Fuga%202019%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/escape-room-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Passando por momentos complicados em suas respectivas vidas, seis estranhos acabam sendo misteriosamente convidados para um experimento inusitado: trancados em uma imersiva sala enigmática cheia de armadilhas, eles ganharão um milhão de dólares caso consigam sair. Mas quando percebem que os perigos são mais letais do que imaginavam, precisam agir rápido para desvendar as pistas que lhes são dadas.</info>
+</item>
 
-<channels>
-<channel>
-<name>Filmes 1</name>
-<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes11d</externallink>
-<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
-<info></info>
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6dSKUoV0SNI</trailer>
+<thumbnail>https://hidratorrent.com/capa/escape-room-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Passando por momentos complicados em suas respectivas vidas, seis estranhos acabam sendo misteriosamente convidados para um experimento inusitado: trancados em uma imersiva sala enigmática cheia de armadilhas, eles ganharão um milhão de dólares caso consigam sair. Mas quando percebem que os perigos são mais letais do que imaginavam, precisam agir rápido para desvendar as pistas que lhes são dadas.</info>
+</item>
 </channel>
-</channels>
 
-<channels>
-<channel>
-<name>Filmes 2</name>
-<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes11c</externallink>
-<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
-<info></info>
-</channel>
-</channels>
 
-<channels>
+<channels></channels>
 <channel>
-<name>Filmes 3</name>
-<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes10</externallink>
-<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
-<info></info>
-</channel>
-</channels>
+<name>Sexo Música e Amor</name>
+<thumbnail>https://hidratorrent.com/capa/sexo-musica-e-amor-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ 
 
-<channels>
-<channel>
-<name>Filmes 4</name>
-<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes9</externallink>
-<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
-<info></info>
-</channel>
-</channels>
+<item>
+<title>Sexo Música e Amor</title>
+<link>magnet:?xt=urn:btih:de678756655ba3377bcd31e70072de408e775292&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Sexo%2c%20M%c3%basica%20e%20Amor%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce
+</link>
+<thumbnail>https://hidratorrent.com/capa/sexo-musica-e-amor-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma mulher viciada em amor e sexo aprende o verdadeiro significado da palavra intimidade quando ela começa a fazer música com um homem recluso.</info>
+</item>
 
-<channels>
-<channel>
-<name>Filmes 5</name>
-<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes8</externallink>
-<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
-<info></info>
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=w8HyDeyaB2w</trailer>
+<thumbnail>https://hidratorrent.com/capa/sexo-musica-e-amor-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma mulher viciada em amor e sexo aprende o verdadeiro significado da palavra intimidade quando ela começa a fazer música com um homem recluso.</info>
+</item>
 </channel>
-</channels>
+ 
+<channels></channels>
+<channel>
+<name>Não Olhe</name>
+<thumbnail>https://hidratorrent.com/capa/nao-olhe-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<item>
+<title>Não Olhe </title>
+<link>magnet:?xt=urn:btih:314A87B30F09EBA5B55590CF13BEC7D1296A4D59&amp;dn=%5bWWW.BLUDV.TV%5d%20N%c3%a3o%20Olhe%202019%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/nao-olhe-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma solitária jovem de 18 anos não encontra suporte familiar e nem amigos para que possa desabafar sobre os problemas de sua vida. Cansada, ela começa a conversar com o próprio reflexo no espelho apenas para externalizar sua angústia, mas rapidamente descobre que está trocando de lugar com uma espécie de clone que tenta convencê-la a tomar atitudes vingativas. </h1></info>
+</item>
 
-<channels>
-<channel>
-<name>Filmes 6</name>
-<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes7</externallink>
-<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
-<info></info>
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lb5UsiTQRMg</trailer>
+<thumbnail>https://hidratorrent.com/capa/nao-olhe-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma solitária jovem de 18 anos não encontra suporte familiar e nem amigos para que possa desabafar sobre os problemas de sua vida. Cansada, ela começa a conversar com o próprio reflexo no espelho apenas para externalizar sua angústia, mas rapidamente descobre que está trocando de lugar com uma espécie de clone que tenta convencê-la a tomar atitudes vingativas. </h1></info>
+</item>
 </channel>
-</channels>
+
+<channels></channels>
+<channel>
+<name>Vice </name>
+<thumbnail>https://hidratorrent.com/capa/vice-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ 
+<item>
+<title>Vice </title>
+<link>magnet:?xt=urn:btih:F88A703B4CD898620545DFF3D86AFEB7D5F5AAC0&amp;dn=%5bWWW.BLUDV.TV%5d%20Vice%202019%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/vice-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Na juventude, Dick Cheney (Christian Bale) se aproximou do Partido Republicano ao ver na política uma grande oportunidade de ascender de vida. Para tanto, se aproxima de Donald Rumsfeld (Steve Carell) e logo se torna seu assessor direto. Com a renúncia do ex-presidente Richard Nixon, os poucos republicanos que não estavam associados ao governo ganham imediata importância e, com isso, tanto Cheney quanto Rumsfeld retornam à esfera de poder do partido. Décadas depois, com a decisão de George W. Bush (Sam Rockwell) em se lançar candidato à presidência, Cheney é cortejado para assumir o posto de vice-presidente. Ele aceita, mas com uma condição: que tenha amplos poderes dentro do governo, caso a chapa formada seja eleita.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iCdS6yVOA0w</trailer>
+<thumbnail>https://hidratorrent.com/capa/vice-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Na juventude, Dick Cheney (Christian Bale) se aproximou do Partido Republicano ao ver na política uma grande oportunidade de ascender de vida. Para tanto, se aproxima de Donald Rumsfeld (Steve Carell) e logo se torna seu assessor direto. Com a renúncia do ex-presidente Richard Nixon, os poucos republicanos que não estavam associados ao governo ganham imediata importância e, com isso, tanto Cheney quanto Rumsfeld retornam à esfera de poder do partido. Décadas depois, com a decisão de George W. Bush (Sam Rockwell) em se lançar candidato à presidência, Cheney é cortejado para assumir o posto de vice-presidente. Ele aceita, mas com uma condição: que tenha amplos poderes dentro do governo, caso a chapa formada seja eleita.</info></item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Largadas em Familia</name>
+<thumbnail>https://hidratorrent.com/capa/largadas-em-familia-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Largadas em Familia</title>
+<link>magnet:?xt=urn:btih:14F9EC4F7F17D639249DA61A5A1D7F17BC967D69&amp;dn=%7bWWW.BLUDV.TV%7d%20Largadas%20Em%20Fam%c3%adlia%202018%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/largadas-em-familia-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Rose e Alice são duas irmãs muito diferentes. Rose é livre e rock n'roll. Alice é comportada e responsável. Elas não concordam em nada, exceto pela urgência de animar sua mãe, Françoise, que recentemente foi abandonada por seu pai por uma mulher muito mais jovem. A missão que estabeleceram é simplesmente "salvar a mãe" e o quadro de operações está bem definido: um clube de férias na ilha da Reunião. Faça o download de Largadas em Família</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vsw7n4u7gIs</trailer>
+<thumbnail>https://hidratorrent.com/capa/largadas-em-familia-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Sinopse: Rose e Alice são duas irmãs muito diferentes. Rose é livre e rock n'roll. Alice é comportada e responsável. Elas não concordam em nada, exceto pela urgência de animar sua mãe, Françoise, que recentemente foi abandonada por seu pai por uma mulher muito mais jovem. A missão que estabeleceram é simplesmente "salvar a mãe" e o quadro de operações está bem definido: um clube de férias na ilha da Reunião. Faça o download de Largadas em Família</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>O Horror Entre Nós</name>
+<thumbnail>https://hidratorrent.com/capa/o-horror-entre-nos-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>O Horror Entre Nós</title>
+<link>magnet:?xt=urn:btih:558eaf9faa2a257f256c650e0227826538af85ff&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20O%20Horror%20Entre%20Nos%202019%20%5b1080p%5d%20%5bFULL%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/o-horror-entre-nos-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Um homem que sofre de sonambulismo encontra um livro antigo em sua casa nova, no qual há passagens macabras sobre uma maldição misteriosa. A partir de então, ele começa a ser vítima de aterrorizantes visões e ferimentos inexplicáveis que aparecem repentinamente em seu corpo. Todos ao seu redor, incluindo a esposa e o filho pequeno, também passam a ser afetados por uma força maligna.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bdOAeJAZYKg</trailer>
+<thumbnail>https://hidratorrent.com/capa/o-horror-entre-nos-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Um homem que sofre de sonambulismo encontra um livro antigo em sua casa nova, no qual há passagens macabras sobre uma maldição misteriosa. A partir de então, ele começa a ser vítima de aterrorizantes visões e ferimentos inexplicáveis que aparecem repentinamente em seu corpo. Todos ao seu redor, incluindo a esposa e o filho pequeno, também passam a ser afetados por uma força maligna.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Um Novo Capitalismo</name>
+<thumbnail>https://hidratorrent.com/capa/um-novo-capitalismo-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Um Novo Capitalismo</title>
+<link>magnet:?xt=urn:btih:59728C6347A8E56C6ECFFA216B3C6F36DB489BF0&amp;dn=Um.Novo.Capitalismo.2017.1080p.WEB-DL.x264.NACIONAL-WWW.BLUDV.TV.mkv</link>
+<thumbnail>https://hidratorrent.com/capa/um-novo-capitalismo-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Documentário nacional sobre empreendedores de diversas partes do mundo exploram alternativas ao capitalismo atual para viabilizar negócios lucrativos sem abrir mão do combate à desigualdade social. Faça o download de Um Novo Capitalismo via torrent.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4zLUVZdgM5w</trailer>
+<thumbnail>https://hidratorrent.com/capa/um-novo-capitalismo-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Documentário nacional sobre empreendedores de diversas partes do mundo exploram alternativas ao capitalismo atual para viabilizar negócios lucrativos sem abrir mão do combate à desigualdade social. Faça o download de Um Novo Capitalismo via torrent.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>O Soldado de Cristo</name>
+<thumbnail>https://hidratorrent.com/capa/o-soldado-de-cristo-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>O Soldado de Cristo</title>
+<link>magnet:?xt=urn:btih:5503ba08b7774922a129fdc14feb4fff5dfce9cc&amp;dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20O%20Soldado%20de%20Cristo%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2ft2.pow7.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&amp;tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%2fannounce&amp;tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&amp;tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&amp;tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.blazing.de%2fannounce&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.prq.to%2fannounce&amp;tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&amp;tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&amp;tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&amp;tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&amp;tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2f11.rarbg.com%2fannounce&amp;tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&amp;tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&amp;tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/o-soldado-de-cristo-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A vida de Cristo nas mãos de um homem. A história da ressurreição de Jesus desde um ponto de vista único. Siga os passos do soldado romano que esteve presente na crucificação de Cristo.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wqmOL80agh0</trailer>
+<thumbnail>https://hidratorrent.com/capa/o-soldado-de-cristo-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A vida de Cristo nas mãos de um homem. A história da ressurreição de Jesus desde um ponto de vista único. Siga os passos do soldado romano que esteve presente na crucificação de Cristo.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Animais Fantásticos - Os Crimes de Grindelwald </name>
+<thumbnail>https://2.bp.blogspot.com/-RwUJSEYBDXU/W--nMXsanFI/AAAAAAAAC6c/XeZrC62zoqggZv3OBrbKZ8zNY1h9m5CWgCLcBGAs/s1600/Animais%2BFant%25C3%25A1sticos%2BOs%2BCrimes%2Bde%2BGrindelwald%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+
+<item>
+<title>Animais Fantásticos - Os Crimes de Grindelwald </title>
+<link>magnet:?xt=urn:btih:c19f34cf39e0c118d8740127f168cc21857605f5&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Animais%20Fant%c3%a1sticos%20%e2%80%93%20Os%20Crimes%20de%20Grindelwald%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://2.bp.blogspot.com/-RwUJSEYBDXU/W--nMXsanFI/AAAAAAAAC6c/XeZrC62zoqggZv3OBrbKZ8zNY1h9m5CWgCLcBGAs/s1600/Animais%2BFant%25C3%25A1sticos%2BOs%2BCrimes%2Bde%2BGrindelwald%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<fanart></fanart>
+<info> Em um esforço para frustrar os planos do terrível bruxo das trevas Gellert Grindelwald (Johnny Depp), Alvo Dumbledore (Jude Law) recruta seu ex-aluno Newt Scamander (Eddie Redmayne), que concorda em ajudar, desconhecendo os perigos que estão por vir. As linhas são desenhadas à medida que o amor e a lealdade são testados, mesmo entre os mais verdadeiros amigos e familiares, em um mundo bruxo cada vez mais dividido entre seres de magos sangue puro e seres não-mágicos. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YNskLKO_FzE</trailer>
+<thumbnail>https://2.bp.blogspot.com/-RwUJSEYBDXU/W--nMXsanFI/AAAAAAAAC6c/XeZrC62zoqggZv3OBrbKZ8zNY1h9m5CWgCLcBGAs/s1600/Animais%2BFant%25C3%25A1sticos%2BOs%2BCrimes%2Bde%2BGrindelwald%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<fanart></fanart>
+<info> Em um esforço para frustrar os planos do terrível bruxo das trevas Gellert Grindelwald (Johnny Depp), Alvo Dumbledore (Jude Law) recruta seu ex-aluno Newt Scamander (Eddie Redmayne), que concorda em ajudar, desconhecendo os perigos que estão por vir. As linhas são desenhadas à medida que o amor e a lealdade são testados, mesmo entre os mais verdadeiros amigos e familiares, em um mundo bruxo cada vez mais dividido entre seres de magos sangue puro e seres não-mágicos. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>O Último Desejo</name>
+<thumbnail>https://hidratorrent.com/capa/o-ultimo-desejo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>O Último Desejo</title>
+<link>magnet:?xt=urn:btih:9acef975a65dfd1f2ed3b4be3b804d127201e3e0&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20O%20Ultimo%20Desejo%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/o-ultimo-desejo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> O filme conta a história de um pai (Justin Bartha), que retorna à casa para enterrar seu pai com quem não mantêm contato, então encontra que o desejo final dele era ter suas cinzas espalhas no campo de seu tão amado time de futebol, o dono da propriedade (Bruce Greenwood) e flerta secretamente com a mulher de Ken, que é interpretada por Inbar Lavi.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ajPHIp-ZgfA</trailer>
+<thumbnail>https://hidratorrent.com/capa/o-ultimo-desejo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> O filme conta a história de um pai (Justin Bartha), que retorna à casa para enterrar seu pai com quem não mantêm contato, então encontra que o desejo final dele era ter suas cinzas espalhas no campo de seu tão amado time de futebol, o dono da propriedade (Bruce Greenwood) e flerta secretamente com a mulher de Ken, que é interpretada por Inbar Lavi.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Quem Você Levaria para uma Ilha Deserta? </name>
+<thumbnail>https://hidratorrent.com/capa/quem-voce-levaria-para-uma-ilha-deserta-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Quem Você Levaria para uma Ilha Deserta? </title>
+<link>magnet:?xt=urn:btih:E142E67B96D867AA8DFD1FA3EAC2674C2A008797&dn=Quem%20Voc%c3%aa%20Levaria%20para%20uma%20Ilha%20Deserta%202019%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/quem-voce-levaria-para-uma-ilha-deserta-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Na última noite juntos, as vidas de quatro colegas de apartamento de longa data mudam repentinamente quando um segredo é revelado durante uma celebração.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=m8cE7qHxv5g</trailer>
+<thumbnail>https://hidratorrent.com/capa/quem-voce-levaria-para-uma-ilha-deserta-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Na última noite juntos, as vidas de quatro colegas de apartamento de longa data mudam repentinamente quando um segredo é revelado durante uma celebração.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>O Silencio</name>
+<thumbnail>https://hidratorrent.com/capa/the-silence-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>O Silencio</title>
+<link>magnet:?xt=urn:btih:2335CA6B07278F3E919676744636A1D7B1C41B31&dn=%5bWWW.BLUDV.TV%5d%20The%20Silence%202019%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/the-silence-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Em um mundo pós-apocalíptico, uma família luta para sobreviver em um cenário completamente devastado por algum tipo de espécie desconhecida. Aprendendo a caçar para comer, eles contam apenas uns com os outros em um planeta onde agora quase ninguém é confiável. Enquanto a iminência de um desconhecido ataque final assola seus pensamentos, só lhes resta tentar entender as circunstâncias.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_YCnwLXOMAs</trailer>
+<thumbnail>https://hidratorrent.com/capa/the-silence-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Em um mundo pós-apocalíptico, uma família luta para sobreviver em um cenário completamente devastado por algum tipo de espécie desconhecida. Aprendendo a caçar para comer, eles contam apenas uns com os outros em um planeta onde agora quase ninguém é confiável. Enquanto a iminência de um desconhecido ataque final assola seus pensamentos, só lhes resta tentar entender as circunstâncias.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>O Duelo Final</name>
+<thumbnail>https://hidratorrent.com/capa/o-duelo-final-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>O Duelo Final</title>
+<link>magnet:?xt=urn:btih:1BE1408A7D8E0DA28EE14A018894407E1645FAED&dn=%5bWWW.BLUDV.TV%5d%20O%20Duelo%20Final%202019%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/o-duelo-final-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Rebecca (Amy Johnston) é uma lutadora aposentada. Quando sua irmã se envolve em um clube de luta feminina clandestina comandado por um maníaco, ela se vê obrigada a retornar ao mundo da luta para ajudar sua irmã a sobreviver. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=acOUJQ4OlrM</trailer>
+<thumbnail>https://hidratorrent.com/capa/o-duelo-final-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Rebecca (Amy Johnston) é uma lutadora aposentada. Quando sua irmã se envolve em um clube de luta feminina clandestina comandado por um maníaco, ela se vê obrigada a retornar ao mundo da luta para ajudar sua irmã a sobreviver. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>O Justiceiro - Estrada do Caos</name>
+<thumbnail>https://hidratorrent.com/capa/o-justiceiro-estrada-do-caos-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>O Justiceiro - Estrada do Caos</title>
+<link>magnet:?xt=urn:btih:2cdd8e725b5c8b04272a4a33d286a4b681b9894e&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20O%20Justiceiro%20Estrada%20do%20Caos%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/o-justiceiro-estrada-do-caos-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Num mundo pós-apocalíptico, um misterioso cavaleiro tem que lutar contra bandidos e concluir uma missão perigosa que testará sua fé.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BfLKtsHLVAI</trailer>
+<thumbnail>https://hidratorrent.com/capa/o-justiceiro-estrada-do-caos-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Num mundo pós-apocalíptico, um misterioso cavaleiro tem que lutar contra bandidos e concluir uma missão perigosa que testará sua fé.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>O Retorno de Mary Poppins</name>
+<thumbnail>https://hidratorrent.com/capa/o-retorno-de-mary-poppins-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>O Retorno de Mary Poppins</title>
+<link>magnet:?xt=urn:btih:FA5B23CB118A4B3587CC5E272D235D4CBA536F49&dn=%5bWWW.BLUDV.TV%5d%20O%20Retorno%20de%20Mary%20Poppins%202019%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/o-retorno-de-mary-poppins-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Numa Londres abalada pela Grande Depressão, Mary Poppins (Emily Blunt) desce dos céus novamente com seu fiel amigo Jack (Lin-Manuel Miranda) para ajudar Michael (Ben Whishaw) e Jane Banks (Emily Mortimer), agora adultos trabalhadores, que sofreram uma perda pessoal. As crianças Annabel (Pixie Davies), Georgie (Joel Dawson) e John (Nathanael Saleh) vivem com os pais na mesma casa de 24 anos atrás e precisam da babá enigmática e o acendedor de lampiões otimista para trazer alegria e magia de volta para suas vidas.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=doBT-eeWNHk</trailer>
+<thumbnail>https://hidratorrent.com/capa/o-retorno-de-mary-poppins-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Numa Londres abalada pela Grande Depressão, Mary Poppins (Emily Blunt) desce dos céus novamente com seu fiel amigo Jack (Lin-Manuel Miranda) para ajudar Michael (Ben Whishaw) e Jane Banks (Emily Mortimer), agora adultos trabalhadores, que sofreram uma perda pessoal. As crianças Annabel (Pixie Davies), Georgie (Joel Dawson) e John (Nathanael Saleh) vivem com os pais na mesma casa de 24 anos atrás e precisam da babá enigmática e o acendedor de lampiões otimista para trazer alegria e magia de volta para suas vidas.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Sim Eu Aceito</name>
+<thumbnail>https://hidratorrent.com/capa/sim-eu-aceito-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Sim Eu Aceito</title>
+<link>magnet:?xt=urn:btih:290507e3a130f557c6b54b7a310a27827a641d9c&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Sim%2c%20Eu%20Aceito%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/sim-eu-aceito-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A chocolatier Charlotte (Jen Lilley) abandonou o noivo James no altar duas vezes. Depois que ele desiste de tentar se casar com ela, Charlotte se dá conta de que precisa reconquistá-lo. Agora, ela terá que usar todas suas armas para conseguir uma terceira chance.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=c2OFh3ghUiM</trailer>
+<thumbnail>https://hidratorrent.com/capa/sim-eu-aceito-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A chocolatier Charlotte (Jen Lilley) abandonou o noivo James no altar duas vezes. Depois que ele desiste de tentar se casar com ela, Charlotte se dá conta de que precisa reconquistá-lo. Agora, ela terá que usar todas suas armas para conseguir uma terceira chance.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Eu Sou Mais Eu [NAC/DVD]</name>
+<thumbnail>https://hidratorrent.com/capa/eu-sou-mais-eu-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Eu Sou Mais Eu [NAC/DVD]</title>
+<link>magnet:?xt=urn:btih:8eafb0a981a3bdf5a314d67b2af6d6f092316dd8&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Eu%20Sou%20Mais%20Eu%2020198%20%5bDVDRip%5d%20%5bNACIONAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/eu-sou-mais-eu-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Camila Mendes (Kéfera Buchmann) é uma pop star solitária, cansada da rotina de uma grande estrela, que consegue viajar no tempo e retornar ao passado para compreender melhor sua essência. Lá ela reencontra Cabelo (João Côrtes), um colega de colégio que também é músico, só que nem um pouco popular.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LhpJ4tNJ59M</trailer>
+<thumbnail>https://hidratorrent.com/capa/eu-sou-mais-eu-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Camila Mendes (Kéfera Buchmann) é uma pop star solitária, cansada da rotina de uma grande estrela, que consegue viajar no tempo e retornar ao passado para compreender melhor sua essência. Lá ela reencontra Cabelo (João Côrtes), um colega de colégio que também é músico, só que nem um pouco popular.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Marjorie Prime</name>
+<thumbnail>https://hidratorrent.com/capa/marjorie-prime-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Marjorie Prime</title>
+<link>magnet:?xt=urn:btih:EC377962DC795C3F8FA9D8323D6E2932E5DBA5DA&dn=%7bWWW.BLUDV.TV%7d%20Marjorie%20Prime%202018%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/marjorie-prime-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Em um futuro próximo - um tempo de inteligência artificial - Marjorie (Lois Smith), de 86 anos, tem um novo companheiro bonito que se parece com seu marido falecido e está programado para alimentar a história de sua vida de volta para ela. O que nós lembraríamos, e o que nós esqueceríamos, se nos fosse dada a chance?</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_sBFbda7H4k</trailer>
+<thumbnail>https://hidratorrent.com/capa/marjorie-prime-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Em um futuro próximo - um tempo de inteligência artificial - Marjorie (Lois Smith), de 86 anos, tem um novo companheiro bonito que se parece com seu marido falecido e está programado para alimentar a história de sua vida de volta para ela. O que nós lembraríamos, e o que nós esqueceríamos, se nos fosse dada a chance?</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Boy Erased - Uma Verdade Anulada</name>
+<thumbnail>https://hidratorrent.com/capa/boy-erased-uma-verdade-anulada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Boy Erased - Uma Verdade Anulada</title>
+<link>magnet:?xt=urn:btih:A689FECB223A776DC4B1C38BDC339731C21C5808&dn=%5bWWW.BLUDV.TV%5d%20Boy%20Erased%20-%20Uma%20Verdade%20Anulada%202019%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/boy-erased-uma-verdade-anulada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>O jovem Jared (Lucas Hedges) de apenas 19 anos mora numa pequena cidade conservadora do Arkansas. Ele é gay e filho de um pastor da igreja batista. Chega um momento em que ele é confrontado pela família, ou arrisca perder sua família e amigos ou entra num programa de terapia que busca a "cura" da homossexualidade. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-B71eyB_Onw</trailer>
+<thumbnail>https://hidratorrent.com/capa/boy-erased-uma-verdade-anulada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>O jovem Jared (Lucas Hedges) de apenas 19 anos mora numa pequena cidade conservadora do Arkansas. Ele é gay e filho de um pastor da igreja batista. Chega um momento em que ele é confrontado pela família, ou arrisca perder sua família e amigos ou entra num programa de terapia que busca a "cura" da homossexualidade. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>O Homem Perfeito [NAC]</name>
+<thumbnail>https://hidratorrent.com/capa/o-homem-perfeito-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>O Homem Perfeito [NAC]</title>
+<link>magnet:?xt=urn:btih:1E9B35937FA6A23851EABB729862A3F352FFA5C9&dn=O.Homem.Perfeito.2019.1080p.WEB-DL.x264.NACIONAL-WWW.BLUDV.TV.mkv</link>
+<thumbnail>https://hidratorrent.com/capa/o-homem-perfeito-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Diana (Luana Piovani), de 42 anos, é uma mulher com uma carreira de escritora de sucesso, culta e que mantém um bom casamento com seu marido (Marco Luque). Até descobrir que ele está lhe traindo com uma aspirante a bailarina de 23 anos (Juliana Paiva).</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_EIwjNv61yE</trailer>
+<thumbnail>https://hidratorrent.com/capa/o-homem-perfeito-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Diana (Luana Piovani), de 42 anos, é uma mulher com uma carreira de escritora de sucesso, culta e que mantém um bom casamento com seu marido (Marco Luque). Até descobrir que ele está lhe traindo com uma aspirante a bailarina de 23 anos (Juliana Paiva).</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Status Update - Perfil dos Sonhos</name>
+<thumbnail>https://hidratorrent.com/capa/status-update-perfil-dos-sonhos-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Status Update - Perfil dos Sonhos</title>
+<link>magnet:?xt=urn:btih:3bff4f765ed2dd90502b65515d53ff053e86695c&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Status%20Update%20%e2%80%93%20Perfil%20dos%20Sonhos%202019%20%5b720p%5d%20%5bBluRay%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/status-update-perfil-dos-sonhos-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Ross Lynch interpreta Kyle Moore, um adolescente que depois de ser arrancado pela separação de seus pais e incapaz de se adaptar à sua nova cidade natal, se depara com um aplicativo mágico que faz com que suas atualizações nas redes sociais se tornem realidade.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IMO37lO5X9w</trailer>
+<thumbnail>https://hidratorrent.com/capa/status-update-perfil-dos-sonhos-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Ross Lynch interpreta Kyle Moore, um adolescente que depois de ser arrancado pela separação de seus pais e incapaz de se adaptar à sua nova cidade natal, se depara com um aplicativo mágico que faz com que suas atualizações nas redes sociais se tornem realidade.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Holmes e Watson</name>
+<thumbnail>https://hidratorrent.com/capa/holmes-e-watson-legendado-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Holmes e Watson</title>
+<link>magnet:?xt=urn:btih:1de4fb4f2130079fca8f963f09ba98b5c28dbba6&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Holmes%20e%20Watson%202019%20%5b1080p%5d%20%5bBluRay%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/holmes-e-watson-legendado-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Um olhar cômico sobre as aventuras e mistérios revelados pela dupla Sherlock Holmes e Watson. Sherlock Holmes (Will Ferrell) e seu fiel parceiro Watson (John C.Reilly) precisam impedir o maior dos planos malignos de Moriarty (Ralph Fiennes): assassinar a rainha da Inglaterra.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=brjkpRBpFnc</trailer>
+<thumbnail>https://hidratorrent.com/capa/holmes-e-watson-legendado-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Um olhar cômico sobre as aventuras e mistérios revelados pela dupla Sherlock Holmes e Watson. Sherlock Holmes (Will Ferrell) e seu fiel parceiro Watson (John C.Reilly) precisam impedir o maior dos planos malignos de Moriarty (Ralph Fiennes): assassinar a rainha da Inglaterra.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Loja de Unicórnios</name>
+<thumbnail>https://hidratorrent.com/capa/loja-de-unicornios-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Loja de Unicórnios</title>
+<link>magnet:?xt=urn:btih:b0cb2d0408a34c722a429728212df92617ecea00&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Loja%20de%20Unic%c3%b3rnios%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/loja-de-unicornios-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma jovem falida retorna à casa dos pais e imediatamente recebe um misterioso convite para comparecer à Unicorn Store, uma loja que a levará em uma jornada para descobrir o que significa amadurecer de verdade.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=r_51UsTDBAE</trailer>
+<thumbnail>https://hidratorrent.com/capa/loja-de-unicornios-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma jovem falida retorna à casa dos pais e imediatamente recebe um misterioso convite para comparecer à Unicorn Store, uma loja que a levará em uma jornada para descobrir o que significa amadurecer de verdade.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Tito e os Pássaros</name>
+<thumbnail>https://hidratorrent.com/capa/tito-e-os-passaros-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Tito e os Pássaros</title>
+<link>magnet:?xt=urn:btih:667ef8c8d4db36553505145180be25f31a64dee8&dn=Tito.e.os.Passaros.2018.720p.WEB-DL.DD2.0.H264-LAPUMiA&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a85%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/tito-e-os-passaros-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>'Tito e os Pássaros' é um filme sobre um garoto e sua jornada para salvar o mundo do “surto”, uma epidemia de medo que faz com que as pessoas fiquem doentes quando são assustadas improvisadamente. Tito é um menino tímido de 10 anos vivendo uma vida normal (passando tempo com seus dois melhores amigos, tendo dificuldades com os garotos populares da escola e com sua mãe neurótica em casa). Após o início do surto, Tito resolve partir em busca de seu antídoto. Ele descobre que a cura está de alguma forma relacionada à pesquisa de seu pai sobre o canto dos pássaros. Seu pai é um inventor que saiu de casa quando ele tinha 6 anos de idade.Usando uma técnica de recortes combinados com o trabalho do computador 2D, a produção está programada para começar em outubro de 2017, enquanto a pós-produção vai terminar em março de 2018.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oRn7-NVmO48</trailer>
+<thumbnail>https://hidratorrent.com/capa/tito-e-os-passaros-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>'Tito e os Pássaros' é um filme sobre um garoto e sua jornada para salvar o mundo do “surto”, uma epidemia de medo que faz com que as pessoas fiquem doentes quando são assustadas improvisadamente. Tito é um menino tímido de 10 anos vivendo uma vida normal (passando tempo com seus dois melhores amigos, tendo dificuldades com os garotos populares da escola e com sua mãe neurótica em casa). Após o início do surto, Tito resolve partir em busca de seu antídoto. Ele descobre que a cura está de alguma forma relacionada à pesquisa de seu pai sobre o canto dos pássaros. Seu pai é um inventor que saiu de casa quando ele tinha 6 anos de idade.Usando uma técnica de recortes combinados com o trabalho do computador 2D, a produção está programada para começar em outubro de 2017, enquanto a pós-produção vai terminar em março de 2018.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Guerra contra Aliens</name>
+<thumbnail>https://hidratorrent.com/capa/guerra-contra-aliens-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Guerra contra Aliens</title>
+<link>magnet:?xt=urn:btih:0b0e0e05f4eb96f329cec64989199d6e923d72fb&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Guerra%20contra%20Aliens%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/guerra-contra-aliens-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Com a missão de investigar o misterioso desaparecimento de cientistas, militares americanos descobrem uma nova e terrível forma de vida. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AjWfY7SnMBI</trailer>
+<thumbnail>https://hidratorrent.com/capa/guerra-contra-aliens-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Com a missão de investigar o misterioso desaparecimento de cientistas, militares americanos descobrem uma nova e terrível forma de vida. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>A Babá - The Nanny </name>
+<thumbnail>https://hidratorrent.com/capa/a-baba-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>A Babá - The Nanny </title>
+<link>magnet:?xt=urn:btih:ee99cd73bab6855c75d15a0ab64fb945c8c16494&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20A%20Bab%c3%a1%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/a-baba-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma jovem, Noa, suspeita que sua nova babá não é deste mundo. Noa luta para revelar a identidade da babá, que é mais distorcida do que ela imaginava nesse conto sombrio de fantasia. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SYaGo6SGLqM</trailer>
+<thumbnail>https://hidratorrent.com/capa/a-baba-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Uma jovem, Noa, suspeita que sua nova babá não é deste mundo. Noa luta para revelar a identidade da babá, que é mais distorcida do que ela imaginava nesse conto sombrio de fantasia. </info>
+</item>
+</channel>
+
+
+<channels></channels>
+<channel>
+<name>Casa das Trevas 2</name>
+<thumbnail>https://hidratorrent.com/capa/casa-das-trevas-2-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Casa das Trevas 2</title>
+<link>magnet:?xt=urn:btih:9782D24F5DB69DFF7B7B39C0D0E0BC93DE707D5E&dn=Casa%20das%20Trevas%202%202019%20%281080p%29%20LAPUMiA&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a85%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/casa-das-trevas-2-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Cinco anos após o desaparecimento de seu marido, Brooke (Kate Stone, A Ilha do Mal) está seguindo em frente com seu novo amor, Judd (Liam McNeill, Manchester à Beira-mar), e seu filho Dylan (Jake Getman, A Girl Named Jo). A vida parece perfeita até a famila passar o verão com a mãe doente de Judd em sua macabra fazenda, na remota comunidade de Red Creek. Lá, Brooke testemunhará acontecimentos que a farão questionar a própria realidade. Agora, ela precisa desvendar a verdade para salvar sua família.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=twR1NvTfdI4</trailer>
+<thumbnail>https://hidratorrent.com/capa/casa-das-trevas-2-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Cinco anos após o desaparecimento de seu marido, Brooke (Kate Stone, A Ilha do Mal) está seguindo em frente com seu novo amor, Judd (Liam McNeill, Manchester à Beira-mar), e seu filho Dylan (Jake Getman, A Girl Named Jo). A vida parece perfeita até a famila passar o verão com a mãe doente de Judd em sua macabra fazenda, na remota comunidade de Red Creek. Lá, Brooke testemunhará acontecimentos que a farão questionar a própria realidade. Agora, ela precisa desvendar a verdade para salvar sua família.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Ser Tão Velho Cerrado [NAC]</name>
+<thumbnail>https://hidratorrent.com/capa/ser-tao-velho-cerrado-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Ser Tão Velho Cerrado [NAC]</title>
+<link>magnet:?xt=urn:btih:f512f06c0db60ebb6091735af78f43e8909c8104&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Ser%20T%c3%a3o%20Velho%20Cerrado%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bNACIONAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/ser-tao-velho-cerrado-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Preocupados com o fim do Cerrado no estado de Goiás, os moradores da Chapada dos Veadeiros buscam alternativas de desenvolvimento para sua região. A elaboração de um plano de manejo os desafia a conciliar interesses aparentemente incompatíveis, abrindo um diálogo necessário entre a comunidade científica, agricultores familiares, grandes proprietários de terra e defensores do meio ambiente.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YxeI7Dyqr3E</trailer>
+<thumbnail>https://hidratorrent.com/capa/ser-tao-velho-cerrado-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Preocupados com o fim do Cerrado no estado de Goiás, os moradores da Chapada dos Veadeiros buscam alternativas de desenvolvimento para sua região. A elaboração de um plano de manejo os desafia a conciliar interesses aparentemente incompatíveis, abrindo um diálogo necessário entre a comunidade científica, agricultores familiares, grandes proprietários de terra e defensores do meio ambiente.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>1964 - O Brasil entre armas e livros [NAC]</name>
+<thumbnail>https://hidratorrent.com/capa/1964-o-brasil-entre-armas-e-livros-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>1964 - O Brasil entre armas e livros [NAC]</title>
+<link>magnet:?xt=urn:btih:F80A4CAFA03A119EBBD6B39B6B7EA289B40E9FD7&dn=1964%20-%20O%20Brasil%20entre%20armas%20e%20livros%201080p.mkv</link>
+<thumbnail>https://hidratorrent.com/capa/1964-o-brasil-entre-armas-e-livros-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Produzido pelo Brasil Paralelo, este é o maior documentário já produzido no país sobre o período do Regime Militar brasileiro. A equipe viajou até o Leste Europeu para buscar nos documentos, até então, secretos, do serviço de inteligência da extinta Tchecoslováquia os fatos que nos esconderam. Pela primeira vez eles irão ao público em forma de documentário.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2IIfJktM85o</trailer>
+<thumbnail>https://hidratorrent.com/capa/1964-o-brasil-entre-armas-e-livros-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Produzido pelo Brasil Paralelo, este é o maior documentário já produzido no país sobre o período do Regime Militar brasileiro. A equipe viajou até o Leste Europeu para buscar nos documentos, até então, secretos, do serviço de inteligência da extinta Tchecoslováquia os fatos que nos esconderam. Pela primeira vez eles irão ao público em forma de documentário.</info>
+</item>
+</channel>
+
+
+<channels></channels>
+<channel>
+<name>Máquinas Mortais</name>
+<thumbnail>https://hidratorrent.com/capa/maquinas-mortais-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Máquinas Mortais</title>
+<link>magnet:?xt=urn:btih:4151edfe03d02a7e51e22ebb30464bc37dcc74f0&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20M%c3%a1quinas%20Mortais%202019%20%5b1080p%5d%20%5bBluRay%5d%20%5bDUAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/maquinas-mortais-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Anos depois da "Guerra dos Sessenta Minutos", a Terra está destruída e para sobreviver as cidades se movem em rodas gigantes, conhecidas como Cidades Tração, lutando com outras para conseguir mais recursos naturais. Quando Londres se envolve em um ataque, Tom (Robert Sheehan) é lançado para fora da cidade junto com uma fora-da-lei (Hera Hilmar) e os dois juntos precisam lutar para sobreviver e ainda enfrentar uma ameaça que coloca a vida no planeta em risco.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SkpjIHxT0ys</trailer>
+<thumbnail>https://hidratorrent.com/capa/maquinas-mortais-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Anos depois da "Guerra dos Sessenta Minutos", a Terra está destruída e para sobreviver as cidades se movem em rodas gigantes, conhecidas como Cidades Tração, lutando com outras para conseguir mais recursos naturais. Quando Londres se envolve em um ataque, Tom (Robert Sheehan) é lançado para fora da cidade junto com uma fora-da-lei (Hera Hilmar) e os dois juntos precisam lutar para sobreviver e ainda enfrentar uma ameaça que coloca a vida no planeta em risco.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>A Lenda da Ilha do Pó</name>
+<thumbnail>https://hidratorrent.com/capa/a-lenda-da-ilha-do-po-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>A Lenda da Ilha do Pó</title>
+<link>magnet:?xt=urn:btih:1b38c87c59eeafdb3ed4487992d312ff39bfa58c&dn=%5b%5d%20A%20Lenda%20da%20Ilha%20do%20P%C3%B3%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/a-lenda-da-ilha-do-po-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Embalado pelos boatos sobre uma mala de cocaína enterrada no Caribe, um grupo de desajustados sai à procura da droga.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kK3c1zXnQgU</trailer>
+<thumbnail>https://hidratorrent.com/capa/a-lenda-da-ilha-do-po-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Embalado pelos boatos sobre uma mala de cocaína enterrada no Caribe, um grupo de desajustados sai à procura da droga.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>A Caminho de Casa</name>
+<thumbnail>https://hidratorrent.com/capa/a-caminho-de-casa-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>A Caminho de Casa</title>
+<link>magnet:?xt=urn:btih:4AE0833771480FA8B894F26EF6FDB0EBCBAEBC68&dn=%5bWWW.BLUDV.TV%5d%20A%20Caminho%20de%20Casa%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/a-caminho-de-casa-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Bella é uma cadela que embarcou numa jornada épica de 400 milhas depois que a separaram de seu amado humano, Lucas, um estudante de medicina e voluntário no hospital para veteranos. Bella toca a vida de muitos durante sua busca inabalável trazendo alegria e conforto a todos que ela conhece com seu espírito e fé. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1pKdCHvH310</trailer>
+<thumbnail>https://hidratorrent.com/capa/a-caminho-de-casa-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Bella é uma cadela que embarcou numa jornada épica de 400 milhas depois que a separaram de seu amado humano, Lucas, um estudante de medicina e voluntário no hospital para veteranos. Bella toca a vida de muitos durante sua busca inabalável trazendo alegria e conforto a todos que ela conhece com seu espírito e fé. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Estrada Sem Lei</name>
+<thumbnail>https://hidratorrent.com/capa/estrada-sem-lei-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Estrada Sem Lei</title>
+<link>magnet:?xt=urn:btih:8b64d2fa7bf5d9a25a491123e6c207239f8ca3c5&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Estrada%20Sem%20Lei%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/estrada-sem-lei-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Uma dupla de policiais deixam a aposentadoria para caçar os bandidos infames Bonnie & Clyde.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=https://www.youtube.com/watch?v=aH6vC-BBKOc</trailer>
+<thumbnail>https://hidratorrent.com/capa/estrada-sem-lei-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Uma dupla de policiais deixam a aposentadoria para caçar os bandidos infames Bonnie & Clyde.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Bayoneta</name>
+<thumbnail>https://hidratorrent.com/capa/bayoneta-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Bayoneta</title>
+<link>magnet:?xt=urn:btih:13f8c1255972b241dc38548fa5d888abdba180cb&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Bayoneta%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/bayoneta-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A história de um boxeador que é exilado na Finlândia, onde tenta reencontrar sua vida em um ambiente hostil. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=19iR-oS_ios</trailer>
+<thumbnail>https://hidratorrent.com/capa/bayoneta-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A história de um boxeador que é exilado na Finlândia, onde tenta reencontrar sua vida em um ambiente hostil. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Direção Explosiva</name>
+<thumbnail>https://hidratorrent.com/capa/direcao-explosiva-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Direção Explosiva</title>
+<link>magnet:?xt=urn:btih:ED6C5B814882D170E5A2F8D57D2BF75FE10425AC&dn=Dire%c3%a7%c3%a3o%20Explosiva%202019%20%281080p%29%20LAPUMiA&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/direcao-explosiva-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Pronto para levar os filhos para a escola, Karl recebe uma ligação anônima anunciando que tem uma bomba sob o assento do carro e agora ele tem apenas algumas horas para levantar uma grande quantia de dinheiro. Se falhar, a bomba explodirá.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1RYQp1BVQPI</trailer>
+<thumbnail>https://hidratorrent.com/capa/direcao-explosiva-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Pronto para levar os filhos para a escola, Karl recebe uma ligação anônima anunciando que tem uma bomba sob o assento do carro e agora ele tem apenas algumas horas para levantar uma grande quantia de dinheiro. Se falhar, a bomba explodirá.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Minha Vida em Marte</name>
+<thumbnail>https://hidratorrent.com/capa/minha-vida-em-marte-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Minha Vida em Marte</title>
+<link>magnet:?xt=urn:btih:e20de400a9963dfb4ab86fbed96f511da89dfc02&dn=%7bWWW.BLUDV.TV%7d%20Minha%20Vida%20em%20Marte%202018%20(720p)%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/minha-vida-em-marte-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A luta diária pelo amor da empresária Fernanda, interpretada por Mônica Martelli, poderá ser acompanhada no filme "Minha Vida em Marte". A atriz, ao lado de Paulo Gustavo, o inseparável amigo Aníbal, vai mostrar nas telonas que a sua protagonista viverá algumas aventuras para salvar o casamento.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=X9h0iduJ0BA</trailer>
+<thumbnail>https://hidratorrent.com/capa/minha-vida-em-marte-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A luta diária pelo amor da empresária Fernanda, interpretada por Mônica Martelli, poderá ser acompanhada no filme "Minha Vida em Marte". A atriz, ao lado de Paulo Gustavo, o inseparável amigo Aníbal, vai mostrar nas telonas que a sua protagonista viverá algumas aventuras para salvar o casamento.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Bia (2.0) NAC</name>
+<thumbnail>https://hidratorrent.com/capa/bia-20-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Bia (2.0) NAC</title>
+<link>magnet:?xt=urn:btih:e949928ac0960fc87ef6832328c657d28294f90c&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Bia%20(2.0)%202019%20%5b720p%5d%20%5bWEB-DL%5d%20%5bFULL%5d%20%5bNACIONAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/bia-20-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Beatriz, uma jovem de 18 anos, tenta retomar sua vida e sair da fossa após flagrar seu namorado com outra garota. Trabalhando na floricultura de sua mãe, passa seus dias na companhia da gótica Naty e do espalhafatoso Fabiba, e toma coragem para entrar em uma trupe de palhaços amadores que fazem trabalho voluntário. Junto com os Atrupelhados, Bia descobre sua palhaça interior, Tutu, e se apaixona por Daniel, estudante de cinema que vive o palhaço mudo Abraço. Uma viagem colocará esse relacionamento à prova: Bia terá que escolher entre seu sonho de estudar canto na Europa ou ficar com Dan, que está cuidando do pai com câncer de pulmão em estágio avançado. Será que Bia irá desistir de seus planos e desejos por um novo amor? </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ealsf2kp4zU</trailer>
+<thumbnail>https://hidratorrent.com/capa/bia-20-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Beatriz, uma jovem de 18 anos, tenta retomar sua vida e sair da fossa após flagrar seu namorado com outra garota. Trabalhando na floricultura de sua mãe, passa seus dias na companhia da gótica Naty e do espalhafatoso Fabiba, e toma coragem para entrar em uma trupe de palhaços amadores que fazem trabalho voluntário. Junto com os Atrupelhados, Bia descobre sua palhaça interior, Tutu, e se apaixona por Daniel, estudante de cinema que vive o palhaço mudo Abraço. Uma viagem colocará esse relacionamento à prova: Bia terá que escolher entre seu sonho de estudar canto na Europa ou ficar com Dan, que está cuidando do pai com câncer de pulmão em estágio avançado. Será que Bia irá desistir de seus planos e desejos por um novo amor? </info>
+</item>
+</channel>
+
+
+<channels></channels>
+<channel>
+<name>Quarto de Guerra</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTYyNTUxMjQwNF5BMl5BanBnXkFtZTgwNDY5MDIwNTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+
+<item>
+<title>Quarto de Guerra</title>
+<link>magnet:?xt=urn:btih:e7e5d882a42245985d6c6df6eaea9f63093a711b&dn=Quarto+de+Guerra+%5B1080p%5D+BLUDV</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTYyNTUxMjQwNF5BMl5BanBnXkFtZTgwNDY5MDIwNTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info>Elizabeth (Priscilla Evans Shirer) e Tony (T.C. Stallings) formam um casal em crise de relacionamento. A filha pequena percebe que ambos estão à beira do divórcio, mas eles não conseguem chegar a um acordo. Um dia, Elizabeth conhece uma mulher idosa que lhe apresenta o poder da oração e, a partir deste momento, a jovem mãe decide depositar a sua fé nas preces divinas.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MsNmagELjpQ</trailer>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTYyNTUxMjQwNF5BMl5BanBnXkFtZTgwNDY5MDIwNTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info>Elizabeth (Priscilla Evans Shirer) e Tony (T.C. Stallings) formam um casal em crise de relacionamento. A filha pequena percebe que ambos estão à beira do divórcio, mas eles não conseguem chegar a um acordo. Um dia, Elizabeth conhece uma mulher idosa que lhe apresenta o poder da oração e, a partir deste momento, a jovem mãe decide depositar a sua fé nas preces divinas.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>O Encontro Perfeito [DVD]</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODQ0ODYxODAyOV5BMl5BanBnXkFtZTcwOTA2NTAzMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+
+<item>
+<title>O Encontro Perfeito [DVD]</title>
+<link>magnet:?xt=urn:btih:5618B11BDD32A7223BB44F950B8DEF301789D4A0&dn=O%20Encontro%20Perfeito%20DVDRip%20Dublado&tr=http%3a%2f%2fdenis.stalker.h3q.com%2fannounce&tr=http%3a%2f%2fdenis.stalker.h3q.com%3a80%2fannounce&tr=http%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fnemesis.1337x.org%2fannounce&tr=http%3a%2f%2fpubt.net%3a2710%2fannounce&tr=http%3a%2f%2ftracker.bittorrent.am%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2f10.rarbg.com%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2fbt.rghost.net%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2ffr33domtracker.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpow7.com%3a80%2fannounce&tr=udp%3a%2f%2ftpb.tracker.prq.to%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.ilibr.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.pow7.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publichd.eu%2fannounce&tr=udp%3a%2f%2fwww.h33t.com%3a3310%2fannounce</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODQ0ODYxODAyOV5BMl5BanBnXkFtZTcwOTA2NTAzMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info>Nikki Cominsky (Pamela Brumley) é uma advogada bem-sucedida que enfrenta um verdadeiro desafio quando o assunto é família. Certo dia, um convite misterioso é deixado em seu escritório com a seguinte mensagem: “Você está convidada para um jantar com Jesus Cristo”. Certa de que se trata de uma brincadeira, Nikki comparece ao encontro. Entretanto, em meio a uma noite tumultuada, o jantar é cheio de debates e revelações, e ela percebe que acabara de conhecer uma pessoa inesquecível, que jamais tinha visto em sua vida.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IgHRGHpHxfA</trailer>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BODQ0ODYxODAyOV5BMl5BanBnXkFtZTcwOTA2NTAzMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+<info>Nikki Cominsky (Pamela Brumley) é uma advogada bem-sucedida que enfrenta um verdadeiro desafio quando o assunto é família. Certo dia, um convite misterioso é deixado em seu escritório com a seguinte mensagem: “Você está convidada para um jantar com Jesus Cristo”. Certa de que se trata de uma brincadeira, Nikki comparece ao encontro. Entretanto, em meio a uma noite tumultuada, o jantar é cheio de debates e revelações, e ela percebe que acabara de conhecer uma pessoa inesquecível, que jamais tinha visto em sua vida.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Sereias - Elas Existem!</name>
+<thumbnail>https://hidratorrent.com/capa/sereias-elas-existem-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Sereias - Elas Existem!</title>
+<link>magnet:?xt=urn:btih:a2899e06ff6c67c92c2173e33cc028dcdb5ce59c&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Sereias%20Elas%20Existem!%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/sereias-elas-existem-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A história gira em torno de uma garota chamada Siren Philips que, ao completar 12 anos, vê a sua vida mudar completamente ao descobrir que, na verdade, é filha de uma sereia chamada Emerald. Para piorar a situação, Siren vira alvo de caçadores mal intencionados e conta com a ajuda de seu amigo Adam para escapar. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6fw_YhjdbmY</trailer>
+<thumbnail>https://hidratorrent.com/capa/sereias-elas-existem-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A história gira em torno de uma garota chamada Siren Philips que, ao completar 12 anos, vê a sua vida mudar completamente ao descobrir que, na verdade, é filha de uma sereia chamada Emerald. Para piorar a situação, Siren vira alvo de caçadores mal intencionados e conta com a ajuda de seu amigo Adam para escapar. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Não Se Aceitam Devoluções [NAC]</name>
+<thumbnail>https://hidratorrent.com/capa/nao-se-aceitam-devolucoes-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Não Se Aceitam Devoluções [NAC]</title>
+<link>magnet:?xt=urn:btih:41b18a85cb6073de10db503ed29644fd200728d8&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20N%c3%a3o%20Se%20Aceitam%20Devolu%c3%a7%c3%b5es%202019%20%5b1080p%5d%20%5bFULL%5d%20%5bWEB-DL%5d%20%5bNACIONAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/nao-se-aceitam-devolucoes-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Juca Valente é um sedutor descompromissado. Um dia, Brenda, sua ex-namorada americana, abandona a pequena Emma, ainda bebê, com ele. Desesperado, Juca viaja para os Estados Unidos atrás de Brenda com a esperança de lhe devolver a criança. Seu plano não dá certo e ele fica por lá, trabalhando como dublê. Quando a menina faz seis anos, a mãe reaparece para pedir a guarda da criança. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mekjCq7wzEE</trailer>
+<thumbnail>https://hidratorrent.com/capa/nao-se-aceitam-devolucoes-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Juca Valente é um sedutor descompromissado. Um dia, Brenda, sua ex-namorada americana, abandona a pequena Emma, ainda bebê, com ele. Desesperado, Juca viaja para os Estados Unidos atrás de Brenda com a esperança de lhe devolver a criança. Seu plano não dá certo e ele fica por lá, trabalhando como dublê. Quando a menina faz seis anos, a mãe reaparece para pedir a guarda da criança. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Durante a Tormenta</name>
+<thumbnail>https://hidratorrent.com/capa/durante-a-tormenta-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Durante a Tormenta</title>
+<link>magnet:?xt=urn:btih:4a7525eace1a108aa7d6610447e6b1fd67907a9f&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Durante%20a%20Tormenta%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/durante-a-tormenta-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A interferência entre dois planos paralelos, 1989 e o presente, faz com que Vera, uma mãe feliz e casada, salve a vida de um menino que viveu a 25 anos atrás. Mas as consequências de sua boa ação provocam uma reação em cadeia que a faz acordar em uma nova realidade, onde sua filha nunca nasceu.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aGE2Q_l_t7I</trailer>
+<thumbnail>https://hidratorrent.com/capa/durante-a-tormenta-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>A interferência entre dois planos paralelos, 1989 e o presente, faz com que Vera, uma mãe feliz e casada, salve a vida de um menino que viveu a 25 anos atrás. Mas as consequências de sua boa ação provocam uma reação em cadeia que a faz acordar em uma nova realidade, onde sua filha nunca nasceu.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>O Outro Lado do Lago</name>
+<thumbnail>https://hidratorrent.com/capa/o-outro-lado-do-lago-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>O Outro Lado do Lago</title>
+<link>magnet:?xt=urn:btih:58dd6a576d956b46a39373f4a9ae96a00c9c527a&dn=O%20Outro%20Lado%20do%20Lago%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<thumbnail>https://hidratorrent.com/capa/o-outro-lado-do-lago-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Harry e Rose partem para um fim de semana no campo na tentativa de salvar o relacionamento já desgastado. Ao chegarem lá, atravessam o lago em uma canoa e chegam à cabana dos pais de Harry. Depois de uma conversa, fazem as pazes e aproveitam o que parecia ser uma noite bonita e tranquila. No meio da madrugada, contudo, a cabana é invadida e eles começam a ser perseguidos por alguém que quer matá-los a qualquer custo. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jWhuWxiJOuY</trailer>
+<thumbnail>https://hidratorrent.com/capa/o-outro-lado-do-lago-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Harry e Rose partem para um fim de semana no campo na tentativa de salvar o relacionamento já desgastado. Ao chegarem lá, atravessam o lago em uma canoa e chegam à cabana dos pais de Harry. Depois de uma conversa, fazem as pazes e aproveitam o que parecia ser uma noite bonita e tranquila. No meio da madrugada, contudo, a cabana é invadida e eles começam a ser perseguidos por alguém que quer matá-los a qualquer custo. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Homem-Aranha No Aranhaverso</name>
+<thumbnail>https://hidratorrent.com/capa/homem-aranha-no-aranhaverso-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Homem-Aranha No Aranhaverso</title>
+<link>magnet:?xt=urn:btih:B734D064A603251A84503BDC054BA60E9952824D&dn=%5bWWW.BLUDV.TV%5d%20Homem-Aranha%20no%20Aranhaverso%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/homem-aranha-no-aranhaverso-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Miles Morales é um jovem negro do Brooklyn que se tornou o Homem-Aranha inspirado no legado de Peter Parker, já falecido. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói aracnídeo sob um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras versões do Homem-Aranha. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SS6ABPkfmBE</trailer>
+<thumbnail>https://hidratorrent.com/capa/homem-aranha-no-aranhaverso-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Miles Morales é um jovem negro do Brooklyn que se tornou o Homem-Aranha inspirado no legado de Peter Parker, já falecido. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói aracnídeo sob um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras versões do Homem-Aranha. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Dia de Casamento 4 [DUB]</name>
+<thumbnail>https://hidratorrent.com/capa/dia-de-casamento-4-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Dia de Casamento 4 [DUB]</title>
+<link>magnet:?xt=urn:btih:d549521b59824354904d5b1bc281a91a8b3e5a05&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Dia%20de%20Casamento%204%202019%20%5b720p%5d%20%5bHDTV%5d%20%5bDUAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/dia-de-casamento-4-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Com um casamento para planejar, uma festa de noivado para lançar, e uma pousada cheia de convidados surpresa, o caminho para o verdadeiro amor de Olivia e Mick tomam algumas reviravoltas inesperadas. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VgZU6H4GsGQ</trailer>
+<thumbnail>https://hidratorrent.com/capa/dia-de-casamento-4-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Com um casamento para planejar, uma festa de noivado para lançar, e uma pousada cheia de convidados surpresa, o caminho para o verdadeiro amor de Olivia e Mick tomam algumas reviravoltas inesperadas. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Operação Fronteira - Triple Frontier</name>
+<thumbnail>https://hidratorrent.com/capa/operacao-fronteira-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Operação Fronteira - Triple Frontier</title>
+<link>magnet:?xt=urn:btih:b3526b0d319ff3f73aeb19a237fd32e2ef5057db&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Opera%c3%a7%c3%a3o%20Fronteira%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/operacao-fronteira-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Tom Davis (Ben Affleck), Santiago Garcia (Oscar Isaac), Francisco Morales (Pedro Pascal), William Miller (Charlie Hunnam) e Ben Miller (Garrett Hedlund) são cinco ex-soldados das Forças Especiais dos Estados Unidos que decidem se reunir para executar um plano arriscado: roubar um poderoso senhor do crime na fronteria que separa o Brasil da Argentina e do Paraguai. No entanto, quando o esquema dá errado, os antigos companheiros de batalha se verão forçados a embarcar em uma épica luta por suas vidas. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3POcPEtxhAU</trailer>
+<thumbnail>https://hidratorrent.com/capa/operacao-fronteira-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Tom Davis (Ben Affleck), Santiago Garcia (Oscar Isaac), Francisco Morales (Pedro Pascal), William Miller (Charlie Hunnam) e Ben Miller (Garrett Hedlund) são cinco ex-soldados das Forças Especiais dos Estados Unidos que decidem se reunir para executar um plano arriscado: roubar um poderoso senhor do crime na fronteria que separa o Brasil da Argentina e do Paraguai. No entanto, quando o esquema dá errado, os antigos companheiros de batalha se verão forçados a embarcar em uma épica luta por suas vidas. </info>
+</item>
+</channel>
+<channels></channels>
+<channel>
+<name>Leal, solo hay una forma de vivir</name>
+<thumbnail>https://hidratorrent.com/capa/leal-solo-hay-una-forma-de-vivir-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Leal, solo hay una forma de vivir</title>
+<link>magnet:?xt=urn:btih:ED33FB186E00421E96CDD7D53CFDD213883A51D9&dn=%5bWWW.BLUDV.TV%5d%20Leal%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/leal-solo-hay-una-forma-de-vivir-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Um ex-coronel paraguaio forma um grupo paramilitar especial focado no combate ao narcotráfico para proteger as fronteiras de seu país.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RtCMfOWY10E</trailer>
+<thumbnail>https://hidratorrent.com/capa/leal-solo-hay-una-forma-de-vivir-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Um ex-coronel paraguaio forma um grupo paramilitar especial focado no combate ao narcotráfico para proteger as fronteiras de seu país.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Aquaman</name>
+<thumbnail>https://hidratorrent.com/capa/aquaman-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<item>
+<title>Aquaman</title>
+<link>magnet:?xt=urn:btih:1172B201184ABC54DD673C7750E12B9619C45D91&dn=%5bWWW.BLUDV.TV%5d%20Aquaman%202019%20%281080p%20-%20WEB-DL%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/aquaman-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>O meio-humano, meio-Atlante Arthur Curry (Jason Momoa), é levado à jornada de sua vida — uma jornada que vai forçá-lo a não só encarar sua verdadeira identidade, mas também a descobrir se ele tem o que é necessário para ser… um rei.</info>
+</item>
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=90bG43JcwRE</trailer>
+<thumbnail>https://hidratorrent.com/capa/aquaman-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>O meio-humano, meio-Atlante Arthur Curry (Jason Momoa), é levado à jornada de sua vida — uma jornada que vai forçá-lo a não só encarar sua verdadeira identidade, mas também a descobrir se ele tem o que é necessário para ser… um rei.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Infiltrado na Klan</name>
+<thumbnail>https://hidratorrent.com/capa/infiltrado-na-klan-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Infiltrado na Klan</title>
+<link>magnet:?xt=urn:btih:12F5FE1929254B30498AC3C93648BD0611F48DF4&dn=%5bWWW.BLUDV.TV%5d%20Infiltrado%20na%20Klan%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/infiltrado-na-klan-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Em 1978, Ron Stallworth, um policial negro do Colorado, conseguiu se infiltrar na Ku Klux Klan local. Ele se comunicava com os outros membros do grupo através de telefonemas e cartas, quando precisava estar fisicamente presente enviava um outro policial branco no seu lugar. Depois de meses de investigação, Ron se tornou o líder da seita, sendo responsável por sabotar uma série de linchamentos e outros crimes de ódio orquestrados pelos racistas. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ie339j2Qeog</trailer>
+<thumbnail>https://hidratorrent.com/capa/infiltrado-na-klan-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Em 1978, Ron Stallworth, um policial negro do Colorado, conseguiu se infiltrar na Ku Klux Klan local. Ele se comunicava com os outros membros do grupo através de telefonemas e cartas, quando precisava estar fisicamente presente enviava um outro policial branco no seu lugar. Depois de meses de investigação, Ron se tornou o líder da seita, sendo responsável por sabotar uma série de linchamentos e outros crimes de ódio orquestrados pelos racistas. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Megarromântico</name>
+<thumbnail>https://hidratorrent.com/capa/megarrromantico-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Megarromântico</title>
+<link>magnet:?xt=urn:btih:d4ecec9241a5b65069802c32f2c55e405df210df&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Megarromantico%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/megarrromantico-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Natalie (Rebel Wilson) é uma jovem arquiteta que se empenha para ser reconhecida por seu trabalho. Ela que sempre foi uma cética quanto ao amor, tem um encontro conturbado que termina com ela sendo assaltada e deixada inconsciente. Quando acorda. a moça vê que misteriosamente foi parar em um filme de comédia romântica.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=g2l-X7q4eh8</trailer>
+<thumbnail>https://hidratorrent.com/capa/megarrromantico-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Natalie (Rebel Wilson) é uma jovem arquiteta que se empenha para ser reconhecida por seu trabalho. Ela que sempre foi uma cética quanto ao amor, tem um encontro conturbado que termina com ela sendo assaltada e deixada inconsciente. Quando acorda. a moça vê que misteriosamente foi parar em um filme de comédia romântica.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Os Caubóis do Apocalipse [NAC]</name>
+<thumbnail>https://hidratorrent.com/capa/os-caubois-do-apocalipse-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Os Caubóis do Apocalipse [NAC]</title>
+<link>magnet:?xt=urn:btih:8910d3d5edc7d3fea6e5d6740ff531ea13f2a784&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Os%20Caub%c3%b3is%20do%20Apocalipse%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bNACIONAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/os-caubois-do-apocalipse-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Tom é um adolescente apaixonado por música, por um breve período na infância, ele montou a banda "Caubóis do Apocalipse", com Nanda e Dedão, seus dois melhores amigos da época que agora encontram-se afastados. Depois de anos sem tocar, o menino decide reunir os antigos integrantes do grupo para a filmagem de um clipe. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oMNek3YRLLQ</trailer>
+<thumbnail>https://hidratorrent.com/capa/os-caubois-do-apocalipse-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Tom é um adolescente apaixonado por música, por um breve período na infância, ele montou a banda "Caubóis do Apocalipse", com Nanda e Dedão, seus dois melhores amigos da época que agora encontram-se afastados. Depois de anos sem tocar, o menino decide reunir os antigos integrantes do grupo para a filmagem de um clipe. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>WiFi Ralph - Quebrando a Internet </name>
+<thumbnail>https://4.bp.blogspot.com/-KkmYAPKUUyk/XCj8ykUbs1I/AAAAAAAAEPs/jP36OWOahegdNJWW-p-2pQC1T5gXh9pZwCLcBGAs/s1600/WiFi%2BRalph%2BQuebrando%2Ba%2BInternet%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+
+<item>
+<title>WiFi Ralph - Quebrando a Internet </title>
+<link>magnet:?xt=urn:btih:184ab19e0fbfc12c379fcfe6d14118e8cdb08ede&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20WiFi%20Ralph%20-%20Quebrando%20a%20Internet%20%5bBluRay%5d%20%5b1080p%5d%20%5bDUAL%5d</link>
+<thumbnail>https://4.bp.blogspot.com/-KkmYAPKUUyk/XCj8ykUbs1I/AAAAAAAAEPs/jP36OWOahegdNJWW-p-2pQC1T5gXh9pZwCLcBGAs/s1600/WiFi%2BRalph%2BQuebrando%2Ba%2BInternet%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<fanart></fanart>
+<info>Ralph, o mais famoso vilão dos videogames, e Vanellope, sua companheira atrapalhada, iniciam mais uma arriscada aventura. Após a gloriosa vitória no Fliperama Litwak, a dupla viaja para a world wide web, no universo expansivo e desconhecido da internet. Dessa vez, a missão é achar uma peça reserva para salvar o videogame Corrida Doce, de Vanellope. Para isso, eles contam com a ajuda dos "cidadãos da Internet" e de Yess, a alma por trás do Buzzztube, um famoso website que dita tendências. </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_Q0qHkFoc8Y</trailer>
+<thumbnail>https://4.bp.blogspot.com/-KkmYAPKUUyk/XCj8ykUbs1I/AAAAAAAAEPs/jP36OWOahegdNJWW-p-2pQC1T5gXh9pZwCLcBGAs/s1600/WiFi%2BRalph%2BQuebrando%2Ba%2BInternet%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<fanart></fanart>
+<info>Ralph, o mais famoso vilão dos videogames, e Vanellope, sua companheira atrapalhada, iniciam mais uma arriscada aventura. Após a gloriosa vitória no Fliperama Litwak, a dupla viaja para a world wide web, no universo expansivo e desconhecido da internet. Dessa vez, a missão é achar uma peça reserva para salvar o videogame Corrida Doce, de Vanellope. Para isso, eles contam com a ajuda dos "cidadãos da Internet" e de Yess, a alma por trás do Buzzztube, um famoso website que dita tendências. </info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>The Hard Way</name>
+<thumbnail>https://hidratorrent.com/capa/the-hard-way-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>The Hard Way</title>
+<link>magnet:?xt=urn:btih:3531ac85f16954f8333369be9f7b240604de027c&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20The%20Hard%20Way%202019%20%5b1080p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/the-hard-way-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Depois de ficar sabendo que seu irmão morreu em uma missão na Romênia, um antigo soldado se junta a dois aliados para caçar e se vingar de um inimigo misterioso.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AjWfY7SnMBI</trailer>
+<thumbnail>https://hidratorrent.com/capa/the-hard-way-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> Depois de ficar sabendo que seu irmão morreu em uma missão na Romênia, um antigo soldado se junta a dois aliados para caçar e se vingar de um inimigo misterioso.</info>
+</item>
+</channel>
+
+<channels></channels>
+<channel>
+<name>Velocidade Mortal </name>
+<thumbnail>https://hidratorrent.com/capa/velocidade-mortal-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Velocidade Mortal </title>
+<link>magnet:?xt=urn:btih:1A136D125BC8E9DB4DA64DE713A5BE06CB7F2EFE&dn=%5bWWW.BLUDV.TV%5d%20Velocidade%20Mortal%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<thumbnail>https://hidratorrent.com/capa/velocidade-mortal-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>O filme traz a história real de Don Aronow, um campeão de corrida de barcos que se tornou multimilionário e é conhecido por ser mulherengo e pela criação da lancha cigarette. Don fez sua fortuna vendendo barcos para líderes mundiais, bilionários e estrelas POP, além de trabalhar com o governo americano e com cartéis de drogas. Seu envolvimento com negócios perigosos acabaram se voltando contra si mesmo e em 1987 Aronow foi assassinado em seu carro em Miami, sob circunstâncias misteriosas.</info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=drIqjJ36NvY</trailer>
+<thumbnail>https://hidratorrent.com/capa/velocidade-mortal-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>O filme traz a história real de Don Aronow, um campeão de corrida de barcos que se tornou multimilionário e é conhecido por ser mulherengo e pela criação da lancha cigarette. Don fez sua fortuna vendendo barcos para líderes mundiais, bilionários e estrelas POP, além de trabalhar com o governo americano e com cartéis de drogas. Seu envolvimento com negócios perigosos acabaram se voltando contra si mesmo e em 1987 Aronow foi assassinado em seu carro em Miami, sob circunstâncias misteriosas.</info>
+</item>
+</channel>
+<channels></channels>
+<channel>
+<name>Zumbilênio - O Parque dos Monstros</name>
+<thumbnail>https://hidratorrent.com/capa/zumbilenio-o-parque-dos-monstros-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+
+<item>
+<title>Zumbilênio - O Parque dos Monstros</title>
+<link>magnet:?xt=urn:btih:489b380c34496c34c56e36cc789f8b3d5f445ab2&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20Zumbilenio%20O%20Parque%20dos%20Monstros%202019%20%5b1080p%5d%20%5bBluRay%5d%20%5bDUAL%5d</link>
+<thumbnail>https://hidratorrent.com/capa/zumbilenio-o-parque-dos-monstros-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Zombillenium, é um parque de diversões em que as principais atrações são vampiros, lobisomens, zumbis e outros demônios. Seu dono é ninguém menos que o próprio diabo em pessoa. Os empregados estão cansados de seu trabalho e não querem mais ser meros objetos para a satisfação dos humanos. É quando Hector, um fiscal, visitando o parque em busca de possíveis irregularidades é morto, tornando-se um de seus funcionários, e deixando a filha órfã. Eles agora devem se adaptar a essa nova </info>
+</item>
+
+<item>
+<title>Trailer</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iABn3LNabuk</trailer>
+<thumbnail>https://hidratorrent.com/capa/zumbilenio-o-parque-dos-monstros-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>Zombillenium, é um parque de diversões em que as principais atrações são vampiros, lobisomens, zumbis e outros demônios. Seu dono é ninguém menos que o próprio diabo em pessoa. Os empregados estão cansados de seu trabalho e não querem mais ser meros objetos para a satisfação dos humanos. É quando Hector, um fiscal, visitando o parque em busca de possíveis irregularidades é morto, tornando-se um de seus funcionários, e deixando a filha órfã. Eles agora devem se adaptar a essa nova </info>
+</item>
+</channel>
+<channels></channels>
+<channel>
+<name>As Viúvas</name>
+<thumbnail>https://1.bp.blogspot.com/-MlYaQP7YC9I/XEd7eASUoBI/AAAAAAAAFB4/fK7sidONf-cl4zOls6qg0_a9HFKSFWXkQCLcBGAs/s1600/As%2BVi%25C3%25BAvas%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+
+<item>
+<title>As Viúvas</title>
+<link>magnet:?xt=urn:btih:f40a202ba20a4497fb99571cc6bc74432cfc67c2&dn=%5bACESSE%20COMANDOTORRENTS.COM%5d%20As%20Viuvas%2

@@ -1,0 +1,149 @@
+<channels>
+<channel>
+<name>Filmes Coletanea</name>
+<thumbnail>http://corrupteddevelopment.com/wp-content/uploads/2012/04/popcorn-box-icon.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/coletaneas.txt</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Filmes Direto [LHMTV] </name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/lhmtv.txt</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Filmes Para Familia</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmes-familia</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Pedidos de Filmes</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/pedidos</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+
+
+
+
+
+<channels>
+<channel>
+<name>Filmes 4K Consertado</name>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/4k.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/4k-rip</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Filmes 4K Sem Imagem</name>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/4k.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/4kfilmes</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>Filmes 4K e Varias resoluções</name>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/4k.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/4k-op2.txt</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>Filmes Top do Momento</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes11</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Filmes 1</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes11d</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Filmes 2</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes11c</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Filmes 3</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes10</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Filmes 4</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes9</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Filmes 5</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes8</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Filmes 6</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes7</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+
+
