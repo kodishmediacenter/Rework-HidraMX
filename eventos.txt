@@ -1,6 +1,6 @@
  <channels>
  <channel>
- <name>[COLOR white][B]Eventos Rolando[/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]Eventos Rolando[/B][/COLOR][COLOR cyan][B]||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/eventos.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/eventos-now.txt</externallink>
  <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
@@ -10,9 +10,9 @@
  
  <channels>
  <channel>
- <name>[COLOR white][B]Eventos Passados [/B][/COLOR][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]Eventos Passados [/B][/COLOR][COLOR cyan][B]||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/eventos.png</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/canais-fta</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/eventos-past.txt</externallink>
  <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
  <info>Listas iptv</info>
  </channel>
