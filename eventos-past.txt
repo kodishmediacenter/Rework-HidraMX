@@ -1,0 +1,30 @@
+<channels></channels>
+<channel>
+<name>[COLOR white][B]Rock In Rio 2019[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/rockinrio</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/rock-in-rio-icon.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR white][B] Live do Alok 19/12 - 21:00 [/B][/COLOR][COLOR cyan][B]||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+<thumbnail>https://s2.glbimg.com/GX64R3VRO7BiuBpkKOBhXK4j2is=/smart/e.glbimg.com/og/ed/f/original/2020/10/16/whatsapp_image_2020-10-15_at_18.49.07.jpeg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/livealok</externallink>
+<fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+<info>Listas iptv</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR white][B]Copa do Mundo LOL 2020 | Lol Worlds [/B][/COLOR][COLOR cyan][B]||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/LoL_Worlds_2020_Logo.svg/1200px-LoL_Worlds_2020_Logo.svg.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/Lolwolds</externallink>
+<fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+ 
