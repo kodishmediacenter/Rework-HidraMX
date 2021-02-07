@@ -2,7 +2,7 @@
 
  <channels>
  <channel>
- <name>[COLOR white][B]Eventos Atuais[/B][/COLOR][COLOR cyan][B]||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]Eventos Atuais[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/eventos.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/eventos.txt</externallink>
  <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
@@ -13,7 +13,7 @@
 
  <channels>
  <channel>
- <name>[COLOR white][B]Lista IPTV Web[/B][/COLOR][COLOR cyan][B]||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]Lista IPTV Web[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/tv.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/canais-fta</externallink>
  <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
@@ -24,7 +24,7 @@
 
  <channels>
  <channel>
- <name>[COLOR white][B]Virtual Addon [/B][/COLOR][COLOR cyan][B]||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]Virtual Addon [/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/logo.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/virtual-addons-cloud</externallink>
  <fanart>https://spinoff.com.br/wp-content/uploads/watch-free-iptv-online-with-tablet-pc-smartphone-laptop-tv.jpg</fanart>
@@ -34,7 +34,7 @@
  
 
 <channel>
-<name>[COLOR white][B]Apks[/B][/COLOR][COLOR cyan][B]||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+<name>[COLOR white][B]Apks[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
 <thumbnail>https://lh5.ggpht.com/aCdAa44RDJNrNx2ZtN93_CsTV19w-NjBnbXI7B15PuqH0uAizyD-GEkvHqFaigGBqw</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/apks</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/android.png</fanart>
@@ -45,7 +45,7 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR white][B]Filmes[/B][/COLOR][COLOR cyan][B]||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+<name>[COLOR white][B]Filmes[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/filmes-cat</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
 <fanart></fanart>
@@ -55,7 +55,7 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR white][B]Series[/B][/COLOR][COLOR cyan][B]||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+<name>[COLOR white][B]Series[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/series-cat.txt</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/seriea.png</thumbnail>
 <fanart></fanart>
@@ -65,7 +65,7 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR white][B]Doramas [Youtube][/B][/COLOR][COLOR cyan][B]||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+<name>[COLOR white][B]Doramas [Youtube][/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/dorama</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/dorama.png</thumbnail>
 <fanart></fanart>
@@ -75,7 +75,7 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR white][B]Doramas [Torrent][/B][/COLOR][COLOR cyan][B]||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+<name>[COLOR white][B]Doramas [Torrent][/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/doramatorrent</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/dorama.png</thumbnail>
 <fanart></fanart>
@@ -85,7 +85,7 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR white][B]Vagalume FM[/B][/COLOR] [COLOR cyan][B]||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+<name>[COLOR white][B]Vagalume FM[/B][/COLOR] [COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/vagalumefm</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/vagalume.png</thumbnail>
 <fanart></fanart>
@@ -95,7 +95,7 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR white][B]Rock In Rio 2019[/B][/COLOR][COLOR cyan][B]||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+<name>[COLOR white][B]Rock In Rio 2019[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/rockinrio</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/rock-in-rio-icon.jpg</thumbnail>
 <fanart></fanart>
@@ -105,7 +105,7 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR white][B]Servidores de Musica[/B][/COLOR][COLOR cyan][B]||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+<name>[COLOR white][B]Servidores de Musica[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/musica-servers</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/seriea.png</thumbnail>
 <fanart></fanart>
