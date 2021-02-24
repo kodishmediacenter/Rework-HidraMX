@@ -43,15 +43,7 @@
 </channels>
 
 
-<channels></channels>
-<channel>
-<name>[COLOR white][B]Filmes RW[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/Filmes/filmes-cat</externallink>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
-<fanart></fanart>
-<info></info>
-</channel>
-</channels>
+
 
 <channels></channels>
 <channel>
