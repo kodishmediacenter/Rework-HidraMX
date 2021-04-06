@@ -1,0 +1,19 @@
+<channels>
+<channel>
+<name>Series 01</name>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/series.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/series-corrigidas2</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Series 02</name>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/series.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/series-corrigida.txt</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
