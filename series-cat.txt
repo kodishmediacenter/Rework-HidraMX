@@ -2,7 +2,7 @@
 <channel>
 <name>Series 01</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/series.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/series-corrigidas2</externallink>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/serie-01</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
@@ -12,7 +12,7 @@
 <channel>
 <name>Series 02</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/series.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/data/series-corrigida.txt</externallink>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/serie-02</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
