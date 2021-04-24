@@ -1,6 +1,6 @@
 <item>
 1<title>[I][B][COLOR white]• [COLOR forestgreen]1 [COLOR white]- [COLOR goldenrod] Filme 01 - Scooby-Doo na Ilha dos Zumbis[COLOR forestgreen] Kodish [COLOR white] Séries [COLOR white]!!![/B][/I][/COLOR]</title>
-1<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://encripted-encripted-encripted-encripted-encripted-encripted.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM01</page><referer>https://megafilmeshd50.com/filme/</referer></regex>
+1<link>$doregex[Kodish]|Referer=https://megafilmeshd50.top/player/contador</link><regex><name>Kodish</name><expres>source:\s*['"]([^'"]+)</expres><page>https://ondemand.encripted-encripted-encripted-encripted-encripted-encripted.fun/player3/mega.php?video=RCServer09/ondemand/SCBDFLM01</page><referer>https://megafilmeshd50.com/filme/</referer></regex>
 1<thumbnail>https://image.tmdb.org/t/p/w440_and_h660_face/y9CySYOtHl8mDu0GQ2eT2EcjFE9.jpg</thumbnail>
 1<genre>[I][COLOR gray]22/09/1998 (US), Animação, Comédia, Família, Mistério, Aventura, Terror, Fantasia, 1h 17m[/COLOR][/I]</genre>
 1<fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/woFsToiI9otSnanKfChq5VKsgFp.jpg</fanart>
