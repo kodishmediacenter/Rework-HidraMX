@@ -1,3 +1,13 @@
+ <channels>
+ <channel>
+ <name>[COLOR white][B]CBLOL 2021[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://arenaesports.com.br/wp-content/uploads/2019/01/cblol-2019-logo.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/cblol2021</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+ 
 <channels></channels>
 <channel>
 <name>[COLOR white][B]Rock In Rio 2019[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
