@@ -9,6 +9,18 @@
  <info></info>
  </channel>
  </channels>
+ 
+ <channels>
+ <channel>
+ <name>Box de Filmes Pixar Box</name>
+ <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81If%2Bw5oOJL._AC_SL1500_.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/Filmes/pixar-box</externallink>
+ <fanart>https://uploads.jovemnerd.com.br/wp-content/uploads/2020/01/studio-ghibli-novos-filmes.jpg</fanart>
+ <info></info>
+ </channel>
+ </channels>
+
+
 
 <channels>
 <channel>
