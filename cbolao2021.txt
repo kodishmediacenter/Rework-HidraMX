@@ -1,0 +1,7 @@
+<item>
+<title>CBolão 2021</title>
+<link>plugin://plugin.video.twitch/?mode=play&channel_name=baiano</link>
+<thumbnail>https://cbolao.gg/assets/video/cbolao-logo.webm</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
