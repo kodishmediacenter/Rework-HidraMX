@@ -1,1 +1,9 @@
-
+<channels>
+ <channel>
+ <name>[COLOR white][B]CBolão 2021[/B][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://cbolao.gg/assets/video/cbolao-logo.webm</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/cbolao2021.txt</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
