@@ -1,9 +1,1 @@
- <channels>
- <channel>
- <name>[COLOR white][B]MSI 2021 LOL[/B][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/4/48/Mid-Season_Invitational.png/revision/latest?cb=20190801230748</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/msi2021</externallink>
- <fanart></fanart>
- <info></info>
- </channel>
- </channels>
+
