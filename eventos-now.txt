@@ -1,7 +1,7 @@
 <channels>
  <channel>
  <name>[COLOR white][B]CBolão 2021[/B][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
-<thumbnail>https://s2.glbimg.com/UEMzXbyMM4PJ0HihYBOY362w8gc=/0x0:1717x963/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2021/D/B/Ce5RYBQd2i5sAxpA5JRA/cbolao-divulgacao.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/cbolao-divulgacao.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/cbolao2021.txt</externallink>
  <fanart></fanart>
  <info></info>
