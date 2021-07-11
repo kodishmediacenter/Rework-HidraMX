@@ -45,7 +45,7 @@
 <channel>
 <name>Novidades em Filmes</name>
 <thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/novidades-filmes2</externallink>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/novidades-filmes</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
@@ -55,7 +55,7 @@
 <channel>
 <name>Filmes 13 RW</name>
 <thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/novidades-filmes</externallink>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/novidades-filmes2</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
