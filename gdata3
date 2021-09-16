@@ -1,14 +1,6 @@
 [COLOR cyan][B]||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]
 
- <channels>
- <channel>
- <name>[COLOR white][B]Eventos Atuais[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/eventos.png</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/eventos.txt</externallink>
- <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
- <info>Listas iptv</info>
- </channel>
- </channels>
+
 
  <channels>
  <channel>
@@ -30,17 +22,6 @@
  </channel>
  </channels>
  
-
- <channels>
- <channel>
- <name>[COLOR white][B]Virtual Addon [/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/logo.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/virtual-addons-cloud</externallink>
- <fanart>https://spinoff.com.br/wp-content/uploads/watch-free-iptv-online-with-tablet-pc-smartphone-laptop-tv.jpg</fanart>
- <info></info>
- </channel>
- </channels>
-
 
 <channels></channels>
 <channel>
