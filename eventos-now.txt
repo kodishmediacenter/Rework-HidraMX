@@ -1,10 +1,8 @@
-
-<channels>
- <channel>
- <name>[COLOR white][B]CBLol 2021 2º Split[/B][COLOR green][B]||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://yt3.ggpht.com/s7FuP8RhHqhK-5zIWwNW2yFbJ4UVJq_6kieXV8yESZ8yG6fjopyDe0GXcoNGXN4Xi9zpfnMb=s256-c-k-c0x00ffffff-no-rj</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/Cblol20212%C2%BASplit</externallink>
- <fanart></fanart>
- <info></info>
- </channel>
- </channels>
+<item>
+<title>Tudum Um Evento Mundial Fans de Netflix</title>
+<link>plugin://plugin.video.youtube/play/?video_id=lz36j0ijL0A$nome=[B]Portugues Portugal[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=I7qSE0tniHE$nome=[B]Portugues Brasil[/B]</link>
+<thumbnail>https://i0.wp.com/tracklist.com.br/wp-content/uploads/2021/09/netflix-4-1.png?resize=1024%2C683&ssl=1</thumbnail>
+<fanart></fanart>
+<info>Evento da Netflix</info>
+</item>
