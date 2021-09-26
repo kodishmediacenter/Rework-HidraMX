@@ -1,3 +1,14 @@
+
+ <channels>
+ <channel>
+ <name>[B][COLOR yellow]Para Rodar os Conteudos é Necessário Elementum[/COLOR][/B]</name>
+ <thumbnail>https://uploaddeimagens.com.br/images/003/229/660/full/image.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/flashback-faroeste/vaddon.txt</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
+ 
  <channels>
  <channel>
  <name>Filmes de Faroeste</name>
@@ -40,12 +51,21 @@
  
  
 
-
 <channels>
 <channel>
 <name>Novidades em Filmes</name>
 <thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/novidades-filmes</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Filmes 14 RW</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/novidades-filmes3</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
