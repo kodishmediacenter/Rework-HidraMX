@@ -1,3 +1,14 @@
+
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Kodish Play[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/kodishweb/gh-pages/1/index_arquivos/image001.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/kodishplay/main/conteudos-exclusivos</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+ 
  <channels>
  <channel>
  <name>[COLOR white][B]Salão de Eventos[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
