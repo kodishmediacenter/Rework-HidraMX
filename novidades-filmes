@@ -1,22 +1,4 @@
 <item>
-<title>[COLOR white][B]EPISÓDIO 02[/COLOR][/B]</title>
-<link>$doregex[link_blogger]</link>
-<regex>
-<name>blogger</name>
-<expres>play_url.+?"(.+?)","format_id":18}</expres>
-<page>https://www.blogger.com/video.g?token=AD6v5dw7FCAA_bG75d1R_6daF3WZaw0GhzmxVpoY-6pWmf1saSbfeFyZlhitmYsEXz_6DUONOhgmhHKyr16p7fIhgF-Kc0HOF_geVs8ZP_G2slE3aL2WU82hCyyB4PonEHjP8i1DCE1U</page>
-</regex>
-<regex>
-<name>link_blogger</name>
-<expres>$pyFunction:str('$doregex[blogger]').replace('\u003d','=').replace('\u0026','&')</expres>
-<page></page>
-</regex>
-<info></info>
-<fanart></fanart>
-<thumbnail>https://i.imgur.com/LEl7Xjb.jpg</thumbnail>
-</item>
-
-<item>
 <title>Imperdoável </title>
 <link>magnet:?xt=urn:btih:069ac9a5f587ba3170cc7c7252f059caf1ce3663&amp;dn=VACATORRENT.COM..MKV.Imperdoavel%202021%201080p%20WEB-DL%20DUAL%205.1&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&amp;tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&amp;tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&amp;tr=udp%3a%2f%2fwww.torrent.eu.org%3a451%2fannounce$nome=[B]Op 1 1080p Dual Audio[/B]</link>
 <link>magnet:?xt=urn:btih:aba179ddb5fb27bc7c2e149b0fd7a2d6522cb8b5&amp;dn=VACATORRENT.COM..WEB-DL.MKV.-LEGENDADO-..The.Unforgivable.2021.720p.WEB.H264-CUPCAKES&amp;tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2860&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2850&amp;tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15760&amp;tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12780announce$nome=[B]Op 2 720p Legendado[/B]</link>
