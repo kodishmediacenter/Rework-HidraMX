@@ -1,10 +1,10 @@
 <item>
-<title>[COLOR white][B]EPISÓDIO 01[/COLOR][/B]</title>
+<title>[COLOR white][B]EPISÓDIO 02[/COLOR][/B]</title>
 <link>$doregex[link_blogger]</link>
 <regex>
 <name>blogger</name>
 <expres>play_url.+?"(.+?)","format_id":18}</expres>
-<page>Link do Token</page>
+<page>https://www.blogger.com/video.g?token=AD6v5dw7FCAA_bG75d1R_6daF3WZaw0GhzmxVpoY-6pWmf1saSbfeFyZlhitmYsEXz_6DUONOhgmhHKyr16p7fIhgF-Kc0HOF_geVs8ZP_G2slE3aL2WU82hCyyB4PonEHjP8i1DCE1U</page>
 </regex>
 <regex>
 <name>link_blogger</name>
