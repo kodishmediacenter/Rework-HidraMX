@@ -11,6 +11,16 @@
  
  <channels>
  <channel>
+ <name>[COLOR white][B]500 Mais da Kiss[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://kissfm.com.br/wp-content/themes/KISSFM/img/500_2.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/500maiskiss2021e2022</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+ 
+ <channels>
+ <channel>
  <name>[COLOR white][B]Salão de Eventos[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://us.123rf.com/450wm/faysalfarhan/faysalfarhan1605/faysalfarhan160503113/56888433-events-calendar-icon-red-glossy-round-button.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/eventos-now.txt</externallink>
