@@ -39,7 +39,7 @@
  </channel>
  </channels>
  
-  <channels>
+ <channels>
  <channel>
  <name>Box de Filmes Alien</name>
  <thumbnail>https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S6-1200x1600-af00adc8f67a7c6138cce183ac1e9503.jpg?h=854&resize=1&w=640</thumbnail>
@@ -50,12 +50,21 @@
  </channels>
  
  
-
 <channels>
 <channel>
 <name>Novidades em Filmes</name>
 <thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/novidades-filmes</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>Filmes 15 RW</name>
+<thumbnail>http://blog.tudoprafoto.com/wp-content/uploads/2016/07/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/novidades-filmes4</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
