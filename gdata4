@@ -31,54 +31,14 @@
  
  <channels>
  <channel>
- <name>[COLOR white][B]Lista Pluto Tv[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/pluto-tv-brasil.png</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/pluto</externallink>
+ <name>[COLOR white][B]Lista TV Aberta[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://supertvaovivo.com/wp-content/uploads/2021/07/tela-de-tv.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/iptv</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv</info>
  </channel>
  </channels>
 
- <channels>
- <channel>
- <name>[COLOR white][B]Lista IPTV Web[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/tv.png</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/omega/master/canais-fta</externallink>
- <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
- <info>Listas iptv</info>
- </channel>
- </channels>
- 
- <channels>
- <channel>
- <name>[COLOR white][B]Lista IPTV BR[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/tv.png</thumbnail>
- <externallink>http://www.m3u.cl/lista/BR.m3u</externallink>
- <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
- <info>Listas iptv Creditos ao site www.m3u.cl</info>
- </channel>
- </channels>
- 
- <channels>
- <channel>
- <name>[COLOR white][B]Lista IPTV MEXICO[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/tv.png</thumbnail>
- <externallink> http://www.m3u.cl/lista/MX.m3u</externallink>
- <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
- <info>Listas iptv Creditos ao site www.m3u.cl atendendo Pedido de Inscrito</info>
- </channel>
- </channels>
- 
- <channels>
- <channel>
- <name>[COLOR white][B]Lista IPTV CANAL MUSICA[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/tv.png</thumbnail>
- <externallink>http://www.m3u.cl/lista/musica.m3u</externallink>
- <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
- <info>Listas iptv Creditos ao site www.m3u.cl atendendo Pedido de Inscrito</info>
- </channel>
- </channels>
- 
 
  
 
