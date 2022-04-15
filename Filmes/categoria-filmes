@@ -45,9 +45,9 @@
  <channels>
  <channel>
  <name>Dommo Sky Box</name>
- <thumbnail></thumbnail>
+ <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41GQQrR4y5L.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/domoonplus/main/data1</externallink>
- <fanart>https://images-na.ssl-images-amazon.com/images/I/41GQQrR4y5L.png</fanart>
+ <fanart></fanart>
  <info></info>
  </channel>
  </channels>
