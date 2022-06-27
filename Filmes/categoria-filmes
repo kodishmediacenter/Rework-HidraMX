@@ -71,6 +71,16 @@
 <info></info>
 </channel>
 </channels>
+ 
+<channels>
+<channel>
+<name>Novidades de Filmes 17 RW</name>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/novidades-filmes6</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
 
 <channels>
 <channel>
