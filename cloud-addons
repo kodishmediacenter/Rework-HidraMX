@@ -8,4 +8,13 @@
  </channel>
  </channels>
 
- 
+ <channels>
+ <channel>
+ <name>Soma FM</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/soma-fm.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/soma-fm</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
+
