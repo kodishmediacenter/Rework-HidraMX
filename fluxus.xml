@@ -1,0 +1,29 @@
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Fluxus TV English[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://archive.org/download/fluxus-tv/Fluxus%20TV.jpg</thumbnail>
+ <externallink>https://bit.ly/FTV-ENG</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Fluxus TV Spanish[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://archive.org/download/fluxus-tv/Fluxus%20TV.jpg</thumbnail>
+ <externallink>https://bit.ly/FTV-ESP</externallink
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Fluxus TV Arabic[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://archive.org/download/fluxus-tv/Fluxus%20TV.jpg</thumbnail>
+ <externallink>https://bit.ly/FTV-ARA</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
