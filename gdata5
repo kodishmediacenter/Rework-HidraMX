@@ -94,11 +94,22 @@
 </channel>
 </channels>
 
+
 <channels></channels>
 <channel>
 <name>[COLOR white][B]Rock In Rio 2019[/B][/COLOR][COLOR green][B] ||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/rock-rio2019</externallink>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/rock-in-rio-icon.jpg</thumbnail>
+<thumbnail>https://static1.purebreak.com.br/articles/2/90/23/2/@/345289-rock-in-rio-2021-tem-sua-primeira-atraca-opengraph_1200-3.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR white][B]Rock In Rio 2022[/B][/COLOR][COLOR green][B] ||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/rock-rio22</externallink>
+<thumbnail>https://static1.purebreak.com.br/articles/2/90/23/2/@/345289-rock-in-rio-2021-tem-sua-primeira-atraca-opengraph_1200-3.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </channel>
