@@ -10,9 +10,9 @@
 
  <channels>
  <channel>
- <name>Tabela da Copa</name>
+ <name>Servidores da Copa do Mundo</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/world-cup-2022-logo-0-1536x1536.png</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/cloud-server</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/copa-do-mundo-server</externallink>
  <fanart></fanart>
  <info>Confira todos Jogos da Copa do Mundo Fifa 2022</info>
  </channel>
