@@ -1,8 +1,7 @@
 <item>
-<title>Tudum Um Evento Mundial Fans de Netflix</title>
-<link>plugin://plugin.video.youtube/play/?video_id=lz36j0ijL0A$nome=[B]Portugues Portugal[/B]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=I7qSE0tniHE$nome=[B]Portugues Brasil[/B]</link>
-<thumbnail>https://i0.wp.com/tracklist.com.br/wp-content/uploads/2021/09/netflix-4-1.png?resize=1024%2C683&ssl=1</thumbnail>
+<title>SLS Feminino Final</title>
+<link>plugin://plugin.video.youtube/play/?video_id=IvUqnfEp7Ds</link>
+<thumbnail>https://yt3.ggpht.com/ytc/AMLnZu_1RnAAa-1Oh6uCTl-2iYT5AYqi4TXShPMEYdl94g=s256-c-k-c0x00ffffff-no-rj</thumbnail>
 <fanart></fanart>
-<info>Evento da Netflix</info>
+<info>Campeonato de Skate Mundial</info>
 </item>
