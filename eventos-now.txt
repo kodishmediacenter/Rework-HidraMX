@@ -1,7 +1,7 @@
 <item>
 <title>SLS Feminino Final</title>
 <link>plugin://plugin.video.youtube/play/?video_id=IvUqnfEp7Ds</link>
-<thumbnail>https://yt3.ggpht.com/ytc/AMLnZu_1RnAAa-1Oh6uCTl-2iYT5AYqi4TXShPMEYdl94g=s256-c-k-c0x00ffffff-no-rj</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e3/Street_League_Skateboarding.jpg</thumbnail>
 <fanart></fanart>
 <info>Campeonato de Skate Mundial</info>
 </item>
