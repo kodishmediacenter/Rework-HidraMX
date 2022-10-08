@@ -1,6 +1,7 @@
 <item>
 <title>SLS Feminino Final</title>
-<link>plugin://plugin.video.youtube/play/?video_id=IvUqnfEp7Ds</link>
+<link>plugin://plugin.video.youtube/play/?video_id=IvUqnfEp7Ds$nome=[B]Addon Youtube[/B]</link>
+<link>plugin://plugin.video.smr_link_tester/?mode=play_link&amp;link=https://www.youtube.com/watch?v=IvUqnfEp7Ds$nome=[B]Debrid Beta[/B]</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e3/Street_League_Skateboarding.jpg</thumbnail>
 <fanart></fanart>
 <info>Campeonato de Skate Mundial</info>
