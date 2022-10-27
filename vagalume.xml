@@ -1,4 +1,28 @@
 <item>
+<title>Top 50 Internacional - Vagalume.FM </title>
+<link>https://stream.vagalume.fm/hls/1470170299760930/index.m3u8</link>
+<thumbnail>https://img.vagalume.fm/1470170299760930/featured</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Top 50 Brasil - Vagalume.FM </title>
+<link>https://stream.vagalume.fm/hls/147017028452123/index.m3u8</link>
+<thumbnail>https://img.vagalume.fm/147017028452123/featured</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Lançamentos - Vagalume.FM </title>
+<link>https://stream.vagalume.fm/hls/1476469524740247/index.m3u8</link>
+<thumbnail>https://img.vagalume.fm/1476469524740247/featured</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>Sertanejo Hits - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/14619606471054026608/featured</thumbnail>
@@ -18,22 +42,6 @@
 <title>O Melhor de Anitta - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/1554491399247327/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1554491399247327/featured</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>Top 50 Internacional - Vagalume.FM </title>
-<link>https://stream.vagalume.fm/hls/1470170299760930/index.m3u8</link>
-<thumbnail>https://img.vagalume.fm/1470170299760930/featured</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>Top 50 Brasil - Vagalume.FM </title>
-<link>https://stream.vagalume.fm/hls/147017028452123/index.m3u8</link>
-<thumbnail>https://img.vagalume.fm/147017028452123/featured</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -106,14 +114,6 @@
 <title>Lo-fi Beats - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/1528731664462844/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1528731664462844/featured</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>Lançamentos - Vagalume.FM </title>
-<link>https://stream.vagalume.fm/hls/1476469524740247/index.m3u8</link>
-<thumbnail>https://img.vagalume.fm/1476469524740247/featured</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -263,7 +263,7 @@
 </item>
 
 <item>
-<title>Músicas para Relaxar - Vagalume.FM </title>
+<title>Musicas para Relaxar - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/1487701935336993/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1487701935336993/featured</thumbnail>
 <fanart></fanart>
@@ -295,7 +295,7 @@
 </item>
 
 <item>
-<title>Eletrônica - Vagalume.FM </title>
+<title>EletrÃ´nica - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/146411300413492499/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/146411300413492499/featured</thumbnail>
 <fanart></fanart>
@@ -359,7 +359,7 @@
 </item>
 
 <item>
-<title>#Deprê - Vagalume.FM </title>
+<title>#Depre - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/1522261529679510/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1522261529679510/featured</thumbnail>
 <fanart></fanart>
@@ -431,7 +431,7 @@
 </item>
 
 <item>
-<title>Férias - Vagalume.FM </title>
+<title>Ferias - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/1474482422796242/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1474482422796242/featured</thumbnail>
 <fanart></fanart>
@@ -447,7 +447,7 @@
 </item>
 
 <item>
-<title>Hardcore &Metalcore - Vagalume.FM </title>
+<title>Hardcore & Metalcore - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/1474034184429476/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1474034184429476/featured</thumbnail>
 <fanart></fanart>
@@ -471,7 +471,7 @@
 </item>
 
 <item>
-<title>Forrô - Vagalume.FM </title>
+<title>Forro - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/147015501223418/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/147015501223418/featured</thumbnail>
 <fanart></fanart>
@@ -623,7 +623,7 @@
 </item>
 
 <item>
-<title>Country Clássicos - Vagalume.FM </title>
+<title>Country Classicos - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/1520958056484488/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1520958056484488/featured</thumbnail>
 <fanart></fanart>
@@ -663,7 +663,7 @@
 </item>
 
 <item>
-<title>Carnaval (Clássicos) - Vagalume.FM </title>
+<title>Carnaval (Classicos) - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/1470155159402151/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1470155159402151/featured</thumbnail>
 <fanart></fanart>
@@ -695,7 +695,7 @@
 </item>
 
 <item>
-<title>Clássicos de Natal - Vagalume.FM </title>
+<title>Classicos de Natal - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/1512495299422539/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1512495299422539/featured</thumbnail>
 <fanart></fanart>
@@ -719,7 +719,7 @@
 </item>
 
 <item>
-<title>Acústico - Vagalume.FM </title>
+<title>Acustico - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/14634980201914128847/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/14634980201914128847/featured</thumbnail>
 <fanart></fanart>
@@ -791,7 +791,7 @@
 </item>
 
 <item>
-<title>Temas de séries e desenhos - Vagalume.FM </title>
+<title>Temas de series e desenhos - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/1473105774228701/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1473105774228701/featured</thumbnail>
 <fanart></fanart>
@@ -807,7 +807,7 @@
 </item>
 
 <item>
-<title>Sertanejo Sofrência - Vagalume.FM </title>
+<title>Sertanejo Sofrencia - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/1529095568377255/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1529095568377255/featured</thumbnail>
 <fanart></fanart>
@@ -815,7 +815,7 @@
 </item>
 
 <item>
-<title>Sertanejo Romântico - Vagalume.FM </title>
+<title>Sertanejo Romantico - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/1499715905423293/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1499715905423293/featured</thumbnail>
 <fanart></fanart>
@@ -831,7 +831,7 @@
 </item>
 
 <item>
-<title>Romântico - Vagalume.FM </title>
+<title>Romantico - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/1470155219129532/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1470155219129532/featured</thumbnail>
 <fanart></fanart>
@@ -839,7 +839,7 @@
 </item>
 
 <item>
-<title>Rock Clássico - Vagalume.FM </title>
+<title>Rock Classico - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/14647977281792658143/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/14647977281792658143/featured</thumbnail>
 <fanart></fanart>
@@ -855,7 +855,7 @@
 </item>
 
 <item>
-<title>Rock - De Bowie ao século 21 - Vagalume.FM </title>
+<title>Rock - De Bowie ao sÃ©culo 21 - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/1476127912612917/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1476127912612917/featured</thumbnail>
 <fanart></fanart>
@@ -863,7 +863,7 @@
 </item>
 
 <item>
-<title>Rock - Das Raízes ao Progressivo - Vagalume.FM </title>
+<title>Rock - Das Raizes ao Progressivo - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/1475867272151401/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1475867272151401/featured</thumbnail>
 <fanart></fanart>
@@ -1063,7 +1063,7 @@
 </item>
 
 <item>
-<title>O Melhor de Beyoncé - Vagalume.FM </title>
+<title>O Melhor de BeyoncÃ© - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/1524166820939567/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1524166820939567/featured</thumbnail>
 <fanart></fanart>
@@ -1095,7 +1095,7 @@
 </item>
 
 <item>
-<title>Músicas Virais - Vagalume.FM </title>
+<title>Musicas Virais - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/1520610946872575/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1520610946872575/featured</thumbnail>
 <fanart></fanart>
@@ -1103,7 +1103,7 @@
 </item>
 
 <item>
-<title>Músicas que fizeram histôria - Vagalume.FM </title>
+<title>Musicas que fizeram histÃ³ria - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/1477328440623592/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1477328440623592/featured</thumbnail>
 <fanart></fanart>
@@ -1111,7 +1111,7 @@
 </item>
 
 <item>
-<title>Músicas para Jantar a Dois - Vagalume.FM </title>
+<title>Musicas para Jantar a Dois - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/1520884616242465/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1520884616242465/featured</thumbnail>
 <fanart></fanart>
@@ -1119,7 +1119,7 @@
 </item>
 
 <item>
-<title>Músicas Catôlicas - Vagalume.FM </title>
+<title>Musicas CatÃ³licas - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/1520610908163452/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1520610908163452/featured</thumbnail>
 <fanart></fanart>
@@ -1127,7 +1127,7 @@
 </item>
 
 <item>
-<title>Música Eletrônica Brasileira - Vagalume.FM </title>
+<title>Musica EletrÃ´nica Brasileira - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/152911357157777/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/152911357157777/featured</thumbnail>
 <fanart></fanart>
@@ -1159,7 +1159,7 @@
 </item>
 
 <item>
-<title>Metal Sinfônico - Vagalume.FM </title>
+<title>Metal Sinfonico - Vagalume.FM </title>
 <link>https://stream.vagalume.fm/hls/1477592024431906/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1477592024431906/featured</thumbnail>
 <fanart></fanart>
