@@ -8,7 +8,7 @@
 
 <item>
 <title>Time Brasil [Youtube Addon]</title>
-<link>plugin://plugin.video.youtube/channel/UCADFFCsD8JQBa9RQmyisjpA/live</link>
+<link>plugin://plugin.video.tubeliveplayer/play?uri=channel/UCADFFCsD8JQBa9RQmyisjpA/live</link>
 <thumbnail>https://www.cob.org.br/public/site/img/logo_cob.webp</thumbnail>
 <fanart></fanart>
 <info>Aqui temos live do Time Brasil</info>
@@ -16,7 +16,7 @@
 
 <item>
 <title>The K-pop Live[Youtube Addon]</title>
-<link>plugin://plugin.video.youtube/channel/UCoRXPcv8XK5fAplLbk9PTww/live</link>
+<link>plugin://plugin.video.tubeliveplayer/play?uri=channel/UCoRXPcv8XK5fAplLbk9PTww/live</link>
 <thumbnail>https://www.cob.org.br/public/site/img/logo_cob.webp</thumbnail>
 <fanart></fanart>
 <info>Aqui temos live do Time Brasil</info>
