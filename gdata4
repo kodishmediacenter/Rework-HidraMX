@@ -8,11 +8,23 @@
  </channel>
  </channels>
  
+ 
+ 
  <channels>
  <channel>
  <name>[COLOR white][B]Kodish Cloud Virtual Addons[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/kodishweb/gh-pages/1/index_arquivos/image001.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/cloud-addons</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+ 
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Copa do Mundo 2022 [/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/kodishweb/gh-pages/1/index_arquivos/image001.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/copa-do-mundo-sesao</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv</info>
  </channel>
