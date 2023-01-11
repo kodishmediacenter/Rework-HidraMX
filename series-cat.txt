@@ -2,6 +2,16 @@
 
 <channels>
 <channel>
+<name>Series Novas</name>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/series.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/serie3</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>Series 01</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/series.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/serie-01</externallink>
@@ -10,22 +20,6 @@
 </channel>
 </channels>
 
-<channels>
-<channel>
-<name>Series 02</name>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/series.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/serie-02</externallink>
-<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
-<info></info>
-</channel>
-</channels>
 
-<channels>
-<channel>
-<name>Series 03</name>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/series.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/serie3</externallink>
-<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
-<info></info>
-</channel>
-</channels>
+
+
