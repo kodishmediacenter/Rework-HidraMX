@@ -1,4 +1,20 @@
 <item>
+<title>Rádio secular/title>
+<link>https://stream.zeno.fm/6cvqc50b568uv.m3u</link>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/radio.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Jaguaribe FM</title>
+<link>http://stream.zeno.fm/3mydb487f0hvv.m3u</link>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/radio.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>Jaguaribe FM</title>
 <link>http://stream.zeno.fm/3mydb487f0hvv</link>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/radio.png</thumbnail>
