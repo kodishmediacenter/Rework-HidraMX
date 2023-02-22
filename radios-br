@@ -1,3 +1,12 @@
+
+<item>
+<title>Rádio TV Educativa MS</title>
+<link>http://stream.digilab.com.br:8081/fertel/radio/playlist.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/radio.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
 <item>
 <title>Rádio secular/title>
 <link>https://stream.zeno.fm/6cvqc50b568uv.m3u</link>
