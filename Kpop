@@ -1,0 +1,33 @@
+#EXTM3U
+#RADIOBROWSERUUID:c1285fc3-3c1d-4f9a-a149-2080f7e75847
+#EXTINF:1,Big B Radio - Kpop
+http://107.150.53.50:4001/s
+
+#RADIOBROWSERUUID:db792cf7-dd12-11e9-a8ba-52543be04c81
+#EXTINF:1,delta radio - KPop
+http://streams.deltaradio.de/kpop/mp3-192
+
+#RADIOBROWSERUUID:2973ff08-fb80-4281-8b7a-33bd213b06d4
+#EXTINF:1,juka radio kpop
+https://juka-kpop.stream.laut.fm/juka-kpop?t302=2021-04-01_09-03-35&uuid=6aa06ca0-9a01-407d-91af-155d24c5c405
+
+#RADIOBROWSERUUID:7ad3b3f3-802d-4ae4-bc62-dc82881c3a43
+#EXTINF:1,REYFM - #kpop
+https://listen.reyfm.de/kpop_320kbps.mp3
+
+#RADIOBROWSERUUID:7a72aa80-3902-4d73-a548-db81ac780240
+#EXTINF:1,Big B Radio - Kpop
+https://antares.dribbcast.com/proxy/kpop?mp=/s
+
+#RADIOBROWSERUUID:9632c878-0601-11e8-ae97-52543be04c81
+#EXTINF:1,delta radio Der beste RockPop reloaded
+http://regiocast.hoerradar.de/deltaradio-poprock-mp3-hq
+
+#RADIOBROWSERUUID:43be83dc-340b-11e8-bb9b-52543be04c81
+#EXTINF:1,Listen.moe Kpop
+https://listen.moe/kpop/stream
+
+#RADIOBROWSERUUID:fedc2158-dd12-11e9-a8ba-52543be04c81
+#EXTINF:1,delta radio - KPop
+http://streams.deltaradio.de/kpop/aac-64
+
