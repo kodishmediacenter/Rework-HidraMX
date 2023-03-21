@@ -50,6 +50,17 @@
  </channel>
  </channels>
  
+  <channels>
+ <channel>
+ <name>[COLOR white][B]Lista K-Pop[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://thumbs.dreamstime.com/b/logotipo-de-r%C3%A1dio-%C3%ADcone-vetor-simples-124841155.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/Kpop</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+ 
+ 
 <channels>
  <channel>
  <name>[COLOR white][B]Lista Radios Dash[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
