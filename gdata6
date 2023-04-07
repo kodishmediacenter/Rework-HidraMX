@@ -13,7 +13,7 @@
  <channels>
  <channel>
  <name>[COLOR white][B]Lista TV Aberta[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/radios-new.png</thumbnail>
+ <thumbnail>https://supertvaovivo.com/wp-content/uploads/2021/07/tela-de-tv.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/iptv</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv</info>
@@ -24,7 +24,7 @@
  <channels>
  <channel>
  <name>[COLOR white][B]Listas de Radios[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail></thumbnail>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/radios-new.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/radios-cat</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv</info>
