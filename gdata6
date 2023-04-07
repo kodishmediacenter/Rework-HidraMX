@@ -1,0 +1,82 @@
+
+ 
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Salão de Eventos[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://us.123rf.com/450wm/faysalfarhan/faysalfarhan1605/faysalfarhan160503113/56888433-events-calendar-icon-red-glossy-round-button.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/eventos-now.txt</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+ 
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Lista TV Aberta[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/radios-new.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/iptv</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+
+
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Listas de Radios[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail></thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/radios-cat</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+
+ 
+ 
+ 
+
+<channels></channels>
+<channel>
+<name>[COLOR white][B]Filmes[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/Filmes/categoria-filmes</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+
+
+<channels></channels>
+<channel>
+<name>[COLOR white][B]Series[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/series-cat.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/seriea.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+
+
+<channels></channels>
+<channel>
+<name>[COLOR white][B]Rock In Rio 2019[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/rock-rio2019</externallink>
+<thumbnail>https://static1.purebreak.com.br/articles/2/90/23/2/@/345289-rock-in-rio-2021-tem-sua-primeira-atraca-opengraph_1200-3.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR white][B]Rock In Rio 2022[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/rock-rio22</externallink>
+<thumbnail>https://static1.purebreak.com.br/articles/2/90/23/2/@/345289-rock-in-rio-2021-tem-sua-primeira-atraca-opengraph_1200-3.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+
