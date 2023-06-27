@@ -1,0 +1,164 @@
+#EXTM3U
+
+#EXTINF:-1, AMCTV
+https://stmv1.painelvideo.top/nobu/nobu/chunklist_w1265533832.m3u8
+
+#EXTINF:-1, AnimeTV
+https://stmv1.srvif.com/animetv/animetv/chunklist_w926380472.m3u8
+
+#EXTINF:-1, AnimeTV2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId
+
+#EXTINF:-1, AWTV
+https://alanza.iptv2022.com/AWTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, CinepixTV
+https://stmv1.srvif.com/channel1/channel1/chunklist_w888435686.m3u8
+
+#EXTINF:-1, ClassiqueTV
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w151236211.m3u8
+
+#EXTINF:-1, ConectTV
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+
+#EXTINF:-1, CTV
+https://stmv1.samcast.com.br/ctvpb/ctvpb/chunklist_w1112248182.m3u8
+
+#EXTINF:-1, GeekDotTV
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
+#EXTINF:-1, GeniallTV
+https://edge1o.live.opencaster.com/caster/ewrsoDoGuhkx.m3u8
+
+#EXTINF:-1, GLNTV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w164713858.m3u8
+
+#EXTINF:-1, HitsTV
+https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w2116254112.m3u8
+
+#EXTINF:-1, ImperialTV
+https://5eaa6849d0971.streamlock.net/tvimperialnet/tvimperialnet/chunklist_w886409549.m3u8
+
+#EXTINF:-1, ISTV
+https://alanza.iptv2022.com/ISTV_pt-br/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, JundiaiTV
+https://stmv2.samcast.com.br/rosanaa9913/rosanaa9913/chunklist_w1552638857.m3u8
+
+#EXTINF:-1, LoadingTV
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w171922060.m3u8
+
+#EXTINF:-1, MuriloTV
+https://tv02.zas.media:1936/murilotv/murilotv/chunklist_w2098910915.m3u8
+
+#EXTINF:-1, OtakuSignTV
+https://stmv1.srvif.com/otaku/otaku/chunklist_w2027104397.m3u8
+
+#EXTINF:-1, RedeBrasil
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w985173382.m3u8
+
+#EXTINF:-1, RedeCloudingTV
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w726291347.m3u8
+
+#EXTINF:-1, RedeUTV
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w1748841458.m3u8
+
+#EXTINF:-1, RetroCartoonTV
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w881517602.m3u8
+
+#EXTINF:-1, RetroCartoonTV2
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1538682065.m3u8
+
+#EXTINF:-1, RUNTIMETV
+https://stream.ads.ottera.tv/cl/230625cic91gogv6trd5nobr8g/1280x720_3071200_0_f.m3u8?i
+
+#EXTINF:-1, SevenTV
+https://video01.kshost.com.br:4443/aubrey3291/aubrey3291/chunklist_w251704277.m3u8
+
+#EXTINF:-1, SouthParkTV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId
+
+#EXTINF:-1, StrikerVerso
+https://srv3.zcast.com.br/leonardo2328/leonardo2328/chunklist_w426811680.m3u8
+
+#EXTINF:-1, TokusatoTV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId
+
+#EXTINF:-1, TVAracati
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w1868110758.m3u8
+
+#EXTINF:-1, TVCanal29
+https://stmv1.srvif.com/canal29/canal29/chunklist_w1687878050.m3u8
+
+#EXTINF:-1, TvCarioca
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1359426879.m3u8
+
+#EXTINF:-1, TVCine
+https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w2107888694.m3u8
+
+#EXTINF:-1, TVConfiego
+https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w665555448.m3u8
+
+#EXTINF:-1, TVDigitalBirigui
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1124849528.m3u8
+
+#EXTINF:-1, TVFuturo
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/chunklist_w2075615174.m3u8
+
+#EXTINF:-1, TVJapi
+https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w898823386.m3u8
+
+#EXTINF:-1, TVmaisBrasil
+https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist_w1682238439.m3u8
+
+#EXTINF:-1, TVNovaPlay
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1873336616.m3u8
+
+#EXTINF:-1, TVOsorioNews
+https://serv2.videovox.pw/video13154/video13154/chunklist_w1926549094.m3u8
+
+#EXTINF:-1, TVRecordacoes
+https://srv4.zcast.com.br/tvrecordacoeswebce/tvrecordacoeswebce/chunklist_w1407337361.m3u8
+
+#EXTINF:-1, TVSeries
+https://stmv1.srvif.com/tvserie2/tvserie2/chunklist_w26024374.m3u8
+
+#EXTINF:-1, TVStarTrek
+https://stmv1.srvif.com/tvserie3/tvserie3/chunklist_w1688354175.m3u8
+
+#EXTINF:-1, TVTelaViva
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1502623473.m3u8
+
+#EXTINF:-1, TVvaledasArtes
+https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/chunklist_w705971089.m3u8
+
+#EXTINF:-1, TVWebGuarei
+https://stmv1.srvif.com/radiowebguarei/radiowebguarei/chunklist_w1981731542.m3u8
+
+#EXTINF:-1, TvXtreme
+https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1918523513.m3u8
+
+#EXTINF:-1, ULBTV
+https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w968800101.m3u8
+
+#EXTINF:-1, ViaMorenaTV
+https://video02.logicahost.com.br/viamorena/viamorena/chunklist_w235109558.m3u8
+
+#EXTINF:-1, VILATV
+https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1714776297.m3u8
+
+#EXTINF:-1, VintageTV
+https://stmv1.srvif.com/webvintage/webvintage/chunklist_w1753306215.m3u8
+
+#EXTINF:-1, VivaWebTV
+https://video01.kshost.com.br/cypriano46326/cypriano46326/chunklist_w1746254878.m3u8
+
+#EXTINF:-1, WordingTV
+https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w660865253.m3u8
+
+#EXTINF:-1, XPlusTV
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1722057902.m3u8
+
+#EXTINF:-1, YeaahTV
+https://alanza.iptv2022.com/Yeeaah_TV/tracks-v1a1/mono.m3u8
+
