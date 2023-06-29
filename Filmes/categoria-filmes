@@ -3,7 +3,7 @@
  <channel>
  <name>[B][COLOR yellow]Para Rodar os Conteudos é Necessário Elementum[/COLOR][/B]</name>
  <thumbnail>https://uploaddeimagens.com.br/images/003/229/660/full/image.jpg</thumbnail>
- <externallink>https://s3.us-west-1.wasabisys.com/menus/BoxTorrentFORMIGA.m3u</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/formiga-box.xml</externallink>
  <fanart></fanart>
  <info></info>
  </channel>
