@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1 " tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/cinesky.png" group-title="24HS FILMES ",CINE SKY 1 
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&url=http://main.xplus2-main.xyz:2095/live/xplus-2-CeCsltqWHq/9YlpQMAqhC/754.m3u8
+http://main.xplus2-main.xyz:2095/live/xplus-2-CeCsltqWHq/9YlpQMAqhC/754.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2" tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/cinesky.png" group-title="24HS FILMES ",CINE SKY 2
 http://main.xplus2-main.xyz:2095/live/xplus-2-CeCsltqWHq/9YlpQMAqhC/755.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4 " tvg-logo="https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/cinesky.png" group-title="24HS FILMES ",CINE SKY 4 
