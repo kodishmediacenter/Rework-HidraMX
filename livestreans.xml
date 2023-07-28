@@ -7,6 +7,15 @@
 </item>
 
 <item>
+<title>Caze Tv [Twitch Addon]</title>
+<link>plugin://plugin.video.twitch/?mode=play&channel_id=869959833</link>
+<thumbnail>https://yt3.googleusercontent.com/wmFCOPqJzzG0Ps59wMM6iOvbJ7doRg5iRS45C0hs90KiTEanv13INZvNTevcMD2BD7iqjo4IDA=s256-c-k-c0x00ffffff-no-rj</thumbnail>
+<fanart></fanart>
+<info>Aqui temos live de Legue of Legends</info>
+</item>
+
+
+<item>
 <title>Time Brasil [Youtube Addon]</title>
 <link>plugin://plugin.video.tubeliveplayer/play?uri=channel/UCADFFCsD8JQBa9RQmyisjpA/live</link>
 <thumbnail>https://www.cob.org.br/public/site/img/logo_cob.webp</thumbnail>
