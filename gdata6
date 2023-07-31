@@ -1,19 +1,7 @@
-
- 
- <channels>
- <channel>
- <name>[COLOR white][B]Salão de Eventos[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://us.123rf.com/450wm/faysalfarhan/faysalfarhan1605/faysalfarhan160503113/56888433-events-calendar-icon-red-glossy-round-button.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/eventos-now.txt</externallink>
- <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
- <info>Listas iptv</info>
- </channel>
- </channels>
- 
  <channels>
  <channel>
  <name>[COLOR white][B]Lista TV Aberta[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://supertvaovivo.com/wp-content/uploads/2021/07/tela-de-tv.png</thumbnail>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/icon-news/4.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/iptv</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv</info>
@@ -24,7 +12,7 @@
  <channels>
  <channel>
  <name>[COLOR white][B]Listas de Radios[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/radios-new.png</thumbnail>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/icon-news/5.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/radios-cat</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv</info>
