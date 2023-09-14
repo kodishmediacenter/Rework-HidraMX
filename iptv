@@ -42,9 +42,19 @@
 
 <channels>
  <channel>
- <name>[COLOR white][B]Cine Sky[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]Cine Sky Fandon[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/thumbnail_kodish.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/cine</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+
+<channels>
+ <channel>
+ <name>[COLOR white][B]Cine Sky [Usa Elementum] [/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/thumbnail_kodish.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/Cine-Sky</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv</info>
  </channel>
