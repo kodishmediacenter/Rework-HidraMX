@@ -2,7 +2,7 @@
  <channel>
  <name>[COLOR white][B]500 Mais da Kiss[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://kissfm.com.br/wp-content/themes/KISSFM/img/500_2.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/500maiskiss2021e2022</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/500maiskiss2021e2022</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv</info>
  </channel>
@@ -12,7 +12,7 @@
  <channel>
  <name>[COLOR white][B]Lista Radios Brasileiras[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://thumbs.dreamstime.com/b/logotipo-de-r%C3%A1dio-%C3%ADcone-vetor-simples-124841155.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/radios-br</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/radios-br</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv</info>
  </channel>
@@ -23,7 +23,7 @@
  <channel>
  <name>[COLOR white][B]Lista K-Pop[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://thumbs.dreamstime.com/b/logotipo-de-r%C3%A1dio-%C3%ADcone-vetor-simples-124841155.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/Kpop</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/Kpop</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv</info>
  </channel>
@@ -33,7 +33,7 @@
  <channel>
  <name>[COLOR white][B]Lista Radios Dash[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://thumbs.dreamstime.com/b/logotipo-de-r%C3%A1dio-%C3%ADcone-vetor-simples-124841155.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/dash-radio-fixed</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/dash-radio-fixed</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv</info>
  </channel>
@@ -42,7 +42,7 @@
 <channels></channels>
 <channel>
 <name>[COLOR white][B]Vagalume FM[/B][/COLOR] [COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/vagalume.xml</externallink>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/vagalume.xml</externallink>
 <thumbnail>https://play-lh.googleusercontent.com/oli9ixdieLia03jDIdS-R_fsTME9GgCYEuDst7mJD9-WI3BvG5VnrpTVw_clmrRQSA</thumbnail>
 <fanart></fanart>
 <info></info>
