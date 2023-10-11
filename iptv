@@ -4,7 +4,7 @@
  <channel>
  <name>[COLOR white][B]Runtime TV[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://m.media-amazon.com/images/I/51xeNXguMqL.png</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/runtime.m3u</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/RRework-HidraMX/main/runtime.m3u</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv</info>
  </channel>
@@ -14,7 +14,7 @@
  <channel>
  <name>[COLOR white][B]Lista Pluto Tv[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://t2.tudocdn.net/601004</thumbnail>
- <externallink>http://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/plutao.m3u</externallink>
+ <externallink>http://raw.githubusercontent.com/kodishmediacenter/RRework-HidraMX/main/plutao.m3u</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv</info>
  </channel>
@@ -23,8 +23,8 @@
 <channels>
  <channel>
  <name>[COLOR white][B]Kodish Royal One[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/thumbnail_kodish.png</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/livestreans.xml</externallink>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/RRework-HidraMX/main/icones/thumbnail_kodish.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/RRework-HidraMX/main/livestreans.xml</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv</info>
  </channel>
@@ -33,7 +33,7 @@
 <channels>
  <channel>
  <name>[COLOR white][B]Lista IPTV[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/thumbnail_kodish.png</thumbnail>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/RRework-HidraMX/main/icones/thumbnail_kodish.png</thumbnail>
  <externallink>http://vivo.10initiatived.uk:8880/get.php?username=2879940189c4&password=2879940189C4&type=m3u_plus</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv</info>
@@ -43,8 +43,8 @@
 <channels>
  <channel>
  <name>[COLOR white][B]Cine Sky Fandon[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/thumbnail_kodish.png</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/cine</externallink>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/RRework-HidraMX/main/icones/thumbnail_kodish.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/RRework-HidraMX/main/cine</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv</info>
  </channel>
@@ -53,8 +53,8 @@
 <channels>
  <channel>
  <name>[COLOR white][B]Cine Sky [Usa Elementum] [/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/thumbnail_kodish.png</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/Cine-Sky</externallink>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/RRework-HidraMX/main/icones/thumbnail_kodish.png</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/RRework-HidraMX/main/Cine-Sky</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv</info>
  </channel>
@@ -64,7 +64,7 @@
  <channel>
  <name>[COLOR white][B]Lista Sansung TV Korea do Sul[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://t2.tudocdn.net/601004</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/sansung-kr.m3u</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/RRework-HidraMX/main/sansung-kr.m3u</externallink>
  <fanart>https://rafasgeek.com.br/wp-content/uploads/2021/07/samsung-tv-plus-logo.jpg</fanart>
  <info>Listas iptv</info>
  </channel>
@@ -74,7 +74,7 @@
  <channel>
  <name>[COLOR white][B]Fluxus Tv[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://archive.org/download/fluxus-tv/Fluxus%20TV.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/fluxus.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/RRework-HidraMX/main/fluxus.xml</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv</info>
  </channel>
@@ -84,7 +84,7 @@
  <channel>
  <name>[COLOR white][B]Canal Ricos[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://i.imgur.com/Hal4HMF.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/canalricos.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/RRework-HidraMX/main/canalricos.xml</externallink>
  <fanart>https://i.imgur.com/Hal4HMF.jpg</fanart>
  <info>Listas iptv</info>
  </channel>
@@ -95,7 +95,7 @@
  <channels>
  <channel>
  <name>[COLOR white][B]Lista IPTV Canais em Ingles[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/tv.png</thumbnail>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/RRework-HidraMX/main/icones/tv.png</thumbnail>
  <externallink>https://bit.ly/FTV-ENG</externallink>
  <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
  <info>Listas iptv</info>
@@ -105,7 +105,7 @@
   <channels>
  <channel>
  <name>[COLOR white][B]Lista IPTV Canais em Espanhol[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/tv.png</thumbnail>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/RRework-HidraMX/main/icones/tv.png</thumbnail>
  <externallink>https://bit.ly/FTV-ESP</externallink>
  <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
  <info>Listas iptv</info>
@@ -115,7 +115,7 @@
  <channels>
  <channel>
  <name>[COLOR white][B]Lista IPTV BR[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/tv.png</thumbnail>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/RRework-HidraMX/main/icones/tv.png</thumbnail>
  <externallink>http://www.m3u.cl/lista/BR.m3u</externallink>
  <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
  <info>Listas iptv Creditos ao site www.m3u.cl</info>
@@ -125,7 +125,7 @@
  <channels>
  <channel>
  <name>[COLOR white][B]Lista IPTV MEXICO[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/tv.png</thumbnail>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/RRework-HidraMX/main/icones/tv.png</thumbnail>
  <externallink> http://www.m3u.cl/lista/MX.m3u</externallink>
  <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
  <info>Listas iptv Creditos ao site www.m3u.cl atendendo Pedido de Inscrito</info>
@@ -135,7 +135,7 @@
  <channels>
  <channel>
  <name>[COLOR white][B]Lista IPTV CANAL MUSICA[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/tv.png</thumbnail>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/RRework-HidraMX/main/icones/tv.png</thumbnail>
  <externallink>http://www.m3u.cl/lista/musica.m3u</externallink>
  <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
  <info>Listas iptv Creditos ao site www.m3u.cl atendendo Pedido de Inscrito</info>
@@ -145,7 +145,7 @@
   <channels>
  <channel>
  <name>[COLOR white][B]Lista IPTV Tops[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/tv.png</thumbnail>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/RRework-HidraMX/main/icones/tv.png</thumbnail>
  <externallink>http://www.m3u.cl/lista/top.m3u</externallink>
  <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
  <info>Listas iptv Creditos ao site www.m3u.cl atendendo Pedido de Inscrito</info>
