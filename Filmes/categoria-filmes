@@ -3,7 +3,7 @@
  <channel>
  <name>[B][COLOR yellow]Para Rodar os Conteudos é Necessário Elementum[/COLOR][/B]</name>
  <thumbnail>https://uploaddeimagens.com.br/images/003/229/660/full/image.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/formiga-box.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/formiga-box.xml</externallink>
  <fanart></fanart>
  <info></info>
  </channel>
@@ -13,7 +13,7 @@
  <channel>
  <name>Box de Filmes Studio Ghibli</name>
  <thumbnail>https://miro.medium.com/max/1080/1*UQx_ESZRnKkk0ZwAHP2Qlg.png</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/Filmes/guibli</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/Filmes/guibli</externallink>
  <fanart>https://uploads.jovemnerd.com.br/wp-content/uploads/2020/01/studio-ghibli-novos-filmes.jpg</fanart>
  <info></info>
  </channel>
@@ -23,7 +23,7 @@
  <channel>
  <name>Box de Filmes Pixar Box</name>
  <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81If%2Bw5oOJL._AC_SL1500_.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/Filmes/pixar-box-rw</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/Filmes/pixar-box-rw</externallink>
  <fanart>https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/deb155i-4c6c358d-4c0f-4481-8735-0db2db1e5526.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGViMTU1aS00YzZjMzU4ZC00YzBmLTQ0ODEtODczNS0wZGIyZGIxZTU1MjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GrYsZsvn8PjDbhrwT1XauPebFxSERDb-1ffbHcu5Bkc</fanart>
  <info></info>
  </channel>
@@ -34,7 +34,7 @@
  <channel>
  <name>Box de Filmes Alien</name>
  <thumbnail>https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S6-1200x1600-af00adc8f67a7c6138cce183ac1e9503.jpg?h=854&resize=1&w=640</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/Filmes/alien</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/Filmes/alien</externallink>
  <fanart>https://observatoriodeseries.uol.com.br/wp-content/uploads/2019/10/20190828120252_1200_675_-_alien.jpg</fanart>
  <info></info>
  </channel>
@@ -43,8 +43,8 @@
 <channels>
 <channel>
 <name>Filmes Infanto-Juvenil</name>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/kids.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/kids.txt</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
@@ -53,8 +53,8 @@
 <channels>
 <channel>
 <name>Novidades de Filmes</name>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/novidades-01filmes</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/novidades-01filmes</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
@@ -63,8 +63,8 @@
 <channels>
 <channel>
 <name>Lançamentos Anteriores</name>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/Filmes/lanc-anteriores.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/Filmes/lanc-anteriores.txt</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
