@@ -43,7 +43,7 @@
 <channels>
 <channel>
 <name>Filmes Infanto-Juvenil</name>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/filmes-kids.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/kids.txt</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
