@@ -1,4 +1,15 @@
 <item>
+<title>Os Peludos - Guardiões do Lar </title>
+<link>magnet:?xt=urn:btih:f40f1440ae81a05b6fc6ac3e53ce25c91883b07d&amp;dn=VAMOSTORRENT.COM..MKV.Os.Peludos.Guardioes.do.Lar.2023.1080p.WEB-DL.DUAL&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]Op 1 1080[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=mO7Mxu0lfcs$nome=[B]Trailer[/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q0poNkSayOtlwRzY6MKHTQcBauq.jpg|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0</thumbnail>
+<fanart></fanart>
+<info>
+Descrição: A maioria das pessoas não sabe que os Finns moram em todas as casas. São criaturas peludas que surgem no mundo humano para cuidar de uma casa e guardar o fogão. Finnick é um jovem finlandês que não tem essa responsabilidade. Ele só prega peças em sua casa e, portanto, nenhuma das famílias quer ficar em seu lar por muito tempo. Tudo muda quando uma nova família chega à casa de Finnick, cujos truques nunca funcionaram. Ele conhece Christine, de 13 anos, e começa a viver eventos incompreensíveis na cidade com ela. Finnick e Christine, tão diferentes um do outro, devem se unir e trabalhar juntos para resolver o mistério dos acontecimentos e salvar a cidade.
+</info>
+</item>
+
+<item>
 <title>Barbie - Skipper e a Grande Aventura de Babás </title>
 <link>magnet:?xt=urn:btih:TEAD3IW24H46WY3FFBV4PJXYZYGSWIVK&amp;dn=VAMOSTORRENT.COM..MKV.Barbie%20-%20Skipper%20e%20a%20Grande%20Aventura%20de%20Bab%C3%A1s%202023%20WEB-DL%201080p%20x264%20DUAL%205.1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce$nome=[B]Op 1 1080[/B]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=UtQu8YlFolw$nome=[B]Trailer[/B]</link>
