@@ -12,7 +12,7 @@
  <channels>
  <channel>
  <name>Box de Filmes Studio Ghibli</name>
- <thumbnail>https://github.com/kodishmediacenter/Rework-HidraMX/blob/main/icones/icon-news/sghibli.jpg</thumbnail>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/sghibli.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/Filmes/guibli</externallink>
  <fanart>https://uploads.jovemnerd.com.br/wp-content/uploads/2020/01/studio-ghibli-novos-filmes.jpg</fanart>
  <info></info>
