@@ -1,29 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="====PORTUGAL ====" tvg-logo="" group-title="PORTUGAL",====PORTUGAL ====
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/384
-#EXTINF:-1 tvg-id="rtp.1.pt" tvg-name="RTP 1 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/rtp1HD.png" group-title="PORTUGAL",RTP 1 FHD
+#EXTINF:-1 tvg-id="rtp.1.pt" tvg-name="RTP 1 FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/rtp1HD.png" group-title="PORTUGAL",RTP 1 FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/284
-#EXTINF:-1 tvg-id="rtp.1.pt" tvg-name="RTP 1" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/rtp1.png" group-title="PORTUGAL",RTP 1
+#EXTINF:-1 tvg-id="rtp.1.pt" tvg-name="RTP 1" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/rtp1.png" group-title="PORTUGAL",RTP 1
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/283
-#EXTINF:-1 tvg-id="rtp.2.pt" tvg-name="RTP 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/rtp2HD.png" group-title="PORTUGAL",RTP 2 FHD
+#EXTINF:-1 tvg-id="rtp.2.pt" tvg-name="RTP 2 FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/rtp2HD.png" group-title="PORTUGAL",RTP 2 FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/282
-#EXTINF:-1 tvg-id="rtp.2.pt" tvg-name="RTP 2" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/rtp2.png" group-title="PORTUGAL",RTP 2
+#EXTINF:-1 tvg-id="rtp.2.pt" tvg-name="RTP 2" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/rtp2.png" group-title="PORTUGAL",RTP 2
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/281
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/SicHD.png" group-title="PORTUGAL",SIC FHD
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/SicHD.png" group-title="PORTUGAL",SIC FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/280
-#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/sic.png" group-title="PORTUGAL",SIC
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/sic.png" group-title="PORTUGAL",SIC
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/279
-#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/TVI_HD.png" group-title="PORTUGAL",TVI FHD
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/TVI_HD.png" group-title="PORTUGAL",TVI FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/277
-#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/tvi.png" group-title="PORTUGAL",TVI
+#EXTINF:-1 tvg-id="tvi.pt" tvg-name="TVI" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/tvi.png" group-title="PORTUGAL",TVI
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/276
-#EXTINF:-1 tvg-id="tvi.ficcao.pt" tvg-name="TVI Ficção FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/tvificcao.png" group-title="PORTUGAL",TVI Ficção FHD
+#EXTINF:-1 tvg-id="tvi.ficcao.pt" tvg-name="TVI Ficção FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/tvificcao.png" group-title="PORTUGAL",TVI Ficção FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/260
-#EXTINF:-1 tvg-id="tvi.ficcao.pt" tvg-name="TVI FICCAO" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/tvificcao.png" group-title="PORTUGAL",TVI FICCAO
+#EXTINF:-1 tvg-id="tvi.ficcao.pt" tvg-name="TVI FICCAO" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/tvificcao.png" group-title="PORTUGAL",TVI FICCAO
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/259
-#EXTINF:-1 tvg-id="tvi.reality.pt" tvg-name="TVI REALITY HD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/tvireality.png" group-title="PORTUGAL",TVI REALITY HD
+#EXTINF:-1 tvg-id="tvi.reality.pt" tvg-name="TVI REALITY HD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/tvireality.png" group-title="PORTUGAL",TVI REALITY HD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/5802
-#EXTINF:-1 tvg-id="tvi.reality.pt" tvg-name="TVI REALITY" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/tvireality.png" group-title="PORTUGAL",TVI REALITY
+#EXTINF:-1 tvg-id="tvi.reality.pt" tvg-name="TVI REALITY" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/tvireality.png" group-title="PORTUGAL",TVI REALITY
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/5801
 #EXTINF:-1 tvg-id="" tvg-name="TVI REALITY CAMERA 1" tvg-logo="" group-title="PORTUGAL",TVI REALITY CAMERA 1
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/6994
@@ -33,239 +33,239 @@ plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.ro
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/6996
 #EXTINF:-1 tvg-id="" tvg-name="TVI REALITY CAMERA 4" tvg-logo="" group-title="PORTUGAL",TVI REALITY CAMERA 4
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/6997
-#EXTINF:-1 tvg-id="rtp.memoria.pt" tvg-name="RTP Memoria" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/RTPmemoria.png" group-title="PORTUGAL",RTP Memoria
+#EXTINF:-1 tvg-id="rtp.memoria.pt" tvg-name="RTP Memoria" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/RTPmemoria.png" group-title="PORTUGAL",RTP Memoria
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/247
-#EXTINF:-1 tvg-id="rtp.acores.pt" tvg-name="RTP ACORES" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/rtpa%C3%A7ores.png" group-title="PORTUGAL",RTP ACORES
+#EXTINF:-1 tvg-id="rtp.acores.pt" tvg-name="RTP ACORES" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/rtpa%C3%A7ores.png" group-title="PORTUGAL",RTP ACORES
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/248
-#EXTINF:-1 tvg-id="rtp.madeira.pt" tvg-name="RTP Madeira" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/RTPmadeira.png" group-title="PORTUGAL",RTP Madeira
+#EXTINF:-1 tvg-id="rtp.madeira.pt" tvg-name="RTP Madeira" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/RTPmadeira.png" group-title="PORTUGAL",RTP Madeira
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/246
-#EXTINF:-1 tvg-id="rtp.africa.pt" tvg-name="RTP Africa" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/rtpafrica.png" group-title="PORTUGAL",RTP Africa
+#EXTINF:-1 tvg-id="rtp.africa.pt" tvg-name="RTP Africa" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/rtpafrica.png" group-title="PORTUGAL",RTP Africa
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/245
-#EXTINF:-1 tvg-id="sic.caras.pt" tvg-name="SIC CARAS FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/SiccarasHD.png" group-title="PORTUGAL",SIC CARAS FHD
+#EXTINF:-1 tvg-id="sic.caras.pt" tvg-name="SIC CARAS FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/SiccarasHD.png" group-title="PORTUGAL",SIC CARAS FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/249
-#EXTINF:-1 tvg-id="sic.caras.pt" tvg-name="SIC Caras" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/siccaras.png" group-title="PORTUGAL",SIC Caras
+#EXTINF:-1 tvg-id="sic.caras.pt" tvg-name="SIC Caras" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/siccaras.png" group-title="PORTUGAL",SIC Caras
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/250
-#EXTINF:-1 tvg-id="sic.mulher.pt" tvg-name="SIC MULHER FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/SicmulherHD.png" group-title="PORTUGAL",SIC MULHER FHD
+#EXTINF:-1 tvg-id="sic.mulher.pt" tvg-name="SIC MULHER FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/SicmulherHD.png" group-title="PORTUGAL",SIC MULHER FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/253
-#EXTINF:-1 tvg-id="sic.mulher.pt" tvg-name="SIC Mulher" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/Sicmulher.png" group-title="PORTUGAL",SIC Mulher
+#EXTINF:-1 tvg-id="sic.mulher.pt" tvg-name="SIC Mulher" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/Sicmulher.png" group-title="PORTUGAL",SIC Mulher
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/254
-#EXTINF:-1 tvg-id="sic.radical.pt" tvg-name="SIC RADICAL FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/SicRadicalHD.png" group-title="PORTUGAL",SIC RADICAL FHD
+#EXTINF:-1 tvg-id="sic.radical.pt" tvg-name="SIC RADICAL FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/SicRadicalHD.png" group-title="PORTUGAL",SIC RADICAL FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/251
-#EXTINF:-1 tvg-id="sic.radical.pt" tvg-name="SIC Radical" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/Sicradical.png" group-title="PORTUGAL",SIC Radical
+#EXTINF:-1 tvg-id="sic.radical.pt" tvg-name="SIC Radical" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/Sicradical.png" group-title="PORTUGAL",SIC Radical
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/252
-#EXTINF:-1 tvg-id="porto.pt" tvg-name="Porto Canal FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/portocanal.png" group-title="PORTUGAL",Porto Canal FHD
+#EXTINF:-1 tvg-id="porto.pt" tvg-name="Porto Canal FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/portocanal.png" group-title="PORTUGAL",Porto Canal FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/244
-#EXTINF:-1 tvg-id="porto.pt" tvg-name="PORTO CANAL" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/portocanal.png" group-title="PORTUGAL",PORTO CANAL
+#EXTINF:-1 tvg-id="porto.pt" tvg-name="PORTO CANAL" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/portocanal.png" group-title="PORTUGAL",PORTO CANAL
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/243
-#EXTINF:-1 tvg-id="canal.q.pt" tvg-name="Canal Q" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/CanalQ.png" group-title="PORTUGAL",Canal Q
+#EXTINF:-1 tvg-id="canal.q.pt" tvg-name="Canal Q" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/CanalQ.png" group-title="PORTUGAL",Canal Q
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/255
 #EXTINF:-1 tvg-id="" tvg-name=" ▰ Noticias ▰▰▰" tvg-logo="" group-title="PORTUGAL", ▰ Noticias ▰▰▰
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/383
-#EXTINF:-1 tvg-id="cnn.portugal.pt" tvg-name="CNN Portugal" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/cnn.png" group-title="PORTUGAL",CNN Portugal
+#EXTINF:-1 tvg-id="cnn.portugal.pt" tvg-name="CNN Portugal" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/cnn.png" group-title="PORTUGAL",CNN Portugal
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/6993
-#EXTINF:-1 tvg-id="rtp.3.pt" tvg-name="RTP 3 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/rtp3.png" group-title="PORTUGAL",RTP 3 FHD
+#EXTINF:-1 tvg-id="rtp.3.pt" tvg-name="RTP 3 FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/rtp3.png" group-title="PORTUGAL",RTP 3 FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/268
-#EXTINF:-1 tvg-id="rtp.3.pt" tvg-name="RTP 3" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/rtp3.png" group-title="PORTUGAL",RTP 3
+#EXTINF:-1 tvg-id="rtp.3.pt" tvg-name="RTP 3" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/rtp3.png" group-title="PORTUGAL",RTP 3
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/263
-#EXTINF:-1 tvg-id="sic.noticias.pt" tvg-name="SIC NOTICIAS FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/SicnoticiasHD.png" group-title="PORTUGAL",SIC NOTICIAS FHD
+#EXTINF:-1 tvg-id="sic.noticias.pt" tvg-name="SIC NOTICIAS FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/SicnoticiasHD.png" group-title="PORTUGAL",SIC NOTICIAS FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/269
-#EXTINF:-1 tvg-id="sic.noticias.pt" tvg-name="SIC NOTICIAS" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/sicnoticias.png" group-title="PORTUGAL",SIC NOTICIAS
+#EXTINF:-1 tvg-id="sic.noticias.pt" tvg-name="SIC NOTICIAS" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/sicnoticias.png" group-title="PORTUGAL",SIC NOTICIAS
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/270
-#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/CMHD.png" group-title="PORTUGAL",CMTV FHD
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/CMHD.png" group-title="PORTUGAL",CMTV FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/261
-#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/cm.png" group-title="PORTUGAL",CMTV
+#EXTINF:-1 tvg-id="cmtv.pt" tvg-name="CMTV" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/cm.png" group-title="PORTUGAL",CMTV
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/262
-#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="TVI 24 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/tvi24.png" group-title="PORTUGAL",TVI 24 FHD
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="TVI 24 FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/tvi24.png" group-title="PORTUGAL",TVI 24 FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/271
-#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="TVI 24" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/tvi24.png" group-title="PORTUGAL",TVI 24
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="TVI 24" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/tvi24.png" group-title="PORTUGAL",TVI 24
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/272
 #EXTINF:-1 tvg-id="" tvg-name="▰ Desporto▰▰▰" tvg-logo="" group-title="PORTUGAL",▰ Desporto▰▰▰
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/382
-#EXTINF:-1 tvg-id="sport.plus.pt" tvg-name="SPORT TV+ FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/SportvplusHD.png" group-title="PORTUGAL",SPORT TV+ FHD
+#EXTINF:-1 tvg-id="sport.plus.pt" tvg-name="SPORT TV+ FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/SportvplusHD.png" group-title="PORTUGAL",SPORT TV+ FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/233
-#EXTINF:-1 tvg-id="sport.plus.pt" tvg-name="SPORT TV+" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/Sportvplus.png" group-title="PORTUGAL",SPORT TV+
+#EXTINF:-1 tvg-id="sport.plus.pt" tvg-name="SPORT TV+" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/Sportvplus.png" group-title="PORTUGAL",SPORT TV+
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/234
-#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="Sport TV 1 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/SportTV1HD.png" group-title="PORTUGAL",Sport TV 1 FHD
+#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="Sport TV 1 FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/SportTV1HD.png" group-title="PORTUGAL",Sport TV 1 FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/231
-#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="Sport TV 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/SportTV1HD.png" group-title="PORTUGAL",Sport TV 1 HD
+#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="Sport TV 1 HD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/SportTV1HD.png" group-title="PORTUGAL",Sport TV 1 HD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/15197
 #EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="Sport TV 1 HD NEW" tvg-logo="" group-title="PORTUGAL",Sport TV 1 HD NEW
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/10029
-#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="Sport TV 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/SportTV2HD.png" group-title="PORTUGAL",Sport TV 2 FHD
+#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="Sport TV 2 FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/SportTV2HD.png" group-title="PORTUGAL",Sport TV 2 FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/229
-#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="Sport TV 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/SportTV2HD.png" group-title="PORTUGAL",Sport TV 2 HD
+#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="Sport TV 2 HD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/SportTV2HD.png" group-title="PORTUGAL",Sport TV 2 HD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/15198
-#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="Sport TV 3 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/sportTV3HD.png" group-title="PORTUGAL",Sport TV 3 FHD
+#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="Sport TV 3 FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/sportTV3HD.png" group-title="PORTUGAL",Sport TV 3 FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/227
-#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="Sport TV 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/sportTV3HD.png" group-title="PORTUGAL",Sport TV 3 HD
+#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="Sport TV 3 HD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/sportTV3HD.png" group-title="PORTUGAL",Sport TV 3 HD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/15199
-#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="Sport TV 4 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/SportTV4HD.png" group-title="PORTUGAL",Sport TV 4 FHD
+#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="Sport TV 4 FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/SportTV4HD.png" group-title="PORTUGAL",Sport TV 4 FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/225
-#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="Sport TV 4 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/SportTV4HD.png" group-title="PORTUGAL",Sport TV 4 HD
+#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="Sport TV 4 HD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/SportTV4HD.png" group-title="PORTUGAL",Sport TV 4 HD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/15200
-#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="Sport TV 4 HD NEW" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/SportTV4HD.png" group-title="PORTUGAL",Sport TV 4 HD NEW
+#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="Sport TV 4 HD NEW" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/SportTV4HD.png" group-title="PORTUGAL",Sport TV 4 HD NEW
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/10028
-#EXTINF:-1 tvg-id="sport.tv5.pt" tvg-name="Sport TV 5 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/SportTV5HD.png" group-title="PORTUGAL",Sport TV 5 FHD
+#EXTINF:-1 tvg-id="sport.tv5.pt" tvg-name="Sport TV 5 FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/SportTV5HD.png" group-title="PORTUGAL",Sport TV 5 FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/223
-#EXTINF:-1 tvg-id="sport.tv5.pt" tvg-name="Sport TV 5 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/SportTV5HD.png" group-title="PORTUGAL",Sport TV 5 HD
+#EXTINF:-1 tvg-id="sport.tv5.pt" tvg-name="Sport TV 5 HD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/SportTV5HD.png" group-title="PORTUGAL",Sport TV 5 HD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/15201
 #EXTINF:-1 tvg-id="sport.tv6.pt" tvg-name="Sport TV 6 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=https://www.lyngsat.com/logo/tv/ss/sport_tv_pt.png" group-title="PORTUGAL",Sport TV 6 FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/4084
 #EXTINF:-1 tvg-id="sport.tv6.pt" tvg-name="Sport TV 6 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=https://www.lyngsat.com/logo/tv/ss/sport_tv_pt.png" group-title="PORTUGAL",Sport TV 6 HD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/15202
-#EXTINF:-1 tvg-id="btv1.pt" tvg-name="BTV 1 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/BTVHD.png" group-title="PORTUGAL",BTV 1 FHD
+#EXTINF:-1 tvg-id="btv1.pt" tvg-name="BTV 1 FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/BTVHD.png" group-title="PORTUGAL",BTV 1 FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/237
-#EXTINF:-1 tvg-id="btv.pt" tvg-name="BTV 1" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/BTV.png" group-title="PORTUGAL",BTV 1
+#EXTINF:-1 tvg-id="btv.pt" tvg-name="BTV 1" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/BTV.png" group-title="PORTUGAL",BTV 1
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/238
-#EXTINF:-1 tvg-id="eleven.1.pt" tvg-name="Eleven Sports 1 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/ElevenSports1.png" group-title="PORTUGAL",Eleven Sports 1 FHD
+#EXTINF:-1 tvg-id="eleven.1.pt" tvg-name="Eleven Sports 1 FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/ElevenSports1.png" group-title="PORTUGAL",Eleven Sports 1 FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/6627
-#EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="Eleven Sport 1" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/ElevenSports1.png" group-title="PORTUGAL",Eleven Sport 1
+#EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="Eleven Sport 1" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/ElevenSports1.png" group-title="PORTUGAL",Eleven Sport 1
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/6626
-#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="Eleven Sports 2 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/ElevenSports2.png" group-title="PORTUGAL",Eleven Sports 2 FHD
+#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="Eleven Sports 2 FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/ElevenSports2.png" group-title="PORTUGAL",Eleven Sports 2 FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/6629
-#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="Eleven Sports 2" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/ElevenSports2.png" group-title="PORTUGAL",Eleven Sports 2
+#EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="Eleven Sports 2" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/ElevenSports2.png" group-title="PORTUGAL",Eleven Sports 2
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/6628
-#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="Eleven Sports 3 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/Elevensports3.png" group-title="PORTUGAL",Eleven Sports 3 FHD
+#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="Eleven Sports 3 FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/Elevensports3.png" group-title="PORTUGAL",Eleven Sports 3 FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/216
-#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="Eleven Sports 3" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/Elevensports3.png" group-title="PORTUGAL",Eleven Sports 3
+#EXTINF:-1 tvg-id="eleven.sports.3.pt" tvg-name="Eleven Sports 3" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/Elevensports3.png" group-title="PORTUGAL",Eleven Sports 3
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/217
-#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="Eleven Sports 4 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/ElevenSports4.png" group-title="PORTUGAL",Eleven Sports 4 FHD
+#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="Eleven Sports 4 FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/ElevenSports4.png" group-title="PORTUGAL",Eleven Sports 4 FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/214
-#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="Eleven Sports 4" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/ElevenSports4.png" group-title="PORTUGAL",Eleven Sports 4
+#EXTINF:-1 tvg-id="eleven.sports.4.pt" tvg-name="Eleven Sports 4" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/ElevenSports4.png" group-title="PORTUGAL",Eleven Sports 4
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/215
-#EXTINF:-1 tvg-id="eleven.sports.5.pt" tvg-name="Eleven Sports 5 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/ElevenSports5.png" group-title="PORTUGAL",Eleven Sports 5 FHD
+#EXTINF:-1 tvg-id="eleven.sports.5.pt" tvg-name="Eleven Sports 5 FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/ElevenSports5.png" group-title="PORTUGAL",Eleven Sports 5 FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/212
-#EXTINF:-1 tvg-id="eleven.sports.5.pt" tvg-name="Eleven Sports 5" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/ElevenSports5.png" group-title="PORTUGAL",Eleven Sports 5
+#EXTINF:-1 tvg-id="eleven.sports.5.pt" tvg-name="Eleven Sports 5" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/ElevenSports5.png" group-title="PORTUGAL",Eleven Sports 5
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/213
-#EXTINF:-1 tvg-id="eleven.sports.6.pt" tvg-name="Eleven Sports 6" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/Elevensports6.png" group-title="PORTUGAL",Eleven Sports 6
+#EXTINF:-1 tvg-id="eleven.sports.6.pt" tvg-name="Eleven Sports 6" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/Elevensports6.png" group-title="PORTUGAL",Eleven Sports 6
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/211
-#EXTINF:-1 tvg-id="canal.11.pt" tvg-name="CANAL 11 FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/canal11.png" group-title="PORTUGAL",CANAL 11 FHD
+#EXTINF:-1 tvg-id="canal.11.pt" tvg-name="CANAL 11 FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/canal11.png" group-title="PORTUGAL",CANAL 11 FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/240
-#EXTINF:-1 tvg-id="a.bola.pt" tvg-name="A BOLA TV FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/abolatv.png" group-title="PORTUGAL",A BOLA TV FHD
+#EXTINF:-1 tvg-id="a.bola.pt" tvg-name="A BOLA TV FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/abolatv.png" group-title="PORTUGAL",A BOLA TV FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/241
-#EXTINF:-1 tvg-id="a.bola.pt" tvg-name="A BOLA TV" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/abolatv.png" group-title="PORTUGAL",A BOLA TV
+#EXTINF:-1 tvg-id="a.bola.pt" tvg-name="A BOLA TV" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/abolatv.png" group-title="PORTUGAL",A BOLA TV
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/242
-#EXTINF:-1 tvg-id="sporting.pt" tvg-name="Sporting TV" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/sportingtv.png" group-title="PORTUGAL",Sporting TV
+#EXTINF:-1 tvg-id="sporting.pt" tvg-name="Sporting TV" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/sportingtv.png" group-title="PORTUGAL",Sporting TV
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/236
-#EXTINF:-1 tvg-id="eurosport.1.pt" tvg-name="Eurosport 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/Eurosport1HD.png" group-title="PORTUGAL",Eurosport 1 HD
+#EXTINF:-1 tvg-id="eurosport.1.pt" tvg-name="Eurosport 1 HD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/Eurosport1HD.png" group-title="PORTUGAL",Eurosport 1 HD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/204
-#EXTINF:-1 tvg-id="eurosport.1.pt" tvg-name="Eurosport 1" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/Eurosport1HD.png" group-title="PORTUGAL",Eurosport 1
+#EXTINF:-1 tvg-id="eurosport.1.pt" tvg-name="Eurosport 1" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/Eurosport1HD.png" group-title="PORTUGAL",Eurosport 1
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/205
-#EXTINF:-1 tvg-id="eurosport.2.pt" tvg-name="Eurosport 2" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/eurosport2.png" group-title="PORTUGAL",Eurosport 2
+#EXTINF:-1 tvg-id="eurosport.2.pt" tvg-name="Eurosport 2" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/eurosport2.png" group-title="PORTUGAL",Eurosport 2
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/203
-#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="Motorvision" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/MotorvisionHD.png" group-title="PORTUGAL",Motorvision
+#EXTINF:-1 tvg-id="motorvision.pt" tvg-name="Motorvision" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/MotorvisionHD.png" group-title="PORTUGAL",Motorvision
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/208
-#EXTINF:-1 tvg-id="fuel.pt" tvg-name="Fuel TV" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/FuelTV.png" group-title="PORTUGAL",Fuel TV
+#EXTINF:-1 tvg-id="fuel.pt" tvg-name="Fuel TV" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/FuelTV.png" group-title="PORTUGAL",Fuel TV
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/209
-#EXTINF:-1 tvg-id="red.bull.de" tvg-name="REDBULL TV FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/13-19_Picons/redbulltv.png" group-title="PORTUGAL",REDBULL TV FHD
+#EXTINF:-1 tvg-id="red.bull.de" tvg-name="REDBULL TV FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/13-19_Picons/redbulltv.png" group-title="PORTUGAL",REDBULL TV FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/210
-#EXTINF:-1 tvg-id="nba.pt" tvg-name="Sport TV NBA FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/NBA.png" group-title="PORTUGAL",Sport TV NBA FHD
+#EXTINF:-1 tvg-id="nba.pt" tvg-name="Sport TV NBA FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/NBA.png" group-title="PORTUGAL",Sport TV NBA FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/235
-#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PFC" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/pfc.png" group-title="PORTUGAL",PFC
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PFC" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/pfc.png" group-title="PORTUGAL",PFC
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/239
 #EXTINF:-1 tvg-id="" tvg-name="Fight Box HD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=https://4.bp.blogspot.com/-hkMGV9ae6tU/V1ASB_QA4PI/AAAAAAAAGiE/fjlB5ne1RKAfQDv33Owvu__IYtorG_t8QCLcB/s1600/FIGHTBOX_HD-400.png" group-title="PORTUGAL",Fight Box HD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/3657
 #EXTINF:-1 tvg-id="" tvg-name="▰ Cinema ▰▰▰" tvg-logo="" group-title="PORTUGAL",▰ Cinema ▰▰▰
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/381
-#EXTINF:-1 tvg-id="tvcine.top.pt" tvg-name="TVCine Top FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/TVcineTopHD.png" group-title="PORTUGAL",TVCine Top FHD
+#EXTINF:-1 tvg-id="tvcine.top.pt" tvg-name="TVCine Top FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/TVcineTopHD.png" group-title="PORTUGAL",TVCine Top FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/192
-#EXTINF:-1 tvg-id="tvcine.top.pt" tvg-name="TVCine Top" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/tvcineTop.png" group-title="PORTUGAL",TVCine Top
+#EXTINF:-1 tvg-id="tvcine.top.pt" tvg-name="TVCine Top" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/tvcineTop.png" group-title="PORTUGAL",TVCine Top
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/193
-#EXTINF:-1 tvg-id="tvcine.edition.pt" tvg-name="TVCine Edition FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/tvcineEditionHD.png" group-title="PORTUGAL",TVCine Edition FHD
+#EXTINF:-1 tvg-id="tvcine.edition.pt" tvg-name="TVCine Edition FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/tvcineEditionHD.png" group-title="PORTUGAL",TVCine Edition FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/190
-#EXTINF:-1 tvg-id="tvcine.edition.pt" tvg-name="TVCine Edition" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/TvcineEdition.png" group-title="PORTUGAL",TVCine Edition
+#EXTINF:-1 tvg-id="tvcine.edition.pt" tvg-name="TVCine Edition" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/TvcineEdition.png" group-title="PORTUGAL",TVCine Edition
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/191
-#EXTINF:-1 tvg-id="tvcine.emotion.pt" tvg-name="TVCine Emotion FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/TvcineEmotionHD.png" group-title="PORTUGAL",TVCine Emotion FHD
+#EXTINF:-1 tvg-id="tvcine.emotion.pt" tvg-name="TVCine Emotion FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/TvcineEmotionHD.png" group-title="PORTUGAL",TVCine Emotion FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/187
-#EXTINF:-1 tvg-id="tvcine.emotion.pt" tvg-name="TVCine EMOTION" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/TvcineEmotion.png" group-title="PORTUGAL",TVCine EMOTION
+#EXTINF:-1 tvg-id="tvcine.emotion.pt" tvg-name="TVCine EMOTION" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/TvcineEmotion.png" group-title="PORTUGAL",TVCine EMOTION
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/189
-#EXTINF:-1 tvg-id="tvcine.action.pt" tvg-name="TVCine Action FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/TvcineActionHD.png" group-title="PORTUGAL",TVCine Action FHD
+#EXTINF:-1 tvg-id="tvcine.action.pt" tvg-name="TVCine Action FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/TvcineActionHD.png" group-title="PORTUGAL",TVCine Action FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/185
-#EXTINF:-1 tvg-id="tvcine.action.pt" tvg-name="TVCine Action" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/TVcineAction.png" group-title="PORTUGAL",TVCine Action
+#EXTINF:-1 tvg-id="tvcine.action.pt" tvg-name="TVCine Action" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/TVcineAction.png" group-title="PORTUGAL",TVCine Action
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/186
-#EXTINF:-1 tvg-id="nos.studios.pt" tvg-name="NOS Studios FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/NOS_studios.png" group-title="PORTUGAL",NOS Studios FHD
+#EXTINF:-1 tvg-id="nos.studios.pt" tvg-name="NOS Studios FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/NOS_studios.png" group-title="PORTUGAL",NOS Studios FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/198
-#EXTINF:-1 tvg-id="fox.pt" tvg-name="FOX FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/FoxHD.png" group-title="PORTUGAL",FOX FHD
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="FOX FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/FoxHD.png" group-title="PORTUGAL",FOX FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/181
-#EXTINF:-1 tvg-id="fox.pt" tvg-name="FOX" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/Fox.png" group-title="PORTUGAL",FOX
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="FOX" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/Fox.png" group-title="PORTUGAL",FOX
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/180
-#EXTINF:-1 tvg-id="fox.movies.pt" tvg-name="FOX Movies" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/foxmovies.png" group-title="PORTUGAL",FOX Movies
+#EXTINF:-1 tvg-id="fox.movies.pt" tvg-name="FOX Movies" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/foxmovies.png" group-title="PORTUGAL",FOX Movies
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/176
-#EXTINF:-1 tvg-id="fox.crime.pt" tvg-name="FOX Crime FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/FoxcrimeHD.png" group-title="PORTUGAL",FOX Crime FHD
+#EXTINF:-1 tvg-id="fox.crime.pt" tvg-name="FOX Crime FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/FoxcrimeHD.png" group-title="PORTUGAL",FOX Crime FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/177
-#EXTINF:-1 tvg-id="fox.life.pt" tvg-name="FOX Life FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/FoxLifeHD.png" group-title="PORTUGAL",FOX Life FHD
+#EXTINF:-1 tvg-id="fox.life.pt" tvg-name="FOX Life FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/FoxLifeHD.png" group-title="PORTUGAL",FOX Life FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/178
-#EXTINF:-1 tvg-id="fox.comedy.pt" tvg-name="FOX COMEDY" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/Foxcomedy.png" group-title="PORTUGAL",FOX COMEDY
+#EXTINF:-1 tvg-id="fox.comedy.pt" tvg-name="FOX COMEDY" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/Foxcomedy.png" group-title="PORTUGAL",FOX COMEDY
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/179
-#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="Hollywood FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/HollywoodHD.png" group-title="PORTUGAL",Hollywood FHD
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="Hollywood FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/HollywoodHD.png" group-title="PORTUGAL",Hollywood FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/194
-#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="Hollywood" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/hollywood.png" group-title="PORTUGAL",Hollywood
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="Hollywood" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/hollywood.png" group-title="PORTUGAL",Hollywood
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/195
-#EXTINF:-1 tvg-id="amc.pt" tvg-name="AMC FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/amcHD.png" group-title="PORTUGAL",AMC FHD
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="AMC FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/amcHD.png" group-title="PORTUGAL",AMC FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/182
-#EXTINF:-1 tvg-id="amc.pt" tvg-name="AMC" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/amc.png" group-title="PORTUGAL",AMC
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="AMC" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/amc.png" group-title="PORTUGAL",AMC
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/183
-#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="CINEMUNDO FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/cinemundo.png" group-title="PORTUGAL",CINEMUNDO FHD
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="CINEMUNDO FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/cinemundo.png" group-title="PORTUGAL",CINEMUNDO FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/196
-#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="CINEMUNDO" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/cinemundo.png" group-title="PORTUGAL",CINEMUNDO
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="CINEMUNDO" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/cinemundo.png" group-title="PORTUGAL",CINEMUNDO
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/197
-#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/AxnHD.png" group-title="PORTUGAL",AXN FHD
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/AxnHD.png" group-title="PORTUGAL",AXN FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/175
-#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/AxnHD.png" group-title="PORTUGAL",AXN
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/AxnHD.png" group-title="PORTUGAL",AXN
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/174
-#EXTINF:-1 tvg-id="axn.movies.pt" tvg-name="AXN MOVIE FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/AxnBlackHD.png" group-title="PORTUGAL",AXN MOVIE FHD
+#EXTINF:-1 tvg-id="axn.movies.pt" tvg-name="AXN MOVIE FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/AxnBlackHD.png" group-title="PORTUGAL",AXN MOVIE FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/171
-#EXTINF:-1 tvg-id="axn.movies.pt" tvg-name="AXN MOVIES" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/axnblack.png" group-title="PORTUGAL",AXN MOVIES
+#EXTINF:-1 tvg-id="axn.movies.pt" tvg-name="AXN MOVIES" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/axnblack.png" group-title="PORTUGAL",AXN MOVIES
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/170
-#EXTINF:-1 tvg-id="axn.white.pt" tvg-name="AXN White FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/AxnWhiteHD.png" group-title="PORTUGAL",AXN White FHD
+#EXTINF:-1 tvg-id="axn.white.pt" tvg-name="AXN White FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/AxnWhiteHD.png" group-title="PORTUGAL",AXN White FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/173
-#EXTINF:-1 tvg-id="axn.white.pt" tvg-name="AXN White" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/Axnwhite.png" group-title="PORTUGAL",AXN White
+#EXTINF:-1 tvg-id="axn.white.pt" tvg-name="AXN White" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/Axnwhite.png" group-title="PORTUGAL",AXN White
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/172
-#EXTINF:-1 tvg-id="syfy.pt" tvg-name="SYFY FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/syfy.png" group-title="PORTUGAL",SYFY FHD
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="SYFY FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/syfy.png" group-title="PORTUGAL",SYFY FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/184
 #EXTINF:-1 tvg-id="" tvg-name="▰ Cultura ▰▰▰" tvg-logo="" group-title="PORTUGAL",▰ Cultura ▰▰▰
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/380
-#EXTINF:-1 tvg-id="casa.e.cozinha.pt" tvg-name="Casa e Cozinha FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/CasaecozinhaHD.png" group-title="PORTUGAL",Casa e Cozinha FHD
+#EXTINF:-1 tvg-id="casa.e.cozinha.pt" tvg-name="Casa e Cozinha FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/CasaecozinhaHD.png" group-title="PORTUGAL",Casa e Cozinha FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/152
-#EXTINF:-1 tvg-id="24.kitchen.pt" tvg-name="24 Kitchen FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/24KitchenHD.png" group-title="PORTUGAL",24 Kitchen FHD
+#EXTINF:-1 tvg-id="24.kitchen.pt" tvg-name="24 Kitchen FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/24KitchenHD.png" group-title="PORTUGAL",24 Kitchen FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/153
-#EXTINF:-1 tvg-id="national.geographic.pt" tvg-name="National Geographic FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/NatgeoHD.png" group-title="PORTUGAL",National Geographic FHD
+#EXTINF:-1 tvg-id="national.geographic.pt" tvg-name="National Geographic FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/NatgeoHD.png" group-title="PORTUGAL",National Geographic FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/149
-#EXTINF:-1 tvg-id="national.geographic.wild.pt" tvg-name="National Geographic WILD FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/NatgeoWildHD.png" group-title="PORTUGAL",National Geographic WILD FHD
+#EXTINF:-1 tvg-id="national.geographic.wild.pt" tvg-name="National Geographic WILD FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/NatgeoWildHD.png" group-title="PORTUGAL",National Geographic WILD FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/150
-#EXTINF:-1 tvg-id="id.investigation.discovery.pt" tvg-name="ID Investigation Discovery" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/IDDiscoveryHD.png" group-title="PORTUGAL",ID Investigation Discovery
+#EXTINF:-1 tvg-id="id.investigation.discovery.pt" tvg-name="ID Investigation Discovery" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/IDDiscoveryHD.png" group-title="PORTUGAL",ID Investigation Discovery
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/158
 #EXTINF:-1 tvg-id="crime.plus.investigation.pt" tvg-name="CRIME + INVESTIGAÇÃO" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=https://www.nos.pt/particulares/televisao/canais/PublishingImages/CI/logo-white.png" group-title="PORTUGAL",CRIME + INVESTIGAÇÃO
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/10032
-#EXTINF:-1 tvg-id="discovery.pt" tvg-name="Discovery FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/DiscoveryHD.png" group-title="PORTUGAL",Discovery FHD
+#EXTINF:-1 tvg-id="discovery.pt" tvg-name="Discovery FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/DiscoveryHD.png" group-title="PORTUGAL",Discovery FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/157
-#EXTINF:-1 tvg-id="discovery.pt" tvg-name="Discovery Channel" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/Discoverychannel.png" group-title="PORTUGAL",Discovery Channel
+#EXTINF:-1 tvg-id="discovery.pt" tvg-name="Discovery Channel" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/Discoverychannel.png" group-title="PORTUGAL",Discovery Channel
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/143
-#EXTINF:-1 tvg-id="canal.historia.pt" tvg-name="Canal Historia" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/Historia.png" group-title="PORTUGAL",Canal Historia
+#EXTINF:-1 tvg-id="canal.historia.pt" tvg-name="Canal Historia" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/Historia.png" group-title="PORTUGAL",Canal Historia
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/145
-#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Odisseia" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/Odisseia.png" group-title="PORTUGAL",Odisseia
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Odisseia" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/Odisseia.png" group-title="PORTUGAL",Odisseia
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/151
-#EXTINF:-1 tvg-id="travel.pt" tvg-name="Travel Channel HD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/TravelchennelHD.png" group-title="PORTUGAL",Travel Channel HD
+#EXTINF:-1 tvg-id="travel.pt" tvg-name="Travel Channel HD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/TravelchennelHD.png" group-title="PORTUGAL",Travel Channel HD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/138
-#EXTINF:-1 tvg-id="tlc.pt" tvg-name="TLC" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/TLC.png" group-title="PORTUGAL",TLC
+#EXTINF:-1 tvg-id="tlc.pt" tvg-name="TLC" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/TLC.png" group-title="PORTUGAL",TLC
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/159
-#EXTINF:-1 tvg-id="ftv.pt" tvg-name="FASHION TV" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/fashiontv.png" group-title="PORTUGAL",FASHION TV
+#EXTINF:-1 tvg-id="ftv.pt" tvg-name="FASHION TV" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/fashiontv.png" group-title="PORTUGAL",FASHION TV
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/155
-#EXTINF:-1 tvg-id="mezzo.live.pt" tvg-name="Mezzo" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/mezzo.png" group-title="PORTUGAL",Mezzo
+#EXTINF:-1 tvg-id="mezzo.live.pt" tvg-name="Mezzo" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/mezzo.png" group-title="PORTUGAL",Mezzo
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/146
 #EXTINF:-1 tvg-id="s.plus.pt" tvg-name="S+ HD" tvg-logo="" group-title="PORTUGAL",S+ HD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/2935
-#EXTINF:-1 tvg-id="e.entertainment.pt" tvg-name="E! Entertainment" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/E!.png" group-title="PORTUGAL",E! Entertainment
+#EXTINF:-1 tvg-id="e.entertainment.pt" tvg-name="E! Entertainment" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/E!.png" group-title="PORTUGAL",E! Entertainment
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/144
-#EXTINF:-1 tvg-id="caca.e.pesca.pt" tvg-name="Caça e Pesca" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/cacaepesca.png" group-title="PORTUGAL",Caça e Pesca
+#EXTINF:-1 tvg-id="caca.e.pesca.pt" tvg-name="Caça e Pesca" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/cacaepesca.png" group-title="PORTUGAL",Caça e Pesca
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/207
 #EXTINF:-1 tvg-id="zap.viva.pt" tvg-name="ZAP Viva HD" tvg-logo="" group-title="PORTUGAL",ZAP Viva HD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/4085
 #EXTINF:-1 tvg-id="dogtv.pt" tvg-name="DOG TV" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=https://i.imgur.com/R1mVNpa.png" group-title="PORTUGAL",DOG TV
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/2678
-#EXTINF:-1 tvg-id="cacavision.pt" tvg-name="Caçavision" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/cacavision.png" group-title="PORTUGAL",Caçavision
+#EXTINF:-1 tvg-id="cacavision.pt" tvg-name="Caçavision" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/cacavision.png" group-title="PORTUGAL",Caçavision
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/206
-#EXTINF:-1 tvg-id="toros.pt" tvg-name="Toros TV" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/TorosTvHD.png" group-title="PORTUGAL",Toros TV
+#EXTINF:-1 tvg-id="toros.pt" tvg-name="Toros TV" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/TorosTvHD.png" group-title="PORTUGAL",Toros TV
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/202
 #EXTINF:-1 tvg-id="" tvg-name="TV FÁTIMA" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=https://i.imgur.com/hCFVc5S.jpg" group-title="PORTUGAL",TV FÁTIMA
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/2676
@@ -273,63 +273,63 @@ plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.ro
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/379
 #EXTINF:-1 tvg-id="" tvg-name="Disney+" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=https://i.imgur.com/werVd6u.png" group-title="PORTUGAL",Disney+
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/17518
-#EXTINF:-1 tvg-id="panda.pt" tvg-name="Canal Panda" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/canalpanda.png" group-title="PORTUGAL",Canal Panda
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="Canal Panda" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/canalpanda.png" group-title="PORTUGAL",Canal Panda
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/168
 #EXTINF:-1 tvg-id="panda.kids.pt" tvg-name="Panda KIDS" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=https://i.imgur.com/DL784CZ.png" group-title="PORTUGAL",Panda KIDS
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/10031
-#EXTINF:-1 tvg-id="biggs.pt" tvg-name="Biggs" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/Pandabiggs.png" group-title="PORTUGAL",Biggs
+#EXTINF:-1 tvg-id="biggs.pt" tvg-name="Biggs" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/Pandabiggs.png" group-title="PORTUGAL",Biggs
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/163
-#EXTINF:-1 tvg-id="cartoon.network.pt" tvg-name="Cartoon Network" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/cartoonnetwork.png" group-title="PORTUGAL",Cartoon Network
+#EXTINF:-1 tvg-id="cartoon.network.pt" tvg-name="Cartoon Network" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/cartoonnetwork.png" group-title="PORTUGAL",Cartoon Network
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/169
-#EXTINF:-1 tvg-id="sic.k.pt" tvg-name="SIC K" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/sick.png" group-title="PORTUGAL",SIC K
+#EXTINF:-1 tvg-id="sic.k.pt" tvg-name="SIC K" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/sick.png" group-title="PORTUGAL",SIC K
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/165
-#EXTINF:-1 tvg-id="disney.junior.pt" tvg-name="Disney Junior" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/disneyJunior.png" group-title="PORTUGAL",Disney Junior
+#EXTINF:-1 tvg-id="disney.junior.pt" tvg-name="Disney Junior" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/disneyJunior.png" group-title="PORTUGAL",Disney Junior
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/167
-#EXTINF:-1 tvg-id="disney.pt" tvg-name="Disney Channel" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/disneychannel.png" group-title="PORTUGAL",Disney Channel
+#EXTINF:-1 tvg-id="disney.pt" tvg-name="Disney Channel" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/disneychannel.png" group-title="PORTUGAL",Disney Channel
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/166
-#EXTINF:-1 tvg-id="baby.pt" tvg-name="Baby TV" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/babytv.png" group-title="PORTUGAL",Baby TV
+#EXTINF:-1 tvg-id="baby.pt" tvg-name="Baby TV" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/babytv.png" group-title="PORTUGAL",Baby TV
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/164
-#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/nickelodeon.png" group-title="PORTUGAL",Nickelodeon
+#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/nickelodeon.png" group-title="PORTUGAL",Nickelodeon
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/160
-#EXTINF:-1 tvg-id="nick.jr.pt" tvg-name="Nick Jr." tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/NickJr.png" group-title="PORTUGAL",Nick Jr.
+#EXTINF:-1 tvg-id="nick.jr.pt" tvg-name="Nick Jr." tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/NickJr.png" group-title="PORTUGAL",Nick Jr.
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/162
 #EXTINF:-1 tvg-id="" tvg-name="▰ Musica ▰▰▰" tvg-logo="" group-title="PORTUGAL",▰ Musica ▰▰▰
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/378
 #EXTINF:-1 tvg-id="" tvg-name="MTV 00'S FHD" tvg-logo="" group-title="PORTUGAL",MTV 00'S FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/6735
-#EXTINF:-1 tvg-id="mtv.portugal.pt" tvg-name="MTV Portugal FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/MTVPortugalHD.png" group-title="PORTUGAL",MTV Portugal FHD
+#EXTINF:-1 tvg-id="mtv.portugal.pt" tvg-name="MTV Portugal FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/MTVPortugalHD.png" group-title="PORTUGAL",MTV Portugal FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/148
-#EXTINF:-1 tvg-id="mcm.pop.pt" tvg-name="MCM Pop" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/MCMPop.png" group-title="PORTUGAL",MCM Pop
+#EXTINF:-1 tvg-id="mcm.pop.pt" tvg-name="MCM Pop" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/MCMPop.png" group-title="PORTUGAL",MCM Pop
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/147
 #EXTINF:-1 tvg-id="trace.brazuca.pt" tvg-name="Trace Brazuca" tvg-logo="" group-title="PORTUGAL",Trace Brazuca
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/15205
 #EXTINF:-1 tvg-id="trace.urban.pt" tvg-name="Trace Urban" tvg-logo="" group-title="PORTUGAL",Trace Urban
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/6583
-#EXTINF:-1 tvg-id="trace.toca.pt" tvg-name="Trace Toca" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/tracetoca.png" group-title="PORTUGAL",Trace Toca
+#EXTINF:-1 tvg-id="trace.toca.pt" tvg-name="Trace Toca" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/tracetoca.png" group-title="PORTUGAL",Trace Toca
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/137
-#EXTINF:-1 tvg-id="afro.music.pt" tvg-name="Afro Music" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/Afromusic.png" group-title="PORTUGAL",Afro Music
+#EXTINF:-1 tvg-id="afro.music.pt" tvg-name="Afro Music" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/Afromusic.png" group-title="PORTUGAL",Afro Music
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/136
 #EXTINF:-1 tvg-id="mtv.00s.pt" tvg-name="MTV 00's" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=https://i.imgur.com/wNvqkOM.png" group-title="PORTUGAL",MTV 00's
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/135
 #EXTINF:-1 tvg-id="" tvg-name="▰ Internacionais ▰▰▰" tvg-logo="" group-title="PORTUGAL",▰ Internacionais ▰▰▰
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/377
-#EXTINF:-1 tvg-id="globo.now.pt" tvg-name="Globo Now" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/globonow.png" group-title="PORTUGAL",Globo Now
+#EXTINF:-1 tvg-id="globo.now.pt" tvg-name="Globo Now" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/globonow.png" group-title="PORTUGAL",Globo Now
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/141
-#EXTINF:-1 tvg-id="globo.pt" tvg-name="Globo" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/GloboHD.png" group-title="PORTUGAL",Globo
+#EXTINF:-1 tvg-id="globo.pt" tvg-name="Globo" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/GloboHD.png" group-title="PORTUGAL",Globo
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/140
-#EXTINF:-1 tvg-id="record.pt" tvg-name="TV Record FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/RecordHD.png" group-title="PORTUGAL",TV Record FHD
+#EXTINF:-1 tvg-id="record.pt" tvg-name="TV Record FHD" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/RecordHD.png" group-title="PORTUGAL",TV Record FHD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/142
 #EXTINF:-1 tvg-id="kuriakos.pt" tvg-name="Kuriakos TV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=https://www.google.com/url?sa=i&url=plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=https%3A%2F%2Fapkdownloadforwindows.com%2Fapp%2Fcom.kuriakoscom.kuriakos%2F&psig=AOvVaw2cItBbzWvgyZoivXQVkcgh&ust=1618252633166000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjY6v3q9u8CFQAAAAAdAAAAABAD" group-title="PORTUGAL",Kuriakos TV HD
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/161
-#EXTINF:-1 tvg-id="bbc.world.news.pt" tvg-name="BBC World News" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/BBCWorldNews.png" group-title="PORTUGAL",BBC World News
+#EXTINF:-1 tvg-id="bbc.world.news.pt" tvg-name="BBC World News" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/BBCWorldNews.png" group-title="PORTUGAL",BBC World News
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/266
-#EXTINF:-1 tvg-id="bbc.entertainment.pt" tvg-name="BBC Entertainment" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/BBCWorldNews.png" group-title="PORTUGAL",BBC Entertainment
+#EXTINF:-1 tvg-id="bbc.entertainment.pt" tvg-name="BBC Entertainment" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/BBCWorldNews.png" group-title="PORTUGAL",BBC Entertainment
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/265
-#EXTINF:-1 tvg-id="cnbc.pt" tvg-name="CNBC" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/CNBC.png" group-title="PORTUGAL",CNBC
+#EXTINF:-1 tvg-id="cnbc.pt" tvg-name="CNBC" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/CNBC.png" group-title="PORTUGAL",CNBC
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/267
-#EXTINF:-1 tvg-id="cnn.pt" tvg-name="CNN" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/cnn.png" group-title="PORTUGAL",CNN
+#EXTINF:-1 tvg-id="cnn.pt" tvg-name="CNN" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/cnn.png" group-title="PORTUGAL",CNN
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/156
-#EXTINF:-1 tvg-id="euronews.pt" tvg-name="Euronews" tvg-logo="plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://logos.tetris.vip:8080/Logos/Portugal/Euronews.png" group-title="PORTUGAL",Euronews
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="Euronews" tvg-logo="http://logos.tetris.vip:8080/Logos/Portugal/Euronews.png" group-title="PORTUGAL",Euronews
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/264
 #EXTINF:-1 tvg-id="tvei.pt" tvg-name="TVE Internacional" tvg-logo="" group-title="PORTUGAL",TVE Internacional
 plugin://plugin.video.f4mTester/?name=PLAY&action=playitem&url=http://redline.rodaslive.net:8080/AfPStbptdW/nLUWnpz6eV/139
