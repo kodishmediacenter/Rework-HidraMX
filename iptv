@@ -161,6 +161,24 @@
  <info>Listas iptv Creditos ao site www.m3u.cl atendendo Pedido de Inscrito</info>
  </channel>
  </channels>
- 
+
+<channels>
+ <channel>
+ <name>[COLOR white][B]TV Teste [/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</thumbnail>
+ <externallink>http://bccdn.xyz/get.php?username=026221&password=626488&type=m3u_plus</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+
+ </channels><channels>
+ <channel>
+ <name>[COLOR white][B]TV Teste [/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</thumbnail>
+ <externallink>http://bccdn.xyz/get.php?username=0411140944Pw&password=4212457796Pr&type=m3u_plus</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
  
  
