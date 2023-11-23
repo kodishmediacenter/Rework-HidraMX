@@ -8,7 +8,17 @@
  <info></info>
  </channel>
  </channels>
- 
+
+ <channels>
+ <channel>
+ <name>[B][COLOR yellow]Para Rodar os Conteudos é Necessário ter filmes do Youtube Precisa está Configurado [/COLOR][/B]</name>
+ <thumbnail>https://uploaddeimagens.com.br/images/003/229/660/full/image.jpg</thumbnail>
+ <externallink>http://tinyurl.com/NovaFORMIGAtv</externallink>
+ <fanart></fanart>
+ <info></info>
+ </channel>
+ </channels>
+
  <channels>
  <channel>
  <name>Box de Filmes Studio Ghibli</name>
