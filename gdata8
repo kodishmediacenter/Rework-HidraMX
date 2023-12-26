@@ -1,10 +1,9 @@
 
-
 <channels>
  <channel>
- <name>[COLOR green][B]|||[/B][/COLOR][COLOR purple][B]|||[/B][/COLOR][B][COLOR pink][B]|||[/B][/COLOR][B]|||[/B] 4 º Semana do Advento[/B]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main</externallink>
+ <name>[COLOR white][B]500 Mais da Kiss FM[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://kissfm.com.br/wp-content/themes/KISSFM/img/500_2.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/iptv</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
  <info>Listas iptv</info>
  </channel>
