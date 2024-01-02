@@ -1,8 +1,8 @@
 <channels>
 <channel>
 <name>Novidades de Filmes 20</name>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/novidades-filmes</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/novidades-filmes</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
@@ -11,8 +11,8 @@
 <channels>
 <channel>
 <name>Novidades de Filmes 19 RW</name>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/novidades-filmes8</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/novidades-filmes8</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
@@ -21,8 +21,8 @@
 <channels>
 <channel>
 <name>Novidades de Filmes 18 RW</name>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/novidades-filmes7</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/novidades-filmes7</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
@@ -31,8 +31,8 @@
 <channels>
 <channel>
 <name>Novidades de Filmes 17 RW</name>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/novidades-filmes6</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/novidades-filmes6</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
@@ -41,8 +41,8 @@
 <channels>
 <channel>
 <name>Filmes 16 RW</name>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/novidades-filmes5</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/novidades-filmes5</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
@@ -51,8 +51,8 @@
 <channels>
 <channel>
 <name>Filmes 15 RW</name>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/novidades-filmes4</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/novidades-filmes4</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
@@ -61,8 +61,8 @@
 <channels>
 <channel>
 <name>Filmes 14 RW</name>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/novidades-filmes3</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/novidades-filmes3</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
@@ -71,8 +71,8 @@
 <channels>
 <channel>
 <name>Filmes 13 RW</name>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/novidades-filmes2</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/novidades-filmes2</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
@@ -81,8 +81,8 @@
 <channels>
 <channel>
 <name>Filmes 12 RW</name>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/filmes12</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/filmes12</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
@@ -91,8 +91,8 @@
 <channels>
 <channel>
 <name>Filmes 11 RW</name>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/filmes11</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/filmes11</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
@@ -101,8 +101,8 @@
 <channels>
 <channel>
 <name>Filmes 10 RW</name>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/icones/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-hidra/main/filmesa10</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/filmesa10</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
