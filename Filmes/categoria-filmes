@@ -60,6 +60,18 @@
 </channel>
 </channels>
 
+
+
+<channels>
+<channel>
+<name>Novidades de Filmes</name>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/Filmes-2024-01</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
 <channels>
 <channel>
 <name>Novidades de Filmes</name>
