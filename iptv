@@ -186,9 +186,9 @@
 
   <channels>
  <channel>
- <name>[COLOR white][B]Lista TV Fast [Teste] [/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]K-POP[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/tv.png</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/fasttv.m3u</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/kpop-tv</externallink>
  <fanart>http://www.seriados.tv.br/wp-content/uploads/2012/08/fdp_23082012_.jpg</fanart>
  <info>Listas iptv Creditos ao site www.m3u.cl atendendo Pedido de Inscrito</info>
  </channel>
