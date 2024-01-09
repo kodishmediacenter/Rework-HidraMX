@@ -1,23 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BBB 23 - 01" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&maxbitrate=0&buffer=2056&url=http://cdn.xcore.ca:80/images/085007eeccd5c243d57c8d1876074730.png" group-title="Canais: Reality",BBB 23 - 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&maxbitrate=0&buffer=2056&url=http://cdn.teambr.live:80/splove/6357283/215187
-#EXTINF:-1 tvg-id="" tvg-name="BBB 23 - 02" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&maxbitrate=0&buffer=2056&url=http://cdn.xcore.ca:80/images/085007eeccd5c243d57c8d1876074730.png" group-title="Canais: Reality",BBB 23 - 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&maxbitrate=0&buffer=2056&url=http://cdn.teambr.live:80/splove/6357283/215188
-#EXTINF:-1 tvg-id="" tvg-name="BBB 23 - 03" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&maxbitrate=0&buffer=2056&url=http://cdn.xcore.ca:80/images/085007eeccd5c243d57c8d1876074730.png" group-title="Canais: Reality",BBB 23 - 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&maxbitrate=0&buffer=2056&url=http://cdn.teambr.live:80/splove/6357283/215189
-#EXTINF:-1 tvg-id="" tvg-name="BBB 23 - 04" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&maxbitrate=0&buffer=2056&url=http://cdn.xcore.ca:80/images/085007eeccd5c243d57c8d1876074730.png" group-title="Canais: Reality",BBB 23 - 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&maxbitrate=0&buffer=2056&url=http://cdn.teambr.live:80/splove/6357283/215190
-#EXTINF:-1 tvg-id="" tvg-name="BBB 23 - 05" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&maxbitrate=0&buffer=2056&url=http://cdn.xcore.ca:80/images/085007eeccd5c243d57c8d1876074730.png" group-title="Canais: Reality",BBB 23 - 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&maxbitrate=0&buffer=2056&url=http://cdn.teambr.live:80/splove/6357283/215191
-#EXTINF:-1 tvg-id="" tvg-name="BBB 23 - 06" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&maxbitrate=0&buffer=2056&url=http://cdn.xcore.ca:80/images/085007eeccd5c243d57c8d1876074730.png" group-title="Canais: Reality",BBB 23 - 06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&maxbitrate=0&buffer=2056&url=http://cdn.teambr.live:80/splove/6357283/215192
-#EXTINF:-1 tvg-id="" tvg-name="BBB 23 - 07" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&maxbitrate=0&buffer=2056&url=http://cdn.xcore.ca:80/images/085007eeccd5c243d57c8d1876074730.png" group-title="Canais: Reality",BBB 23 - 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&maxbitrate=0&buffer=2056&url=http://cdn.teambr.live:80/splove/6357283/215193
-#EXTINF:-1 tvg-id="" tvg-name="BBB 23 - 08" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&maxbitrate=0&buffer=2056&url=http://cdn.xcore.ca:80/images/085007eeccd5c243d57c8d1876074730.png" group-title="Canais: Reality",BBB 23 - 08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&maxbitrate=0&buffer=2056&url=http://cdn.teambr.live:80/splove/6357283/215194
-#EXTINF:-1 tvg-id="" tvg-name="BBB 23 - 09" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&maxbitrate=0&buffer=2056&url=http://cdn.xcore.ca:80/images/085007eeccd5c243d57c8d1876074730.png" group-title="Canais: Reality",BBB 23 - 09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&maxbitrate=0&buffer=2056&url=http://cdn.teambr.live:80/splove/6357283/215195
-#EXTINF:-1 tvg-id="" tvg-name="BBB 23 - 10" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&maxbitrate=0&buffer=2056&url=http://cdn.xcore.ca:80/images/085007eeccd5c243d57c8d1876074730.png" group-title="Canais: Reality",BBB 23 - 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&maxbitrate=0&buffer=2056&url=http://cdn.teambr.live:80/splove/6357283/215196
-#EXTINF:-1 tvg-id="" tvg-name="BBB 23 - 11" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&maxbitrate=0&buffer=2056&url=http://cdn.xcore.ca:80/images/085007eeccd5c243d57c8d1876074730.png" group-title="Canais: Reality",BBB 23 - 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=TV&maxbitrate=0&buffer=2056&url=http://cdn.teambr.live:80/splove/6357283/215197
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB 01 HD" tvg-logo="http://srvmult.top:80/images/TX-gxfdRk0s0bu-LADInpAqz5kH8EydijQf71CTh35l_8_LDja_vIYBUVUBjcSkV.png",BBB 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://c.strzzi.site:80/12345678/12345678/3721260
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB 02 HD" tvg-logo="http://srvmult.top:80/images/TX-gxfdRk0s0bu-LADInpAqz5kH8EydijQf71CTh35l_8_LDja_vIYBUVUBjcSkV.png",BBB 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://c.strzzi.site:80/12345678/12345678/3721261
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB MOSAICO" tvg-logo="http://srvmult.top:80/images/TX-gxfdRk0s0bu-LADInpAqz5kH8EydijQf71CTh35l_8_LDja_vIYBUVUBjcSkV.png",BBB MOSAICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://c.strzzi.site:80/12345678/12345678/3721262
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB - 01" tvg-logo="http://srvmult.top:80/images/TX-gxfdRk0s0bu-LADInpAqz5kH8EydijQf71CTh35l_8_LDja_vIYBUVUBjcSkV.png",BBB - 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://c.strzzi.site:80/12345678/12345678/3721263
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB - 02" tvg-logo="http://srvmult.top:80/images/TX-gxfdRk0s0bu-LADInpAqz5kH8EydijQf71CTh35l_8_LDja_vIYBUVUBjcSkV.png",BBB - 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://c.strzzi.site:80/12345678/12345678/3721264
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB - 03" tvg-logo="http://srvmult.top:80/images/TX-gxfdRk0s0bu-LADInpAqz5kH8EydijQf71CTh35l_8_LDja_vIYBUVUBjcSkV.png",BBB - 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://c.strzzi.site:80/12345678/12345678/3721265
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB - 04" tvg-logo="http://srvmult.top:80/images/TX-gxfdRk0s0bu-LADInpAqz5kH8EydijQf71CTh35l_8_LDja_vIYBUVUBjcSkV.png",BBB - 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://c.strzzi.site:80/12345678/12345678/3721266
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB - 05" tvg-logo="http://srvmult.top:80/images/TX-gxfdRk0s0bu-LADInpAqz5kH8EydijQf71CTh35l_8_LDja_vIYBUVUBjcSkV.png",BBB - 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://c.strzzi.site:80/12345678/12345678/3721267
+#EXTINF:-1 tvg-id="BBB" tvg-name="BBB - 06" tvg-logo="http://srvmult.top:80/images/TX-gxfdRk0s0bu-LADInpAqz5kH8EydijQf71CTh35l_8_LDja_vIYBUVUBjcSkV.png",BBB - 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://c.strzzi.site:80/12345678/12345678/3721268
