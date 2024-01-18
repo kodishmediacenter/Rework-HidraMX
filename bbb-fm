@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="Acompanhe a Casa" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2024",Funciona VLC Video Externo
+http://vdk10.life:80/572035182/192691967/62319
 #EXTINF:-1 tvg-id="BIGBRO" tvg-name="Acompanhe a Casa" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2024",Acompanhe a Casa
 http://vdk10.life:80/572035182/192691967/62319
 #EXTINF:-1 tvg-id="BIGBRO" tvg-name="Acompanhe a Casa¹" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAMAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2024",Acompanhe a Casa¹
