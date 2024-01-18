@@ -1,19 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBB" tvg-name="BBB 01 HD" tvg-logo="http://srvmult.top:80/images/TX-gxfdRk0s0bu-LADInpAqz5kH8EydijQf71CTh35l_8_LDja_vIYBUVUBjcSkV.png",BBB 01 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://c.strzzi.site:80/12345678/12345678/3721260
-#EXTINF:-1 tvg-id="BBB" tvg-name="BBB 02 HD" tvg-logo="http://srvmult.top:80/images/TX-gxfdRk0s0bu-LADInpAqz5kH8EydijQf71CTh35l_8_LDja_vIYBUVUBjcSkV.png",BBB 02 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://c.strzzi.site:80/12345678/12345678/3721261
-#EXTINF:-1 tvg-id="BBB" tvg-name="BBB MOSAICO" tvg-logo="http://srvmult.top:80/images/TX-gxfdRk0s0bu-LADInpAqz5kH8EydijQf71CTh35l_8_LDja_vIYBUVUBjcSkV.png",BBB MOSAICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://c.strzzi.site:80/12345678/12345678/3721262
-#EXTINF:-1 tvg-id="BBB" tvg-name="BBB - 01" tvg-logo="http://srvmult.top:80/images/TX-gxfdRk0s0bu-LADInpAqz5kH8EydijQf71CTh35l_8_LDja_vIYBUVUBjcSkV.png",BBB - 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://c.strzzi.site:80/12345678/12345678/3721263
-#EXTINF:-1 tvg-id="BBB" tvg-name="BBB - 02" tvg-logo="http://srvmult.top:80/images/TX-gxfdRk0s0bu-LADInpAqz5kH8EydijQf71CTh35l_8_LDja_vIYBUVUBjcSkV.png",BBB - 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://c.strzzi.site:80/12345678/12345678/3721264
-#EXTINF:-1 tvg-id="BBB" tvg-name="BBB - 03" tvg-logo="http://srvmult.top:80/images/TX-gxfdRk0s0bu-LADInpAqz5kH8EydijQf71CTh35l_8_LDja_vIYBUVUBjcSkV.png",BBB - 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://c.strzzi.site:80/12345678/12345678/3721265
-#EXTINF:-1 tvg-id="BBB" tvg-name="BBB - 04" tvg-logo="http://srvmult.top:80/images/TX-gxfdRk0s0bu-LADInpAqz5kH8EydijQf71CTh35l_8_LDja_vIYBUVUBjcSkV.png",BBB - 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://c.strzzi.site:80/12345678/12345678/3721266
-#EXTINF:-1 tvg-id="BBB" tvg-name="BBB - 05" tvg-logo="http://srvmult.top:80/images/TX-gxfdRk0s0bu-LADInpAqz5kH8EydijQf71CTh35l_8_LDja_vIYBUVUBjcSkV.png",BBB - 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://c.strzzi.site:80/12345678/12345678/3721267
-#EXTINF:-1 tvg-id="BBB" tvg-name="BBB - 06" tvg-logo="http://srvmult.top:80/images/TX-gxfdRk0s0bu-LADInpAqz5kH8EydijQf71CTh35l_8_LDja_vIYBUVUBjcSkV.png",BBB - 06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://c.strzzi.site:80/12345678/12345678/3721268
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="Acompanhe a Casa" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2024",Acompanhe a Casa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://vdk10.life:80/572035182/192691967/62319
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="Acompanhe a Casa¹" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2024",Acompanhe a Casa¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://vdk10.life:80/572035182/192691967/64038
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="Acompanhe a Casa 2" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2024",Acompanhe a Casa 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://vdk10.life:80/572035182/192691967/64068
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="Acompanhe a Casa 2²" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2024",Acompanhe a Casa 2²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://vdk10.life:80/572035182/192691967/66144
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="Cozinha Delícia" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2024",Cozinha Delícia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://vdk10.life:80/572035182/192691967/71572
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="Quarto Magia" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2024",Quarto Magia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://vdk10.life:80/572035182/192691967/314135
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="Quarto Gnomo" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2024",Quarto Gnomo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://vdk10.life:80/572035182/192691967/66143
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="Quarto Fada" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2024",Quarto Fada
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://vdk10.life:80/572035182/192691967/70855
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="Jardim" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2024",Jardim
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://vdk10.life:80/572035182/192691967/70856
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="Sala" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2024",Sala
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://vdk10.life:80/572035182/192691967/70857
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="Banheiro Pantene" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2024",Banheiro Pantene
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://vdk10.life:80/572035182/192691967/71571
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="Mosaico BBB" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2024",Mosaico BBB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://vdk10.life:80/572035182/192691967/159497
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="Mosaico BBB 2" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2024",Mosaico BBB 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR+yellow]@By_KodishTeam[/COLOR]&maxbitrate=0&&Buffer=20971520&url=http://vdk10.life:80/572035182/192691967/159496
+
