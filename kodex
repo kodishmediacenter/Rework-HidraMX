@@ -1,1 +1,1 @@
-{"epg": "https://iptv-org.github.io/epg/guides/en/directv.com.xml", "list": "http://vivo.10initiatived.uk:8880/get.php?username=2879940189c4&password=2879940189C4&type=m3u_plus", "success": true , "validade": "00/00/0000" }
+{"epg": "https://iptv-org.github.io/epg/guides/en/directv.com.xml", "list": "https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/data.m3u", "success": true , "validade": "00/00/0000" }
