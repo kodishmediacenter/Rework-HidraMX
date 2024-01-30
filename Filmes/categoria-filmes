@@ -60,6 +60,15 @@
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>Filmes Percy Jackson</name>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/percy.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/percy</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
 
 
 <channels>
