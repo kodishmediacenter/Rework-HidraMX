@@ -22,6 +22,18 @@
 
 <channels>
  <channel>
+ <name>[COLOR white][B]Soul Tv[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://scontent.fcgh33-1.fna.fbcdn.net/v/t39.30808-6/292101687_511009317511217_6792319742425783204_n.png?_nc_cat=111&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeEQ885IicSZtE_od_I6FTvKwRfTNFwe8GfBF9M0XB7wZ2_9b-R9f3OjmRQvuqiPTy9mOO3A5aT6NIi0kHMJo4Ci&_nc_ohc=_ONLh3UCbLAAX8ZjVat&_nc_ht=scontent.fcgh33-1.fna&oh=00_AfCGbbu0yO5Mg_WceCvAVTs40vfbA-RRGPdxanX89g0-nw&oe=65C21807</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/soultv</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+
+
+
+<channels>
+ <channel>
  <name>[COLOR white][B]Kodish Royal One[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/thumbnail_kodish.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/livestreans.xml</externallink>
