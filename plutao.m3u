@@ -53,9 +53,6 @@ https://r.mjh.nz/PlutoTV/5fa991b1f09e020007e78626-alt.m3u8|user-agent=okhttp/4.9
 #EXTINF:-1 channel-id="pluto-5f171f032cd22e0007f17f3d" tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" tvg-chno="90" group-title="Filmes" , Pluto TV Cine Família
 https://r.mjh.nz/PlutoTV/5f171f032cd22e0007f17f3d-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
 
-#EXTINF:-1 channel-id="pluto-60072798dcf437000755b4f3" tvg-id="60072798dcf437000755b4f3" tvg-logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" tvg-chno="100" group-title="Paramount+ Apresenta" , Paramount+ Apresenta
-https://r.mjh.nz/PlutoTV/60072798dcf437000755b4f3-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
-
 #EXTINF:-1 channel-id="pluto-63eb9c5351f5d000085e8d7e" tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" tvg-chno="104" group-title="Séries" , CSI: Miami
 https://r.mjh.nz/PlutoTV/63eb9c5351f5d000085e8d7e-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
 
@@ -79,9 +76,6 @@ https://r.mjh.nz/PlutoTV/5f121262a189a800076b9386-alt.m3u8|user-agent=okhttp/4.9
 
 #EXTINF:-1 channel-id="pluto-624f4e6bd5888f000754c53a" tvg-id="624f4e6bd5888f000754c53a" tvg-logo="https://images.pluto.tv/channels/624f4e6bd5888f000754c53a/colorLogoPNG.png" tvg-chno="146" group-title="Séries" , The Night Shift Plantão Noturno
 https://r.mjh.nz/PlutoTV/624f4e6bd5888f000754c53a-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
-
-#EXTINF:-1 channel-id="pluto-620aca7a4d8ea4000778338a" tvg-id="620aca7a4d8ea4000778338a" tvg-logo="https://images.pluto.tv/channels/620aca7a4d8ea4000778338a/colorLogoPNG.png" tvg-chno="153" group-title="Séries" , Schitt's Creek
-https://r.mjh.nz/PlutoTV/620aca7a4d8ea4000778338a-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
 
 #EXTINF:-1 channel-id="pluto-5ff768b6a4c8b80008498610" tvg-id="5ff768b6a4c8b80008498610" tvg-logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" tvg-chno="168" group-title="Séries" , BET Pluto TV
 https://r.mjh.nz/PlutoTV/5ff768b6a4c8b80008498610-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
@@ -244,9 +238,6 @@ https://r.mjh.nz/PlutoTV/6001f3018502100007f528ac-alt.m3u8|user-agent=okhttp/4.9
 
 #EXTINF:-1 channel-id="pluto-5f357e91b18f0b00073583d2" tvg-id="5f357e91b18f0b00073583d2" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" tvg-chno="999" group-title="Comédia" , Comedy Central Pluto TV
 https://r.mjh.nz/PlutoTV/5f357e91b18f0b00073583d2-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
-
-#EXTINF:-1 channel-id="pluto-62fd6b865a502400075b2caf" tvg-id="62fd6b865a502400075b2caf" tvg-logo="https://images.pluto.tv/channels/62fd6b865a502400075b2caf/colorLogoPNG.png" tvg-chno="1000" group-title="Comédia" , A Culpa é do Cabral
-https://r.mjh.nz/PlutoTV/62fd6b865a502400075b2caf-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
 
 #EXTINF:-1 channel-id="pluto-5f36f2346ede750007332d11" tvg-id="5f36f2346ede750007332d11" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG-1602877726414.png" tvg-chno="1004" group-title="Comédia" , Porta dos Fundos
 https://r.mjh.nz/PlutoTV/5f36f2346ede750007332d11-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
