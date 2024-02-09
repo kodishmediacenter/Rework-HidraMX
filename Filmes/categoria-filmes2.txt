@@ -63,7 +63,7 @@
 <channels>
 <channel>
 <name>Filmes Senhor dos Aneis</name>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/senhordosaneis.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/senhordosaneis.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/senhor-dos-aneis</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
