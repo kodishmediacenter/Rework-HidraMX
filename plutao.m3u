@@ -140,6 +140,9 @@ https://r.mjh.nz/PlutoTV/626c2a3502d84a0007cec817-alt.m3u8|user-agent=okhttp/4.9
 #EXTINF:-1 channel-id="pluto-5f6108d8cc331900075e98e4" tvg-id="5f6108d8cc331900075e98e4" tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" tvg-chno="399" group-title="Reality" , MTV Are you the One?
 https://r.mjh.nz/PlutoTV/5f6108d8cc331900075e98e4-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
 
+#EXTINF:-1 channel-id="pluto-63988b61c8d285000798a22a" tvg-id="63988b61c8d285000798a22a" tvg-logo="https://images.pluto.tv/channels/63988b61c8d285000798a22a/colorLogoPNG.png" tvg-chno="401" group-title="Reality" , MTV Just Tattoo of Us
+https://r.mjh.nz/PlutoTV/63988b61c8d285000798a22a-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
+
 #EXTINF:-1 channel-id="pluto-6077045b6031bd00078de127" tvg-id="6077045b6031bd00078de127" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" tvg-chno="418" group-title="Reality" , MasterChef
 https://r.mjh.nz/PlutoTV/6077045b6031bd00078de127-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
 
@@ -167,6 +170,9 @@ https://r.mjh.nz/PlutoTV/64ad7394798def00087b2bfe-alt.m3u8|user-agent=okhttp/4.9
 #EXTINF:-1 channel-id="pluto-61843f5e491af10007f7eefa" tvg-id="61843f5e491af10007f7eefa" tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png" tvg-chno="527" group-title="Curiosidades" , Pluto TV Minha Obsessão Favorita
 https://r.mjh.nz/PlutoTV/61843f5e491af10007f7eefa-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
 
+#EXTINF:-1 channel-id="pluto-656e2a4b4261ca00083aa99e" tvg-id="656e2a4b4261ca00083aa99e" tvg-logo="https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png" tvg-chno="530" group-title="Curiosidades" , Acumuladores Obsessivos
+https://r.mjh.nz/PlutoTV/656e2a4b4261ca00083aa99e-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
+
 #EXTINF:-1 channel-id="pluto-61bb72a7bf8c520007a8fd27" tvg-id="61bb72a7bf8c520007a8fd27" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" tvg-chno="541" group-title="Curiosidades" , Pronto-socorro: Histórias De Emergência
 https://r.mjh.nz/PlutoTV/61bb72a7bf8c520007a8fd27-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
 
@@ -175,6 +181,12 @@ https://r.mjh.nz/PlutoTV/5fac52f142044f00078e2a51-alt.m3u8|user-agent=okhttp/4.9
 
 #EXTINF:-1 channel-id="pluto-620d1512c7986a0007220213" tvg-id="620d1512c7986a0007220213" tvg-logo="https://images.pluto.tv/channels/620d1512c7986a0007220213/colorLogoPNG.png" tvg-chno="550" group-title="Curiosidades" , Assombrações
 https://r.mjh.nz/PlutoTV/620d1512c7986a0007220213-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
+
+#EXTINF:-1 channel-id="pluto-656e2a81954b020008ed17a4" tvg-id="656e2a81954b020008ed17a4" tvg-logo="https://images.pluto.tv/channels/656e2a81954b020008ed17a4/colorLogoPNG.png" tvg-chno="551" group-title="Curiosidades" , Estado Paranormal
+https://r.mjh.nz/PlutoTV/656e2a81954b020008ed17a4-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
+
+#EXTINF:-1 channel-id="pluto-656e2a10954b020008ed167c" tvg-id="656e2a10954b020008ed167c" tvg-logo="https://images.pluto.tv/channels/656e2a10954b020008ed167c/colorLogoPNG.png" tvg-chno="552" group-title="Curiosidades" , Caçadores de Óvnis
+https://r.mjh.nz/PlutoTV/656e2a10954b020008ed167c-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
 
 #EXTINF:-1 channel-id="pluto-62cd9e5a5c38c00007f5669a" tvg-id="62cd9e5a5c38c00007f5669a" tvg-logo="https://images.pluto.tv/channels/62cd9e5a5c38c00007f5669a/colorLogoPNG.png" tvg-chno="557" group-title="Curiosidades" , Pluto TV Quebrando o Tabu
 https://r.mjh.nz/PlutoTV/62cd9e5a5c38c00007f5669a-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
@@ -287,6 +299,9 @@ https://r.mjh.nz/PlutoTV/5f6df5a173d7340007c559f7-alt.m3u8|user-agent=okhttp/4.9
 #EXTINF:-1 channel-id="pluto-64c92f965580090008084968" tvg-id="64c92f965580090008084968" tvg-logo="https://images.pluto.tv/channels/64c92f965580090008084968/colorLogoPNG.png" tvg-chno="1260" group-title="Anime & Geek" , Naruto Shippuden
 https://r.mjh.nz/PlutoTV/64c92f965580090008084968-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
 
+#EXTINF:-1 channel-id="pluto-656f389c3944b60008e5bdab" tvg-id="656f389c3944b60008e5bdab" tvg-logo="https://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" tvg-chno="1261" group-title="Anime & Geek" , Boruto: Naruto Next Generations
+https://r.mjh.nz/PlutoTV/656f389c3944b60008e5bdab-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
+
 #EXTINF:-1 channel-id="pluto-625464a945b6a200079257d1" tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" tvg-chno="1264" group-title="Anime & Geek" , Death Note
 https://r.mjh.nz/PlutoTV/625464a945b6a200079257d1-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
 
@@ -331,6 +346,9 @@ https://r.mjh.nz/PlutoTV/6495c7ad115d060008bf6df0-alt.m3u8|user-agent=okhttp/4.9
 
 #EXTINF:-1 channel-id="pluto-5f121460b73ac6000719fbaf" tvg-id="5f121460b73ac6000719fbaf" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" tvg-chno="1402" group-title="Infantil" , Nick Jr. Club
 https://r.mjh.nz/PlutoTV/5f121460b73ac6000719fbaf-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
+
+#EXTINF:-1 channel-id="pluto-656e28dd57fe4a0008819c3d" tvg-id="656e28dd57fe4a0008819c3d" tvg-logo="https://images.pluto.tv/channels/656e28dd57fe4a0008819c3d/colorLogoPNG.png" tvg-chno="1403" group-title="Infantil" , Dora, A Aventureira
+https://r.mjh.nz/PlutoTV/656e28dd57fe4a0008819c3d-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
 
 #EXTINF:-1 channel-id="pluto-5f99aad4e82db50007fac4b2" tvg-id="5f99aad4e82db50007fac4b2" tvg-logo="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png" tvg-chno="1405" group-title="Infantil" , As  Pistas de Blue
 https://r.mjh.nz/PlutoTV/5f99aad4e82db50007fac4b2-alt.m3u8|user-agent=okhttp/4.9.0&x-forwarded-for=177.47.27.205
