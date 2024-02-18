@@ -33,6 +33,17 @@
 
 <channels>
  <channel>
+ <name>[COLOR white][B]Canais de Filmes[External Player] [/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/canais-filmes</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+
+
+<channels>
+ <channel>
  <name>[COLOR white][B]Lista Roku [External Player | VPN] [/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://t2.tudocdn.net/601004</thumbnail>
  <externallink>https://i.mjh.nz/Roku/all.m3u8</externallink>
