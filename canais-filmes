@@ -1,0 +1,195 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="",'TV NOVA PLAY'
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'CARAVANA PLAY'
+https://srv4.zcast.com.br/keynni2406/keynni2406/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'TV CLÁSSICOS DO CINEMA'
+https://rpn3.bozztv.com/ssh101/ssh101/classicosdocinema/chunks.m3u8
+#EXTINF:-1 tvg-logo="",'XTREME TV'
+https://stmv1.srvif.com/xtremetv/xtremetv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'ISTV'
+https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'GLN TV'
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'REDE CLOUDING TV'
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'CINE TV HITS'
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'TV SONATA'
+https://video01.kshost.com.br/tiago2001/tiago2001/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'IMPERIAL TV'
+https://acesso.ecast.site:3630/live/imperiallive.m3u8
+#EXTINF:-1 tvg-logo="",'CHANNEL 1'
+https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'TV MAIS BRASIL'
+https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'TV ARACATI'
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'TV CEI'
+https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'TELA VIVA TV'
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'ULB TV'
+https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'CENTRAL TV'
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'TV CLUBE WEB'
+https://5c483b9d1019c.streamlock.net/8186/8186/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'REDE TV SUL'
+https://5a0c3936c25c8.streamlock.net/8032/8032/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'REDE NGT'
+https://isaocorp.cloudecast.com/ngt/mono.m3u8
+#EXTINF:-1 tvg-logo="",'CLASSIQUE TV WESTERN'
+https://stmv1.srvif.com/classiquew/classiquew/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'TV JAPI'
+https://stmv1.paineltv.net/tvjapi/tvjapi/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'VIVAX TV'
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'CANAL BSTV'
+https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'TV POTENGI'
+https://stmv1.samcast.com.br/jeova3318/jeova3318/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'GRJNGO'
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="",'ON TV CAMPOS'
+https://tv.rbstream.com.br/josealberto9351/josealberto9351/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'WEB TV ÁGUA BOA'
+https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'TV RBC'
+https://60d88f8ce1206.streamlock.net/id2515/id2515/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'REDE TV MAIS'
+https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'RUNTIME AÇÃO'
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+#EXTINF:-1 tvg-logo="",'CLASSIQUE TV'
+https://stmv1.srvif.com/classique/classique/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'TELEWEB TV'
+https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'TV OSÓRIO NEWS'
+https://stmv1.srvstm.com/demo2573/demo2573/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'TV GRU WEB'
+https://stmv7.samcast.com.br/rogerio1505/rogerio1505/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'TV CARIOCA INTERNACIONAL'
+https://a.cdni.live/tvcarioca/tvcarioca/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'TV GRANDE REDE'
+https://cdn-ronaldo-8623-1.ciclano.io:1443/ronaldo-8623-1/ronaldo-8623-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'TV BRASIL HITS'
+https://video01.logicahost.com.br/brasilhits/brasilhits/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'PLAY TV'
+https://isaocorp.cloudecast.com/playtv/mono.m3u8
+#EXTINF:-1 tvg-logo="",'ENTORNO SUL WEB TV'
+https://video01.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'TV SANTA'
+https://br5093.streamingdevideo.com.br/tvtabela/tvtabela/chunklist_w1200153215.m3u8
+#EXTINF:-1 tvg-logo="",'ABC BRASIL'
+https://stmv1.srvstm.com/abc7762/abc7762/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'TV NBT'
+https://isaocorp.cloudecast.com/nbt/index.m3u8
+#EXTINF:-1 tvg-logo="",'TV DIVERSIDADE'
+https://cdn.jmvstream.com/w/AVJ-12928/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'WEB TV PROGRESSO'
+https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'RUNTIME'
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 tvg-logo="",'X PLUS TV'
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'TV WTJMINAS'
+https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/chunklist_w1256109034.m3u8
+#EXTINF:-1 tvg-logo="",'TV J.SID'
+https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'SEVEN TV'
+https://video01.kshost.com.br/aubrey3291/aubrey3291/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'WEB TV MATO GROSSO NEWS'
+https://video02.logicahost.com.br/matogrossonews/matogrossonews/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'QTAL CHANNEL'
+https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'TV MEU XODÔ'
+https://5d82644094cc0.streamlock.net/8192/8192/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'TV MON HD'
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'VIA MORENA'
+https://video02.logicahost.com.br/viamorena/viamorena/chunklist_w1173747392.m3u8
+#EXTINF:-1 tvg-logo="",'RUNTIME CRIME'
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+#EXTINF:-1 tvg-logo="",'TV RIO MADEIRA'
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'ESFLIX TV'
+https://acesso.ecast.site:3186/live/esflixlive.m3u8
+#EXTINF:-1 tvg-logo="",'TV METRÓPOLE NEWS'
+https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'TV ONE'
+https://video02.logicahost.com.br/tvone/tvone/chunklist_w2000898313.m3u8
+#EXTINF:-1 tvg-logo="",'RUNTIME CINE ESPANTO'
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+#EXTINF:-1 tvg-logo="",'RUNTIME COMÉDIA'
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+#EXTINF:-1 tvg-logo="",'MEGHA WEB TV'
+https://stmv1.srvif.com/redemegha/redemegha/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'BLITS TV'
+https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'LIFE SCTV'
+https://video05.logicahost.com.br/lifesctv/lifesctv/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'TOP MIX TV FILMES'
+https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'RUNTIME ROMANCE'
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+#EXTINF:-1 tvg-logo="",'ORIUNDI TV'
+https://stmv5.samcast.com.br/oriunditv/oriunditv/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'RUNTIME FAMÍLIA'
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+#EXTINF:-1 tvg-logo="",'CAMPOS WEB TV'
+https://tv.rbstream.com.br/joseroberto9307/joseroberto9307/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'KURIAKOS CINE'
+https://w2.manasat.com/kcine/smil:kcine.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'LAVRAS CE TV WEB'
+https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'REDE QDM'
+https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'TV RIO GRANDE'
+https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'DEMAIS TV'
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'GOSPEL MOVIES TELEVISION'
+https://stmv1.srvif.com/gospelf/gospelf/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'TV GALLO'
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="",'TV VARGEM'
+https://video01.kshost.com.br:4443/marilia2344/marilia2344/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'TV PBC'
+https://stmv2.samcast.com.br/adao6116/adao6116/chunklist_w1702897633.m3u8
+#EXTINF:-1 tvg-logo="",'REDE WEB TV'
+https://cdn.jmvstream.com/w/AVJ-15086/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'TV MARCHETI'
+https://stmv1.samcast.com.br/junior4319/junior4319/chunklist_w859794043.m3u8
+#EXTINF:-1 tvg-logo="",'MYTIME BRASIL'
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'TV GALEGA'
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="",'FILMES DE JESUS'
+https://stmv1.srvif.com/especial4/especial4/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'POOPTV'
+https://stream.ichibantv.com:3522/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="",'TV DIGITAL BIRIGUI'
+https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'GRJNGO 2'
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="",'MOVIESPHERE BRAZIL'
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+#EXTINF:-1 tvg-logo="",'REDE UNIVERSO TV'
+https://srv5.zcast.com.br/universotv/universotv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",'REDE METRÓPOLE LITORAL'
+https://acesso.ecast.site:3711/live/oscarlive.m3u8
+#EXTINF:-1 tvg-logo="",'TV DIVERSIDADE 2'
+https://stmv1.samcast.com.br/tvdiversidade/tvdiversidade/playlist.m3u8
+#EXTINF:-1 tvg-logo="",TV GOSPEL EXODUS DE SALVADOR
+https://stmv7.samcast.com.br/tvexodus/tvexodus/chunklist_w1772053728.m3u8
+#EXTINF:-1 tvg-logo="",TV CNB ORLANDO
+https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w130040152.m3u8
+#EXTINF:-1 tvg-logo="",TV CNB AMERICAN
+https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/chunklist_w144456680.m3u8
+#EXTINF:-1 tvg-logo="",VILA TV
+https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w287642464.m3u8
+#EXTINF:-1 tvg-logo="",KE TV
+https://stmv7.samcast.com.br/ketv/ketv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="",REDE UTV BRASIL
+https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/chunklist.m3u8
