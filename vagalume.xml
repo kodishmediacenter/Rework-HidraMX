@@ -1,4 +1,12 @@
 <item>
+<title>Acústico - Vagalume.FM</title>
+<link>https://stream.vagalume.fm/hls/14634980201914128847/index.m3u8</link>
+<thumbnail>https://img.vagalume.fm/14634980201914128847/featured</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>Natal - Vagalume.FM</title>
 <link>https://stream.vagalume.fm/hls/1478284883245533/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1478284883245533/featured</thumbnail>
@@ -74,14 +82,6 @@
 <title>Lo-fi Beats - Vagalume.FM</title>
 <link>https://stream.vagalume.fm/hls/1528731664462844/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1528731664462844/featured</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
-<title>Acústico - Vagalume.FM</title>
-<link>https://stream.vagalume.fm/hls/14634980201914128847/index.m3u8</link>
-<thumbnail>https://img.vagalume.fm/14634980201914128847/featured</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
