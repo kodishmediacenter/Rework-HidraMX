@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Radio MEC FM" tvg-logo="https://public.ebc.com.br/templates/logos/v3/logo-ebc.svg" group-title="Radio MEC FM",Radio MEC FM
+https://122722d.ha.azioncdn.net/ebc/radiomecfm/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Radio MEC AM" tvg-logo="https://public.ebc.com.br/templates/logos/v3/logo-ebc.svg" group-title="Radio MEC AM",Radio MEC AM
+https://132722d.ha.azioncdn.net/ebc/radiomec/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Nacional SP" tvg-logo="https://public.ebc.com.br/templates/logos/v3/logo-ebc.svg" group-title="Nacional SP",Nacional SP
+https://kln9nsdym3.map.azionedge.net/ebc/radionacionalfmsp/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Nacional RJ" tvg-logo="https://public.ebc.com.br/templates/logos/v3/logo-ebc.svg" group-title="Nacional RJ",Nacional RJ
+https://82722d.ha.azioncdn.net/ebc/radionacionalriodejaneiro/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Nacional Brasilia FM" tvg-logo="https://public.ebc.com.br/templates/logos/v3/logo-ebc.svg" group-title="Nacional Brasilia FM",Nacional Brasilia FM
+https://142722d.ha.azioncdn.net/ebc/radionacionalfm/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Nacional Brasilia AM" tvg-logo="https://public.ebc.com.br/templates/logos/v3/logo-ebc.svg" group-title="Nacional Brasilia AM",Nacional Brasilia AM
+https://radionacionalbrasilia-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+
+#EXTINF:-1 tvg-id="Nacional Sao Luiz" tvg-logo="https://public.ebc.com.br/templates/logos/v3/logo-ebc.svg" group-title="Nacional Sao Luiz",Nacional Sao Luiz
+https://radionacionalfmsl-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+
+#EXTINF:-1 tvg-id="Nacional Amazonia" tvg-logo="https://public.ebc.com.br/templates/logos/v3/logo-ebc.svg" group-title="Nacional Amazonia",Nacional Amazonia
+https://102722d.ha.azioncdn.net/ebc/radionacionalamazonia/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Nacional Alto Solimões" tvg-logo="https://public.ebc.com.br/templates/logos/v3/logo-ebc.svg" group-title="Nacional Alto Solimões",Nacional Alto Solimões
+https://radionacionalaltosolimoes-stream.ebc.com.br/ebc/radionacionalaltosolimoes/chunks.m3u8
