@@ -63,7 +63,7 @@
 <channels>
 <channel>
 <name>Filmes Senhor dos Aneis</name>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/senhordosaneis.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/senhordosaneis.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/senhor-dos-aneis</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
@@ -74,6 +74,15 @@
 <channel>
 <name>Novidades de Filmes</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/Filmes-2024-05</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channel>
+<name>Novidades de Filmes 1</name>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/Filmes-2024-01</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
@@ -83,7 +92,7 @@
 
 <channels>
 <channel>
-<name>Novidades de Filmes 1 </name>
+<name>Novidades de Filmes 2 </name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/Filmes-Novidades02</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
@@ -93,7 +102,7 @@
 
 <channels>
 <channel>
-<name>Novidades de Filmes 2</name>
+<name>Novidades de Filmes 3</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/novidades-01filmes</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
