@@ -1,4 +1,12 @@
 <item>
+<title>Adrenalina - Vagalume.FM</title>
+<link>https://stream.vagalume.fm/hls/1523038897499421/index.m3u8</link>
+<thumbnail>https://img.vagalume.fm/1523038897499421/featured</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>Acústico - Vagalume.FM</title>
 <link>https://stream.vagalume.fm/hls/14634980201914128847/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/14634980201914128847/featured</thumbnail>
@@ -367,7 +375,7 @@
 </item>
 
 <item>
-<title>Surf &amp; Relax - Vagalume.FM</title>
+<title>Surf & Relax - Vagalume.FM</title>
 <link>https://stream.vagalume.fm/hls/1529016796595333/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1529016796595333/featured</thumbnail>
 <fanart></fanart>
@@ -439,14 +447,6 @@
 </item>
 
 <item>
-<title>Adrenalina - Vagalume.FM</title>
-<link>https://stream.vagalume.fm/hls/1523038897499421/index.m3u8</link>
-<thumbnail>https://img.vagalume.fm/1523038897499421/featured</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-<item>
 <title>Hard Rock - Vagalume.FM</title>
 <link>https://stream.vagalume.fm/hls/1521216096352408/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1521216096352408/featured</thumbnail>
@@ -487,7 +487,7 @@
 </item>
 
 <item>
-<title>Hardcore &amp; Metalcore - Vagalume.FM</title>
+<title>Hardcore & Metalcore - Vagalume.FM</title>
 <link>https://stream.vagalume.fm/hls/1474034184429476/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1474034184429476/featured</thumbnail>
 <fanart></fanart>
@@ -631,17 +631,17 @@
 </item>
 
 <item>
-<title>Dance Music - Vagalume.FM</title>
-<link>https://stream.vagalume.fm/hls/1470161190169185/index.m3u8</link>
-<thumbnail>https://img.vagalume.fm/1470161190169185/featured</thumbnail>
+<title>Covers - Vagalume.FM</title>
+<link>https://stream.vagalume.fm/hls/1471296944879557/index.m3u8</link>
+<thumbnail>https://img.vagalume.fm/1471296944879557/featured</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
 <item>
-<title>Covers - Vagalume.FM</title>
-<link>https://stream.vagalume.fm/hls/1471296944879557/index.m3u8</link>
-<thumbnail>https://img.vagalume.fm/1471296944879557/featured</thumbnail>
+<title>Dance Music - Vagalume.FM</title>
+<link>https://stream.vagalume.fm/hls/1470161190169185/index.m3u8</link>
+<thumbnail>https://img.vagalume.fm/1470161190169185/featured</thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
@@ -711,7 +711,7 @@
 </item>
 
 <item>
-<title>Classic R&amp;B - Vagalume.FM</title>
+<title>Classic R&B - Vagalume.FM</title>
 <link>https://stream.vagalume.fm/hls/1467745876337223/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/1467745876337223/featured</thumbnail>
 <fanart></fanart>
@@ -751,7 +751,7 @@
 </item>
 
 <item>
-<title>R&amp;B - Vagalume.FM</title>
+<title>R&B - Vagalume.FM</title>
 <link>https://stream.vagalume.fm/hls/14660055301134442883/index.m3u8</link>
 <thumbnail>https://img.vagalume.fm/14660055301134442883/featured</thumbnail>
 <fanart></fanart>
