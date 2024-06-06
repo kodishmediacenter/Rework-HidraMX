@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Example" tvg-name="CATVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Catve.png" group-title="CANAIS || VARIEDADES",CATVE HD
+http://game.shiuk.re:80/952289711/52289711/812.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV HD I" tvg-logo="http://ucsxiptv.com:8080/images/caze.png" group-title="CANAIS || PPV",CAZÉ TV HD I
+http://game.shiuk.re:80/952289711/52289711/923.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV HD II" tvg-logo="http://ucsxiptv.com:8080/images/caze.png" group-title="CANAIS || PPV",CAZÉ TV HD II
+http://game.shiuk.re:80/952289711/52289711/924.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAZÉ TV HD III" tvg-logo="http://ucsxiptv.com:8080/images/caze.png" group-title="CANAIS || PPV",CAZÉ TV HD III
+http://game.shiuk.re:80/952289711/52289711/925.ts
