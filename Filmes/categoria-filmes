@@ -70,6 +70,17 @@
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>Filmes Detective Knight</name>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/DetectiveKnight.jpeg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/DetectiveKnight</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+
 
 <channels>
 <channel>
