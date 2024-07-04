@@ -80,6 +80,15 @@
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>Filmes Um Tira da Pesada</name>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/Umtiradapesada.jpeg</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/UmTiradaPesada</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
 
 <channel>
 <name>Novidades de Filmes</name>
