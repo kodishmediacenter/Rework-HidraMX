@@ -2,6 +2,16 @@
 
 <channels>
  <channel>
+ <name>[COLOR white][B]Caze TV[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://yt3.googleusercontent.com/XiDI4jKrS7jiTTMpQPVnjQUwiZlMmW-5uTqY8L2-2rFzijy16o2QsHvvF3JVrNBNzHqlIYbIag=s256-c-k-c0x00ffffff-no-rj</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/oly.m3u</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+
+<channels>
+ <channel>
  <name>[COLOR white][B]Runtime TV[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://m.media-amazon.com/images/I/51xeNXguMqL.png</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/runtime.m3u</externallink>
