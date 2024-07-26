@@ -1,3 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/snScROJQlRQ/hqdefault_live.jpg",AO VIVO E COM IMAGENS: DAQUI A POUCO COMEÇA A CERIMÔNIA DE ABERTURA DAS OLIMPÍADAS | CENTRAL PARIS
-plugin://plugin.video.youtube/play/?video_id=snScROJQlRQ
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/0b8uPCPpr_o/hqdefault_live.jpg",AO VIVO E COM IMAGENS: ZONA OLÍMPICA | DIA DE CERIMÔNIA DE ABERTURA
+plugin://plugin.video.youtube/play/?video_id=0b8uPCPpr_o
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/y6hH0cyJd3g/hqdefault_live.jpg",CAZÉTV NAS OLIMPÍADAS | MOSAICO OLÍMPICO #1
+plugin://plugin.video.youtube/play/?video_id=y6hH0cyJd3g
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/6CKHSn5NYKE/hqdefault_live.jpg",CAZÉTV NAS OLIMPÍADAS | MOSAICO OLÍMPICO #4
+plugin://plugin.video.youtube/play/?video_id=6CKHSn5NYKE
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/i5__Flbm6yo/hqdefault_live.jpg",CAZÉTV NAS OLIMPÍADAS | MOSAICO OLÍMPICO #3
+plugin://plugin.video.youtube/play/?video_id=i5__Flbm6yo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/lvGOLBdiY2g/hqdefault_live.jpg",CAZÉTV NAS OLIMPÍADAS | MOSAICO OLÍMPICO #2
+plugin://plugin.video.youtube/play/?video_id=lvGOLBdiY2g
