@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5j49qK_ezVKqsMUgsUixVlPALrC8CASXxGIlzyzQ-Xg&s",Caze TV Fixo
+https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/0b8uPCPpr_o/hqdefault_live.jpg",AO VIVO E COM IMAGENS: ZONA OLÍMPICA | DIA DE CERIMÔNIA DE ABERTURA
 plugin://plugin.video.youtube/play/?video_id=0b8uPCPpr_o
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/y6hH0cyJd3g/hqdefault_live.jpg",CAZÉTV NAS OLIMPÍADAS | MOSAICO OLÍMPICO #1
