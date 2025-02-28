@@ -77,11 +77,22 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR white][B]Playlist Youtube[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+<name>[COLOR white][B]Doc Ufologicos[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/ufo-final.m3u</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/7.png</thumbnail>
 <fanart></fanart>
 <info></info>
 </channel>
 </channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR white][B]Membros do Canal Platinum[/B][/COLOR][COLOR green][B] ||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/espacial</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/series.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
 
