@@ -1,0 +1,87 @@
+<channel>
+ <name>[COLOR white][B]Lista TV Aberta[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/iptv</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+
+<channels>
+ <channel>
+ <name>[COLOR white][B]500 Mais da Kiss FM[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://kissfm.com.br/wp-content/themes/KISSFM/img/500_2.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/500maiskiss2021e2022</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+
+
+<channels>
+ <channel>
+ <name>[COLOR white][B]Lista TV Aberta[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/iptv</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+
+
+ <channels>
+ <channel>
+ <name>[COLOR white][B]Listas de Radios[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/radio.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/radios-cat</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
+
+ 
+ 
+ 
+
+<channels></channels>
+<channel>
+<name>[COLOR white][B]Filmes[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/Filmes/categoria-filmes2.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/filme.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+
+
+<channels></channels>
+<channel>
+<name>[COLOR white][B]Series[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/series-cat.txt</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/series.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR white][B]Doc Ufologicos[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/ufo-final.m3u</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/7.png</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels></channels>
+<channel>
+<name>[COLOR white][B]Membros do Canal Platinum[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR yellow][B]Tuxedo |||[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/refs/heads/main/especial</externallink>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/series.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
