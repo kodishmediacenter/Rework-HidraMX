@@ -42,20 +42,6 @@
 
 
 
-
-<channels>
- <channel>
- <name>[COLOR white][B]Canais de Filmes[External Player] [/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/canais-filmes</externallink>
- <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
- <info>Listas iptv</info>
- </channel>
- </channels>
-
-
-
-
 <channels>
  <channel>
  <name>[COLOR white][B]Soul Tv[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
@@ -78,15 +64,6 @@
  </channel>
  </channels>
 
-<channels>
- <channel>
- <name>[COLOR white][B]Lista IPTV[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/thumbnail_kodish.png</thumbnail>
- <externallink>http://c.strzzi.site/get.php?username=69754976171740&password=242703297639&type=m3u_plus</externallink>
- <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
- <info>Listas iptv</info>
- </channel>
- </channels>
 
 <channels>
  <channel>
@@ -108,15 +85,7 @@
  </channel>
  </channels>
 
- <channels>
- <channel>
- <name>[COLOR white][B]Lista Sansung TV Korea do Sul[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://t2.tudocdn.net/601004</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/sansung-kr.m3u</externallink>
- <fanart>https://rafasgeek.com.br/wp-content/uploads/2021/07/samsung-tv-plus-logo.jpg</fanart>
- <info>Listas iptv</info>
- </channel>
- </channels>
+
  
  <channels>
  <channel>
