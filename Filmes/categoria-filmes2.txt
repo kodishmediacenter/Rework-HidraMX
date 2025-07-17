@@ -8,7 +8,16 @@
  <info></info>
  </channel>
  </channels>
- 
+
+
+<channel>
+<name>Filmes Extras - Starck</name>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/refs/heads/main/filmes-teste</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
 
 <channel>
 <name>Coletanea de Filmes</name>
