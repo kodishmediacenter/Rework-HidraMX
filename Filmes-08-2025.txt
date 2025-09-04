@@ -5,7 +5,7 @@
 <link>magnet:?xt=urn:btih:242f25ccf16348ed0d6ce462c36eaa86da38e400&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.btzoo.eu%3A80%2Fannounce&dn=HIDRATORRENTS.ORG...2160P.MKV.-DUBLADO-DUAL-AUDIO-..$nome=[B]OP 3 4Kp[/B]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=_70ygYnVMyo$nome=[B]Trailer[/B]</link>
 <link>plugin://plugin.video.elementum/search?q="Lilo.&.Stitch"$nome=[B]Busca Rajada[/B]</link>
-<thumbnail>https://image.tmdb.org/t/p/w500/ottRXMCQ9jPB318syTcfIdtJWIE.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTnWeKXYU3Fal6rc8Bm4lBcEHSV.jpg|User-Agent=Mozilla/5.0</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/w102m4HoCP5uxhW8Yh7Hv7QShix.jpg</fanart>
 <info>Lilo é uma garotinha de cinco anos que ama cuidar de animais. Um dia ela adota um cachorro e decide chamá-lo de Stitch. O que ela não sabe é que Stitch é um alienígena e um dos criminosos mais perigosos da galáxia. Agora, para escapar de seus captores que ainda o persegue, Stitch decide se passar por um cachorro comum, criando com o tempo um laço de amizade com Lilo.</info>
 </item>
@@ -287,6 +287,7 @@
 <fanart>https://image.tmdb.org/t/p/original/zGT6zikFjC5wRROXbPIipKahZn8.jpg</fanart>
 <info>Uma viúva do século XIX é encarregada de fazer uma escolha impossível quando, durante um inverno especialmente cruel, um navio afunda na costa de sua empobrecida vila de pescadores islandesa. Qualquer tentativa de resgatar sobreviventes corre o risco de esgotar ainda mais os suprimentos dos moradores famintos.</info>
 </item>
+
 
 
 
