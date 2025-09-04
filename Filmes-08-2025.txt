@@ -1,4 +1,78 @@
 <item>
+<title>Lilo & Stitch</title>
+<link>magnet:?xt=urn:btih:98d8298292a043494d5014805287cad557e6870f&dn=HIDRATORRENTS.ORG..MKV.Lilo.And.Stitch.2025.1080p.BluRay.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>magnet:?xt=urn:btih:23bf6337d749bf7792ce96237a4c6d1da577a54c&dn=HIDRATORRENTS.ORG..MKV.Lilo.and.Stitch.2025.1080p.FULL.HD.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 2 1080p SC[/B]</link>
+<link>magnet:?xt=urn:btih:242f25ccf16348ed0d6ce462c36eaa86da38e400&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.btzoo.eu%3A80%2Fannounce&dn=HIDRATORRENTS.ORG...2160P.MKV.-DUBLADO-DUAL-AUDIO-..$nome=[B]OP 3 4Kp[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=_70ygYnVMyo$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Lilo.&.Stitch"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/ottRXMCQ9jPB318syTcfIdtJWIE.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/w102m4HoCP5uxhW8Yh7Hv7QShix.jpg</fanart>
+<info>Lilo é uma garotinha de cinco anos que ama cuidar de animais. Um dia ela adota um cachorro e decide chamá-lo de Stitch. O que ela não sabe é que Stitch é um alienígena e um dos criminosos mais perigosos da galáxia. Agora, para escapar de seus captores que ainda o persegue, Stitch decide se passar por um cachorro comum, criando com o tempo um laço de amizade com Lilo.</info>
+</item>
+
+<item>
+<title>Missão Resgate: Vingança</title>
+<link>plugin://plugin.video.youtube/play/?video_id=axNM8YEn5N4$nome=[B]Trailer[/B]</link>
+<link>magnet:?xt=urn:btih:3e16ef8bbca4219a29f59e1695f5960c184a330f&dn=HIDRATORRENTS.ORG..MKV.Miss%C3%A3o.Resgate.Vingan%C3%A7a.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Missão.Resgate:.Vingança"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/sPTeizmI8p40oEuvbIc2B3H5mg6.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ot2LoRyfp73Mswc9Y5KrDJYcyU1.jpg</fanart>
+<info>Mike viaja ao Nepal para espalhar as cinzas de seu falecido irmão no Monte Everest. Quando Mike e sua guia de montanha encontram mercenários em um ônibus turístico, eles são forçados a lutar para salvar a si mesmos, aos passageiros e à terra natal dos moradores locais.</info>
+</item>
+
+<item>
+<title>A Maldição dos Minimoys</title>
+<link>magnet:?xt=urn:btih:9079c2ed844d8624df739007a1de82efbc04b699&dn=HIDRATORRENTS.ORG..MKV.A.Maldi%C3%A7%C3%A3o.dos.Minimoys.2022.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=ZfPnSuBoBMw$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="A.Maldição.dos.Minimoys"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/4wCq8o9ucebeYhPpspGUoRkJov5.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/szX8DlIgwBnrmoziiq8u8nCCWSP.jpg</fanart>
+<info>Alex é fã da saga - Arthur e os Minimoys - desde criança. No seu aniversário, seus amigos decidem surpreendê-lo com uma visita à casa onde o filme foi gravado, sem saber que a aventura rapidamente se transformará em uma armadilha mortal.</info>
+</item>
+
+<item>
+<title>Amizade Tóxica</title>
+<link>magnet:?xt=urn:btih:b0cd5215d9c0c784b9a8b2902e5de8b11d1e6509&dn=HIDRATORRENTS.ORG..MKV.Amizade.T%C3%B3xica.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=cmSPwZIZu6Y$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Amizade.Tóxica"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/4lpfBxET1zqLvtnf303FS5nUVvR.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/g70uNy3hRqEcU0ilBTtcuBFlizx.jpg</fanart>
+<info>Um pai suburbano (Tim Robinson) faz o possível para manter seu emprego e seu casamento, enquanto tenta fazer amizade com seu novo e charmoso vizinho, Brian (Paul Rudd).</info>
+</item>
+
+<item>
+<title>Amor Enrolado</title>
+<link>magnet:?xt=urn:btih:3613fd03d0de9306ebbdc2e990fc2c549a84833f&dn=HIDRATORRENTS.ORG..MKV.Amor.Enrolado.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=6aiVkmiAyeo$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Amor.Enrolado"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/ilOcS5KH5rvDNnBthYcy6sU8nD7.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oBcvmHD7lbaX8RZ7NXvO05fIJef.jpg</fanart>
+<info>Uma adolescente apaixonada planeja conquistar o menino mais gato da escola alisando o cabelo, até que a chegada de uma pessoa nova muda tudo.</info>
+</item>
+
+<item>
+<title>Smurfs</title>
+<link>magnet:?xt=urn:btih:62326d3f3d5833c130a7174569196c872f48096d&dn=HIDRATORRENTS.ORG..MKV.Smurfs.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=-EjSAqyv5tY$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Smurfs"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/cUCvHtgwa0qtOmFqVlG6sWFc9sJ.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9whEVuKte4Qi0LI4TzPf7glinJW.jpg</fanart>
+<info>Quando o Papai Smurf é misteriosamente levado pelos feiticeiros do mal, Razamel e Gargamel, Smurfette lidera os Smurfs em uma missão no mundo real para salvá-lo. Com a ajuda de novos amigos, os Smurfs precisam descobrir o que define seu destino para salvar o universo.</info>
+</item>
+
+<item>
+<title>Lições de Liberdade</title>
+<link>magnet:?xt=urn:btih:08d91a3dcb27212f4fb3ba69a701db16601fee43&dn=HIDRATORRENTS.ORG..MKV.Li%C3%A7%C3%B5es.de.Liberdade.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=kNXZeJ5aVTY$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Lições.de.Liberdade"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/9KpZkwGOHNKlBPhL4O0T14G5u8U.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bNTUgxHYaDmLo1SfRtahcM16XMi.jpg</fanart>
+<info>Acompanha a jornada de um professor estrangeiro (Steve Coogan) que, ao aceitar um trabalho em uma escola na Argentina em 1976, se depara com um país dividido e uma classe de alunos indisciplinados. No entanto, sua vida toma um rumo inesperado quando ele resgata um pinguim em uma praia. A situação inusitada transforma sua visão de mundo, e lhe ensina as lições mais importantes sobre amizade, esperança e liberdade.</info>
+</item>
+
+
+
+<item>
 <title>A Verdade sobre Jussie Smollett?</title>
 <link>magnet:?xt=urn:btih:4a7dca256597c36fea58ef4b0446bf39e49a6bf1&dn=HIDRATORRENTS.ORG..MKV.A.Verdade.sobre.Jussie.Smollett.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=oxDpijCyFbg$nome=[B]Trailer[/B]</link>
@@ -213,5 +287,6 @@
 <fanart>https://image.tmdb.org/t/p/original/zGT6zikFjC5wRROXbPIipKahZn8.jpg</fanart>
 <info>Uma viúva do século XIX é encarregada de fazer uma escolha impossível quando, durante um inverno especialmente cruel, um navio afunda na costa de sua empobrecida vila de pescadores islandesa. Qualquer tentativa de resgatar sobreviventes corre o risco de esgotar ainda mais os suprimentos dos moradores famintos.</info>
 </item>
+
 
 
