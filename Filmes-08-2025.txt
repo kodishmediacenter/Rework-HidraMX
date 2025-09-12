@@ -1,4 +1,87 @@
 <item>
+<title>Academia de Vilões</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ugp2nkACVVw$nome=[B]Trailer[/B]</link>
+<link>magnet:?xt=urn:btih:427fe2a5f6671777b8309a73435d4fcb37b9f68c&dn=HIDRATORRENTS.ORG..MKV.Academia.de.Vil%C3%B5es.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Academia.de.Vilões"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/4fkhzO6RFo6YL16oOZJak169I1L.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oYPm2zk8fBxm3UBEiaWMzUGHeFW.jpg</fanart>
+<info>Uma TV misteriosa manda a funcionária de um restaurante para uma escola de vilões. Agora, ela vai encontrar um novo propósito e aprender a se vingar dos inimigos.</info>
+</item>
+
+<item>
+<title>O Amanhecer da Guerra</title>
+<link>magnet:?xt=urn:btih:d2cda3e5340dfbcfa89cde1710723e0f2b4bd53c&dn=HIDRATORRENTS.ORG..MKV.O.Amanhecer.da.Guerra.2020.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=VLDq3Y-b70I$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="O.Amanhecer.da.Guerra"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/kbQfUgyXDfv6A0WRA3kdDjyN1cP.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qMUntRvpxOIraTdb2T2b99fZzdx.jpg</fanart>
+<info>Um thriller de espionagem sobre um oficial de inteligência da Estônia que precisa rastrear um misterioso agente duplo soviético às vésperas da Segunda Guerra Mundial.</info>
+</item>
+
+<item>
+<title>Opus</title>
+<link>plugin://plugin.video.youtube/play/?video_id=4-rdKpvHY4Q$nome=[B]Trailer[/B]</link>
+<link>magnet:?xt=urn:btih:146d2d22e4a3bbb86f35ce70535503fa275d66c2&dn=HIDRATORRENTS.ORG..MKV.Opus.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Opus"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3nPkux81OfEW8knkuPoTTrqn7PY.jpg</fanart>
+<info>Uma jovem escritora é convidada para o complexo remoto de uma lendária estrela pop que desapareceu misteriosamente há trinta anos. Cercada pelo culto de bajuladores e jornalistas embriagados da estrela, ela se encontra no centro de um plano macabro.</info>
+</item>
+
+
+<item>
+<title>Fúria da Natureza</title>
+<link>magnet:?xt=urn:btih:c4afa850daca37c971d158c7c7a31188f05926f2&dn=HIDRATORRENTS.ORG..MKV.F%c3%baria.da.Natureza.2023.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=agAVrb36Bns$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Fúria.da.Natureza"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/rAct5T9uP3WgeZEAFduOAZlTcPu.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/phHKTgg0D1KcbxCm2MDdHQ3TKqR.jpg</fanart>
+<info>Em Kerala, durante o dilúvio de 2018, várias histórias se entrelaçam: um ex-militar ajuda um lojista cego, uma repórter enfrenta obstáculos no trabalho e uma família de pescadores sobrevive a uma tempestade. Enquanto uma mulher luta para equilibrar carreira e vida pessoal, um casal busca seu lugar no mundo. Quando as chuvas causam inundações, pessoas comuns tornam-se heróis em meio ao caos.</info>
+</item>
+
+<item>
+<title>Faça Ela Voltar</title>
+<link>magnet:?xt=urn:btih:df7c161ec75056bda0786be481adba14bb1d7a94&dn=HIDRATORRENTS.ORG..MKV.Fa%C3%A7a.Ela.Voltar.2025.1080p.BluRay.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Rw0CYv3Topg$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Faça.Ela.Voltar"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/yknXRPGfIMmRbWVUxfPuLyCcx7h.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2IIKts2A9vnUdM9tTC76B8tDmuZ.jpg</fanart>
+<info>Um irmão e uma irmã descobrem um ritual aterrorizante na casa isolada de sua nova mãe adotiva.</info>
+</item>
+
+<item>
+<title>A Hora do Mal</title>
+<link>magnet:?xt=urn:btih:bbcce4a348f60f6dcd2a67caff7c089b645884e4&dn=HIDRATORRENTS.ORG..MKV.A.Hora.do.Mal.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>magnet:?xt=urn:btih:d00ec6751f80da961744092325b495aa0c01976e&dn=HIDRATORRENTS.ORG..MKV.A.Hora.do.Mal.2025.1080p.FULL.HD.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 2 1080p SC[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=p44WmE8UNF8$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="A.Hora.do.Mal"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/5ik8yud8Ws1UuA2PDmgg5DCeO6L.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg</fanart>
+<info>Quando todas as crianças de uma mesma classe, exceto uma, somem misteriosamente, na mesma noite e exatamente ao mesmo tempo, todos da cidade começam a se questionar quem ou o que está por trás deste estranho desaparecimento.</info>
+</item>
+
+<item>
+<title>Forças Hostis</title>
+<link>magnet:?xt=urn:btih:5cfc7d7eb402704375ce3547ebea7daa375b7087&dn=HIDRATORRENTS.ORG..MKV.For%C3%A7as.Hostis.2023.720p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=fpONMQETtDA$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Forças.Hostis"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/8M4SSjPhTbXne96KHQD2QqBgSa.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eFnexaJdQPaVdgezJjqovkz7rrc.jpg</fanart>
+<info>Mickey é um soldado aposentado que decide viajar com sua família no feriado. Mas após encontrar uma misteriosa mercadoria, ele precisará recorrer às suas antigas habilidades para salvar sua família de um grupo de assassinos.</info>
+</item>
+
+<item>
+<title>Terror na Parada de Caminhões</title>
+<link>magnet:?xt=urn:btih:e61e3bb46cde82536d117472dba0beda22b8ea51&dn=HIDRATORRENTS.ORG..MKV.Terror.na.Parada.de.Caminh%C3%B5es.2022.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP n 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=beIoZBj5P3M$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Terror.na.Parada.de.Caminhões"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/nJlwkoJJE9OBGJ0EqAxmgUELaeh.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pbIWKBWdVF61mEDLF9KCNUXEVpJ.jpg</fanart>
+<info>Uma jovem aparentemente ingênua e devota encontra seu caminho no mundo subterrâneo dos trabalhadores do sexo de parada de caminhões, também conhecidos como "lagartos de lote".</info>
+</item>
+
+
+<item>
 <title>Lilo & Stitch</title>
 <link>magnet:?xt=urn:btih:98d8298292a043494d5014805287cad557e6870f&dn=HIDRATORRENTS.ORG..MKV.Lilo.And.Stitch.2025.1080p.BluRay.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
 <link>magnet:?xt=urn:btih:23bf6337d749bf7792ce96237a4c6d1da577a54c&dn=HIDRATORRENTS.ORG..MKV.Lilo.and.Stitch.2025.1080p.FULL.HD.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 2 1080p SC[/B]</link>
@@ -287,6 +370,7 @@
 <fanart>https://image.tmdb.org/t/p/original/zGT6zikFjC5wRROXbPIipKahZn8.jpg</fanart>
 <info>Uma viúva do século XIX é encarregada de fazer uma escolha impossível quando, durante um inverno especialmente cruel, um navio afunda na costa de sua empobrecida vila de pescadores islandesa. Qualquer tentativa de resgatar sobreviventes corre o risco de esgotar ainda mais os suprimentos dos moradores famintos.</info>
 </item>
+
 
 
 
