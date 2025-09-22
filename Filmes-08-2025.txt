@@ -1,4 +1,107 @@
 <item>
+<title>Deu Match: A Rainha de Apps de Namoro</title>
+<link>magnet:?xt=urn:btih:06d93a5334aa8d7eeda6eb35dd5a8b82987fcbe3&dn=HIDRATORRENTS.ORG..MKV.Deu.Match.A.Rainha.de.Apps.de.Namoro.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=4F64ZqNRhnY$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Deu.Match:.A.Rainha.de.Apps.de.Namoro"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/ulRT1tSPzaPuySSHZgc5UGFMIMh.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zfaZ8m6NHzylqTumf94mDGtQwKM.jpg</fanart>
+<info>Whitney Wolfe, recém-formada da faculdade, usa uma combinação extraordinária de coragem e criatividade para conquistar espaço na indústria de tecnologia dominada por homens. Ela lança não apenas um, mas dois aplicativos de namoro inovadores e aclamados globalmente e acaba se tornando a mais jovem bilionária não herdeira do mundo.</info>
+</item>
+
+<item>
+<title>Ela Disse Talvez</title>
+<link>magnet:?xt=urn:btih:2d0fd386a2e35b2964557c498b59a534e87efce8&dn=HIDRATORRENTS.ORG..MKV.Ela.Disse.Talvez.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=GUqTDNseybk$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Ela.Disse.Talvez"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/1IyovHStVFP3Bt5JwGB0c4uST5J.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rFgdmHbxEocgmzExT3StrRuY4xb.jpg</fanart>
+<info>Criada na Alemanha, Mavi descobre que faz parte de uma dinastia turca milionária. Mas essa nova família vira seu mundo e sua vida amorosa de cabeça para baixo.</info>
+</item>
+
+<item>
+<title>Os Caras Malvados 2</title>
+<link>plugin://plugin.video.youtube/play/?video_id=DccewDgXihs$nome=[B]Trailer[/B]</link>
+<link>magnet:?xt=urn:btih:b8836e78ddba2194d3d3dca1e496eaa1325139a1&dn=HIDRATORRENTS.ORG..MKV.Os.Caras.Malvados.2.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>magnet:?xt=urn:btih:11f61d242530e9b4a198a99bb2946f1e3d0b47f3&dn=HIDRATORRENTS.ORG..MKV.Os.Caras.Malvados.2.2025.1080p.FULL.HD.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 2 1080p SC[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Os.Caras.Malvados.2"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/b0UoBkMSi6hflLxNFIFbJgskorU.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jvpkBenB6hv19WWYVlaiow8zklq.jpg</fanart>
+<info>Os agora reformados Bad Guys estão tentando (muito, muito mesmo) ser bons, mas em vez disso se veem sequestrados para um assalto de alto risco e alcance mundial, arquitetado por uma nova equipe de criminosos que eles nunca imaginaram: as Bad Girls.</info>
+</item>
+
+<item>
+<title>Padel Nosso</title>
+<link>magnet:?xt=urn:btih:307bd5508529a6dcddbead35518de3365415bb37&dn=HIDRATORRENTS.ORG..MKV.Padel.Nosso.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=fg6yZ8H59-A$nome=[B]Trailer[/B]</link>
+<link>$nome=[B]OP n 1080p[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Padel.Nosso"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/NMVbasCl3PO2Uy1POFm2S4jojM.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nPMxyol13eIImW4Qru6IKXlax0o.jpg</fanart>
+<info>Max e Pablito consideram o padel sagrado, tanto que deixam de lado suas responsabilidades familiares. Suas esposas, Helena e Soledad, cansadas da obsessão pelo esporte, proíbem o jogo. Mas a situação toma um rumo inesperado quando elas acabam caindo na mesma obsessão. O que era apenas um passatempo se transforma em uma guerra dos sexos na quadra.</info>
+</item>
+
+<item>
+<title>Cazuza: Boas Novas</title>
+<link>plugin://plugin.video.youtube/play/?video_id=GNOJQmYwmDE$nome=[B]Trailer[/B]</link>
+<link>magnet:?xt=urn:btih:4b3b557facaa8757694fa1331130e04f13a0ab10&dn=HIDRATORRENTS.ORG..MKV.Cazuza.Boas.Novas.2025.1080p.WEB-DL.NACIONAL.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP n 1080p[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Cazuza:.Boas.Novas"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/ijesavlcWzIbuxxQRiFKqk7qvjn.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qykHbcYDCBVuvz6C2ZTk9cUHryF.jpg</fanart>
+<info>Em 1987, Cazuza foi diagnosticado com AIDS e viajou para os Estados Unidos para iniciar um tratamento. Internado em um hospital em Boston, ele chegou a ficar à beira da morte. No entanto, quando voltou ao Brasil no final daquele ano, lançou três álbuns, recebeu prêmios e fez mais de 40 apresentações do espetáculo "O Tempo Não Para." Com depoimentos de Ney Matogrosso, Gilberto Gil, Frejat, sua mãe Lucinha Araújo e do próprio diretor do filme, Nilo Romero (amigo, parceiro de composições e diretor musical do último show de Cazuza), o documentário nos conta essa história com grande riqueza de detalhes.</info>
+</item>
+
+<item>
+<title>Trust</title>
+<link>magnet:?xt=urn:btih:fa2a3a6e41dc074c0ee798ee4b84797977166459&dn=HIDRATORRENTS.ORG..MKV.Trust.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP n 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=YKZ3BH5LYxU$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Trust"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/b803hag2QDyHphM6AuSWCjoVVbl.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aJgTPBIkB5rovcF9FjUMl05W10D.jpg</fanart>
+<info>Uma jovem estrela de Hollywood busca refúgio em um Airbnb isolado após um escândalo de grandes proporções, mas acaba ficando à mercê de criminosos implacáveis que estão em busca de um grande golpe.</info>
+</item>
+
+<item>
+<title>Juntos</title>
+<link>magnet:?xt=urn:btih:80aea85911220a2713a690ebd4fddc525b225b1c&dn=HIDRATORRENTS.ORG..MKV.Juntos.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=n2OcRe6eYAw$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Juntos"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/gFizWARkUj7SMuGkmssxIV9TkgT.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uBB1aMga5ngZxsUQL5k36zeW3pB.jpg</fanart>
+<info>O que poderia ser uma oportunidade para recomeçar logo se transforma em um verdadeiro pesadelo, quando uma força sobrenatural começa a corromper sua relação, suas mentes e seus corpos. À medida que se afastam de tudo o que conheciam, o casal descobre que, para permanecerem juntos, terão que enfrentar um horror muito maior do que o que os separava.</info>
+</item>
+
+<item>
+<title>O Mesmo Dia com Você</title>
+<link>magnet:?xt=urn:btih:83d142f026c0c32cdb3033c3f69e333bd6491c8b&dn=HIDRATORRENTS.ORG..MKV.O.Mesmo.Dia.com.Voc%C3%AA.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=WfIDFyRmKC8$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="O.Mesmo.Dia.com.Você"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/ekyvMJ4SQMDRwTlLYktamGMbO4y.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9ibwr02TiPvxN1jqLufKXvFVD1Y.jpg</fanart>
+<info>Presa em um loop temporal, uma curadora de museu revive um dia em que tudo deu errado. Para escapar, ela precisa aceitar que não é perfeita.</info>
+</item>
+
+<item>
+<title>Relay</title>
+<link>magnet:?xt=urn:btih:261970872BB66E187804313AD5E317C92E9BD357&dn=HIDRATORRENTS.ORG..Relay.2024.1080p.WEBRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=W1wJEcdb8Vc$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Relay"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/mpwccO2L8LUVtVTJTdgUVgoQqAo.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1ZnEOaOUj2e2Fq6Y7wo9KeH5rS6.jpg</fanart>
+<info>Um lucrativo corretor de suborno entre empresas corruptas e indivíduos que as ameaçam quebra suas próprias regras quando um novo cliente busca sua proteção para se manter vivo.</info>
+</item>
+
+<item>
+<title>A Perseguição</title>
+<link>magnet:?xt=urn:btih:44ebba784a9622569c697b1015799f5dfb8b9153&dn=HIDRATORRENTS.ORG..MKV.A.Persegui%C3%A7%C3%A3o.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=G1my5HP-lzY$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="A.Perseguição"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/wB4JPuLWRFS1gtCLXE5hEl6e8p2.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tLf5hjuO4gx62lVojPiHsIzCroh.jpg</fanart>
+<info>Anos depois de não conseguir resolver o assassinato de uma jovem, um detetetive se vê obrigado a reabrir o caso quando um crime semelhante acontece. Faltando apenas 6 dias para o caso ser definitivamente arquivado, ele sente o dever de solucioná-lo e evitar que outra criança sofra o mesmo destino.</info>
+</item>
+
+
+<item>
 <title>Academia de Vilões</title>
 <link>plugin://plugin.video.youtube/play/?video_id=ugp2nkACVVw$nome=[B]Trailer[/B]</link>
 <link>magnet:?xt=urn:btih:427fe2a5f6671777b8309a73435d4fcb37b9f68c&dn=HIDRATORRENTS.ORG..MKV.Academia.de.Vil%C3%B5es.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
@@ -370,6 +473,7 @@
 <fanart>https://image.tmdb.org/t/p/original/zGT6zikFjC5wRROXbPIipKahZn8.jpg</fanart>
 <info>Uma viúva do século XIX é encarregada de fazer uma escolha impossível quando, durante um inverno especialmente cruel, um navio afunda na costa de sua empobrecida vila de pescadores islandesa. Qualquer tentativa de resgatar sobreviventes corre o risco de esgotar ainda mais os suprimentos dos moradores famintos.</info>
 </item>
+
 
 
 
