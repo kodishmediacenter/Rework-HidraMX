@@ -1,4 +1,176 @@
 <item>
+<title>O Peso da Vitória</title>
+<link>magnet:?xt=urn:btih:aa5763e76da76f5a22ad67e552c7842525cb2be5&dn=HIDRATORRENTS.ORG..MKV.O.Peso.da.Vit%C3%B3ria.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="O.Peso.da.Vitória"$nome=[B]Busca Rajada[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=jmYs42XYdTA$nome=[B]Trailer[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/iL804GT7hOpieQ8wYog9aEfsni6.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eK0EJwWaLfnLIpdyRJLSM3Tz4xq.jpg</fanart>
+<info>Com Orlando Bloom. Um boxeador aposentado retorna ao ringue para uma última chance pelo título, mas somente se conseguir atingir o peso. Em um quarto de Las Vegas, ele embarca em um programa de redução de peso com um treinador sem escrúpulos.</info>
+</item>
+
+<item>
+<title>Os Enforcados</title>
+<link>magnet:?xt=urn:btih:cbc7600943cda5d9b4fa3a27507359df39324313&dn=HIDRATORRENTS.ORG..MKV.Os.Enforcados.2025.1080p.WEB-DL.NACIONAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Os.Enforcados"$nome=[B]Busca Rajada[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=BSMFfS4vhbs$nome=[B]Trailer[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/6x3670ZuV4v7YUome28WSGlSblv.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uNCKWUt5jbgdcGpMEqmgIvLKFof.jpg</fanart>
+<info>Em um Rio de Janeiro tomado pelo crime, o casal Valério e Regina se vê envolvido em dívidas e traições herdadas da família de Valério. Uma noite, eles encontram o plano perfeito. Mas, ao executá-lo, são sugados por uma espiral de violência que parece não ter fim.</info>
+</item>
+
+<item>
+<title>Invocação do Mal 4: O Último Ritual</title>
+<link>magnet:?xt=urn:btih:5f9d50381379b70bac48781892e878de9609b46c&dn=HIDRATORRENTS.ORG..MKV.Invoca%C3%A7%C3%A3o.do.Mal.4.O.%C3%9Altimo.Ritual.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>magnet:?xt=urn:btih:77aef284168921dbd9d65441c4587bce1f40c4b6&dn=HIDRATORRENTS.ORG..MKV.Invoca%C3%A7%C3%A3o.do.Mal.4.O.%C3%9Altimo.Ritual.2025.1080p.FULL.HD.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 2 1080p SC[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=_MRJZrXZeQk$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Invocação.do.Mal.4:.O.Último.Ritual"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/40nHGUfypLhlr7gJx8At1IbYkaK.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9DYFYhmbXRGsMhfUgXM3VSP9uLX.jpg</fanart>
+<info>Neste último capítulo, os Warren enfrentam mais um caso aterrorizante, desta vez envolvendo entidades misteriosas que desafiam sua experiência. Ed (Patrick Wilson) e Lorraine (Vera Farmiga) se veem obrigados a encarar seus maiores medos, colocando suas vidas em risco em uma batalha final contra forças malignas.</info>
+</item>
+
+<item>
+<title>Segredos Proibidos</title>
+<link>magnet:?xt=urn:btih:72a13062925ff7e6fc57a7ed00fdc1f84d904750&dn=HIDRATORRENTS.ORG..MKV.Segredos.Proibidos.2023.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=roR2HPcvaHg$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Segredos.Proibidos"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/iyp0W828SdsN7VxwMr0Yo9ZjyUp.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sDhfPvuGe6e5pnWlC8BOg7uTKOa.jpg</fanart>
+<info>Duas irmãs gêmeas levam vidas completamente opostas. Aubrey é uma mulher casada e bem-sucedida, enquanto Jennifer é uma profissional do sexo envolvida com a máfia.</info>
+</item>
+
+<item>
+<title>Steve</title>
+<link>magnet:?xt=urn:btih:d8efa6a31f8bec9ef7b2981043e5e4ac789acb3f&dn=HIDRATORRENTS.ORG..MKV.Steve.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=AL_13OUDZdU$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Steve"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uwfSpSF5h0De9kvrQYflEWasin4.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart></fanart>
+<info>Um diretor luta para manter sua escola de reforma aberta enquanto lidia com problemas de saúde mental. Ao mesmo tempo, um estudante problemático enfrenta agressividade e fragilidade, preso entre seu passado e seu potencial futuro.</info>
+</item>
+
+<item>
+<title>O Demônio do Alasca</title>
+<link>magnet:?xt=urn:btih:0b837b3a8fb2ceb99b5c36740beb7989ac865ba0&dn=HIDRATORRENTS.ORG...1080P.MKV.-DUBLADO-DUAL-AUDIO-..$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=6PTR8xK2wPU$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="O.Demônio.do.Alasca"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/2b8tnSruPQnzEJSSsI0lEsY84KJ.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/j6OkZpiBZPXGGN0EFSIN1Rg7xI.jpg</fanart>
+<info>No rigoroso inverno do Alasca, Alex e sua mãe transformam o próprio lar em uma armadilha mortal, atraindo pessoas para um ritual de abuso e canibalismo.</info>
+</item>
+
+<item>
+<title>O Ônibus Perdido</title>
+<link>magnet:?xt=urn:btih:9474c6ca0f1ef3e09306b6321fdabb497da74fe1&dn=HIDRATORRENTS.ORG..MKV.O.%C3%94nibus.Perdido.2025.WEB-DL.1080p.x264.DUAL.5.1-SF&xl=3496297273&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fttk2.nbaonlineservice.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.fnix.net%3A6969%2Fannounce&tr=udp%3A%2F%2Fu4.trakx.crim.ist%3A1337%2Fanunciar&tr=https%3A%2F%2Ftrackers.mlsub.net%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.yemekyedim.com%3A443%2Fannounce&tr=udp%3A%2F%2Fu6.trakx.crim.ist%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.birkenwald.de%3A6969%2Fannounce&tr=udp%3A%2F%2Fr.l5.ca%3A6969%2Fanunciar&tr=http%3A%2F%2Ftracker.vraphim.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fevan.im%3A6969%2Fanunciar&tr=udp%3A%2F%2Fp2p.publictracker.xyz%3A6969%2Fanunciar&tr=udp%3A%2F%2Fmartin-gebhardt.eu%3A25%2Fanunciar$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=q7Ic6ry9Buo$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="O.Ônibus.Perdido"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/dynpfgDMzE9Q7qQOVE72DWulYrX.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kluvU30OeWqMRByRIgCNRNdJ48Y.jpg</fanart>
+<info>Um pai determinado arrisca tudo para resgatar uma professora dedicada e seus alunos de um incêndio florestal devastador.</info>
+</item>
+
+<item>
+<title>Jogo Sujo</title>
+<link>magnet:?xt=urn:btih:9c886ccb93916077c1c7268a067572f699d2efd2&dn=HIDRATORRENTS.ORG..MKV.Jogo.Sujo.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Wn6c_5bP-2A$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Jogo.Sujo"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/2fXF4GY6eoyjRLjtreVJGajT9WV.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/k6tdiMTO39RQj3dhfspuzprfoe0.jpg</fanart>
+<info>Um ladrão profissional se lança no maior roubo de sua vida. Parker, Grofield, Zen e uma equipe talentosa embarcam num roubo que os coloca contra a máfia de Nova York num golpe sagaz e intenso.</info>
+</item>
+
+<item>
+<title>MMA Cop</title>
+<link>magnet:?xt=urn:btih:9556421201E964CF7A1A7200B10F36F9AEF426FF&dn=HIDRATORRENTS.ORG..MMA.Cop.2025.1080p.WEBRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=nWftgDnZlb4$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="MMA.Cop"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/zha2hXQTUzvxwy0ayBedACS6jHx.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart></fanart>
+<info>When a beautiful journalist pursues a story on a child sex trafficking operation, she becomes hunted by assassins. Her only hope? A rogue, wisecracking detective with a penchant for violence.</info>
+</item>
+
+<item>
+<title>Sacramento</title>
+<link>magnet:?xt=urn:btih:abaae9b175a95296198ab56ea8aa4161bb4eda48&dn=HIDRATORRENTS.ORG..MKV.Sacramento.2024.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=jZRbFs_WhX0$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Sacramento"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/hVhDtbVs6PIxvIbAKL5zom4BnkO.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sZhQRRzRwUg7lsaQ97JQd7G9e1n.jpg</fanart>
+<info>Dois amigos, Rickey e Glenn, se separaram ao longo da vida. Mas com algumas mentirinhas, Rickey convence Glenn a ir em uma viagem de carro improvisada de Los Angeles para Sacramento para espalhar as cinzas de seu pai. Enquanto Glenn já se acostumou com a rotina do dia a dia, Rickey continua imaturo e espera que essa aventura vá revigorar a amizade deles.</info>
+</item>
+
+<item>
+<title>Mauler</title>
+<link>magnet:?xt=urn:btih:8430D553ECE2EE4FCB147CD1C23E2EBBFA6EFB1E&dn=HIDRATORRENTS.ORG..Mauler.2025.1080p.WEBRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=haFrptBbisg$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Mauler"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/bPUz0j1IvG23OD0lvPEKB8zfiXa.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m4mLbjPJcVcmATLnAObPci7pGaH.jpg</fanart>
+<info>Desperate for cash, five young friends enter a creepy murder house for a $25K dark web contest, only to end up in a brutal fight for their lives against a 7-foot-tall religious maniac with a sledgehammer who's out to kill all sinners.</info>
+</item>
+
+<item>
+<title>Gatilheiro</title>
+<link>magnet:?xt=urn:btih:30a4b39c76e7b8f115c3c9096522192f111192af&dn=HIDRATORRENTS.ORG..MKV.Gatilheiro.2025.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=quX5LyA5xus$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Gatilheiro"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/2l1om8E5zoHCm9cjLR1Zyr1UHUj.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nJLp4dBD29fwWopoaranezJ26bo.jpg</fanart>
+<info>Este thriller acompanha uma noite vertiginosa na vida de "El Galgo" (Sergio Podeley), um ex-assassino de aluguel que aceita um pequeno trabalho para seu antigo chefe. No entanto, em um bairro corrupto, nada é o que parece, e ele rapidamente se vê envolvido em uma teia de eventos inesperados. Uma corrida contra o tempo e seu próprio destino, filmado sem cortes visíveis.</info>
+</item>
+
+<item>
+<title>French Lover</title>
+<link>magnet:?xt=urn:btih:b9400dcfc30077a9d350996fabfc4fb441a48a5e&dn=HIDRATORRENTS.ORG..MKV.French.Lover.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=755DTs6d7-0$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="French.Lover"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/jcjDWQ06lFGBjJh6XH7357SQKA9.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/p4OIGFfVo3vbROMD1evVF0u14Rf.jpg</fanart>
+<info>Quando um ator cansado conhece uma garçonete azarada em Paris, nasce uma história de amor improvável. Mas será que o brilho dos holofotes vai ofuscar essa paixão?</info>
+</item>
+
+<item>
+<title>Rute e Boaz</title>
+<link>magnet:?xt=urn:btih:f0b215782daf55683196957573e049c9c50cc80a&dn=HIDRATORRENTS.ORG..MKV.Ruth.e.Boaz.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP n 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=hM6_AC0I7uk$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Rute.e.Boaz"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/u7tqBQrxq6AyT7LMcBzv3vykysn.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m2e8GUES92IaXRCLxWElJnlZ34w.jpg</fanart>
+<info>Uma cantora talentosa deixa a cena musical de Atlanta e recomeça em uma cidadezinha do Tennessee. Lá, encontra o amor e um propósito, mas não consegue fugir do passado.</info>
+</item>
+
+<item>
+<title>Mantis</title>
+<link>magnet:?xt=urn:btih:666a2ea75287cf9fc15fdadeb23205a3c132242a&dn=HIDRATORRENTS.ORG..MKV.Mantis.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=6xctwc0lOSg$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Mantis"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/8Jqrvmq1dwfJtOfUOt8ByinEPts.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yOFqBpJ0PEkBdQqalDEaeOiaKbz.jpg</fanart>
+<info>A sociedade secreta de assassinos de aluguel vira um caos e novos tipos de matadores começam a dar as caras. Quem vai dominar o submundo do crime?</info>
+</item>
+
+<item>
+<title>Uma Questão de Escolha</title>
+<link>magnet:?xt=urn:btih:4bf10726cf86e12ae59b42d82330f0d0fe037941&dn=HIDRATORRENTS.ORG..MKV.Uma.Quest%C3%A3o.de.Escolha.2025.1080p.WEB-DL.NACIONAL.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=XIMLoLxmTDw$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Uma.Questão.de.Escolha"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/v6FTKHcXURfvmgq9aeMz7w582EW.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart></fanart>
+<info>Presa em um casamento tóxico com o manipulador Pedro, Andreia faz uma jogada ousada, ela compra uma motocicleta. O que começa como uma fuga se torna um caminho para a liberdade, quando ela descobre uma comunidade vibrante de pilotos que apoiam sua jornada. Na estrada aberta, ela enfrenta desafios, encontra conexão e recupera sua voz em uma história de coragem, autodescoberta e libertação emocional.</info>
+</item>
+
+<item>
+<title>Por Inteiro</title>
+<link>magnet:?xt=urn:btih:18f886cf59068e584b0a3d4f9fb51de23b265c66&dn=HIDRATORRENTS.ORG..MKV.Por.Inteiro.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=EM6j-NpLNsA$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Por.Inteiro"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/16ndbEL3c0y5tW953EzqxY0cgvb.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nuwtlQXArDtmTWyZVHoXTqgUMwB.jpg</fanart>
+<info>Laura e Simon são melhores amigos desde a faculdade. Ao longo dos anos, eles notaram que seu vínculo é mais do que platônico. Será que eles podem—e devem—arriscar tudo para explorar um amor de já tanto tempo?</info>
+</item>
+
+
+<item>
 <title>Deu Match: A Rainha de Apps de Namoro</title>
 <link>magnet:?xt=urn:btih:06d93a5334aa8d7eeda6eb35dd5a8b82987fcbe3&dn=HIDRATORRENTS.ORG..MKV.Deu.Match.A.Rainha.de.Apps.de.Namoro.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=4F64ZqNRhnY$nome=[B]Trailer[/B]</link>
@@ -473,6 +645,7 @@
 <fanart>https://image.tmdb.org/t/p/original/zGT6zikFjC5wRROXbPIipKahZn8.jpg</fanart>
 <info>Uma viúva do século XIX é encarregada de fazer uma escolha impossível quando, durante um inverno especialmente cruel, um navio afunda na costa de sua empobrecida vila de pescadores islandesa. Qualquer tentativa de resgatar sobreviventes corre o risco de esgotar ainda mais os suprimentos dos moradores famintos.</info>
 </item>
+
 
 
 
