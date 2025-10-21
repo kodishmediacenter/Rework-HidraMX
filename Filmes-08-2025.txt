@@ -1,4 +1,185 @@
 <item>
+<title>Medo no Pacífico</title>
+<link>magnet:?xt=urn:btih:d84273852cc13bfbfd931124b6cf4137d8d56acd&dn=HIDRATORRENTS.ORG..MKV.Medo.no.Pacifico.2024.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=aiZFMrQVkAE$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Medo.no.Pacífico"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/knEPrIc7ZwUGiyb3oRvLOkj1qm6.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mijSBMlvAp4QoCpEShrl62444Cb.jpg</fanart>
+<info>Quatro amigas viajam para uma ilha na Polinésia Francesa em busca de ondas que ninguém surfou. Elas são levadas por um ex-militar que avisa a uma delas que o local foi apagado de todos os mapas e que ninguém nunca retornou de lá.</info>
+</item>
+
+<item>
+<title>Um Fantasma na Batalha</title>
+<link>magnet:?xt=urn:btih:e554d1584cb35071d2155af4739abafd8623ae2f&dn=HIDRATORRENTS.ORG..MKV.Um.Fantasma.na%20Batalha.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=4FrK4Vxzz0k$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Um.Fantasma.na.Batalha"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/ijgAJV26tkiZnLPbadDFXVqKHWg.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/l2Fk70FTuBPDx32gTsVUrRvF8jC.jpg</fanart>
+<info>Uma jovem agente abre mão de tudo para se infiltrar no ETA, arriscando a própria vida para localizar os esconderijos do grupo terrorista no sul da França.</info>
+</item>
+
+<item>
+<title>27 Noites</title>
+<link>magnet:?xt=urn:btih:62b573d3432ac805b89d909a799a2e7d6a45a123&dn=HIDRATORRENTS.ORG..MKV.27.Noites.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p [/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=T9PEcUpiW6A$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="27.Noites"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/fo2MUxHn8sTaNYldpBCd5Q4Nu1y.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5fwRgUF11NGJDXK4iDCLa2v1kCL.jpg</fanart>
+<info>Uma mulher é internada em uma clínica psiquiátrica pelas filhas por seu comportamento. Agora, cabe a um especialista julgar se ela está doente ou só quer curtir a vida.</info>
+</item>
+
+<item>
+<title>Mar Branco: A Surreal História de Rabo de Peixe</title>
+<link>magnet:?xt=urn:btih:1df98865f85489986304ac0bd03ff213540b7af3&dn=HIDRATORRENTS.ORG..MKV.Mar.Branco.A.Surreal.Hist%C3%B3ria.de.Rabo.de.Peixe.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=-bnIwi7ORVc$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Mar.Branco:.A.Surreal.História.de.Rabo.de.Peixe"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/6OFfQFdYICzQJTA1765QMDblLOW.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bFzgPvBeARjperha0bYgyPrwXev.jpg</fanart>
+<info>Em junho de 2001, centenas de quilos de cocaína apareceram no litoral de um vilarejo português de São Miguel. Este documentário revela o impacto que o incidente teve na comunidade, com um relato desse incidente transformador na Vila Rabo de Peixe.</info>
+</item>
+
+<item>
+<title>A Vizinha Perfeita</title>
+<link>magnet:?xt=urn:btih:31fdfaae8ffb8262ed69c61a05ed881086b01324&dn=HIDRATORRENTS.ORG..MKV.A.Vizinha.Perfeita.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=x410jHP9a_I$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="A.Vizinha.Perfeita"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/pI4jlN7fkq0BcWWmAsDOVVz2ASC.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jzTa3jClI5LDME7eJWbBj3r9tyW.jpg</fanart>
+<info>Com imagens de câmeras corporais de inúmeras visitas policiais, A Vizinha Perfeita retrata como uma comunidade unida lida com o assédio constante de uma das moradoras. Mas a hostilidade toma um rumo sinistro e acaba virando um crime fatal.</info>
+</item>
+
+<item>
+<title>Good News</title>
+<link>magnet:?xt=urn:btih:69adca93e46da294f1c4ab7343516036787c9e74&dn=HIDRATORRENTS.ORG..MKV.Good.News.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=ypYoQq-OJCs$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Good.News"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/kErbCch7vOCjZYgQjgP24lOjl9l.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iceD8kM2Dk6hIK2zWodkT0m6zDx.jpg</fanart>
+<info>Um grupo sequestra um avião japonês e exige pousar Pyongyang. Agora, um homem misterioso orquestrará um plano ousado e tentará redirecionar o voo para Seul.</info>
+</item>
+
+<item>
+<title>Massacre 1976</title>
+<link>magnet:?xt=urn:btih:4ac0e91d6940c83361e346bd214ff4c96ad6afd2&dn=HIDRATORRENTS.ORG..MKV.Massacre.1976.2025.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Shc46p9u_3o$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Massacre.1976"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/iM996T2VQiEYSZmAZgn4UCOJTmX.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pJg0uCexeVKmr24x9OFvs7lwRlp.jpg</fanart>
+<info>Em 1976, um grupo de pessoas no deserto para uma sessão de fotos se depara com uma cidade abandonada chamada Savage. Mas eles não estão sozinhos. Uma família de psicopatas mascarados reivindicou Savage como seu e está empenhada em fazer jus ao seu nome.</info>
+</item>
+
+<item>
+<title>Os Pestes</title>
+<link>magnet:?xt=urn:btih:1847cfc8ecda82277dff3836cec725d18fbeccf5&dn=HIDRATORRENTS.ORG..MKV.Os.Pestes.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=DUAuzwjL0pI$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Os.Pestes"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/1xw2Nl7QykRxZEQF07tI5arpwbO.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4KIg3yxQcWbuXJ5xgiTLGguCtC.jpg</fanart>
+<info>Os vilões mais malvados e nojentos tomam conta da cidade, levando duas crianças corajosas a se unirem a uma família de animais mágicos para derrotá-los.</info>
+</item>
+
+<item>
+<title>Downton Abbey: O Grande Final</title>
+<link>magnet:?xt=urn:btih:f22c4a239678a26f114e7bc360c4f16959088bab&dn=HIDRATORRENTS.ORG..MKV.Downton.Abbey.O.Grande.Final.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=9eeQAKgbnQ8$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Downton.Abbey:.O.Grande.Final"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/yr3VU1spstT79VIddR08JjJ7r0Z.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jvzPTf0nhsqAXodYT6ILKb99IA2.jpg</fanart>
+<info>O retorno cinematográfico do fenômeno global, acompanha a família Crawley e seus empregados enquanto entram na década de 1930. Quando Mary se vê envolvida em um escândalo público e a família enfrenta problemas financeiros, toda a casa corre o risco de cair em desgraça social. Os Crawley precisam aceitar as mudanças, enquanto a equipe se prepara para um novo capítulo, com a próxima geração conduzindo Downton Abbey rumo ao futuro.</info>
+</item>
+
+<item>
+<title>O Tempo Que Nos Resta</title>
+<link>magnet:?xt=urn:btih:c2aec6413d0d65d8c5f0d08f33d4db16082e30ba&dn=HIDRATORRENTS.ORG..MKV.O.Tempo.que.Nos.Resta.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=0ZCgcH9d5rs$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="O.Tempo.Que.Nos.Resta"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/gFFxJs62P4H1fufvK7u1OfOvjft.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/OCNoxTB6sqZXmiazkZYyUA6Iz7.jpg</fanart>
+<info>Após uma série de mortes, uma mulher idosa relembra seu romance com um misterioso homem imortal. Só que o sombrio segredo do casal está prestes a ser descoberto.</info>
+</item>
+
+<item>
+<title>Nossa Culpa</title>
+<link>magnet:?xt=urn:btih:d34cdd65e48fe289751874cf80854b1db20a71de&dn=HIDRATORRENTS.ORG..MKV.Nossa.Culpa.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=72e_AtbGazo$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Nossa.Culpa"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/tPq8xqhsTYZzUGwMKuksa0eyeGZ.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7QirCB1o80NEFpQGlQRZerZbQEp.jpg</fanart>
+<info>O casamento de Jenna e Lion marca o tão esperado reencontro entre Noah e Nick após o término. A incapacidade de Nick de perdoar Noah é uma barreira intransponível. Ele, herdeiro dos negócios do avô, e ela, iniciando a vida profissional, evitam alimentar uma chama ainda acesa. Mas, agora que seus caminhos se cruzaram novamente, será o amor mais forte que o ressentimento?</info>
+</item>
+
+<item>
+<title>Rosario</title>
+<link>magnet:?xt=urn:btih:0eaab370ab17529d419bc8cd382d3c9b6255348f&dn=HIDRATORRENTS.ORG..MKV.Rosario.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Ye7vIY2Vr8A$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Rosario"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/qYBNoKmFID4gSKcnij1JSIdOsJ3.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/d5aBTObiUzqGZMohXtQKY4FMGvb.jpg</fanart>
+<info>Quando Rosario, uma empresária de sucesso, recebe a notícia da morte de sua avó distante, ela precisa voltar ao antigo apartamento da família. No entanto, uma forte nevasca a surpreende, obrigando-a a passar a noite no local. Cercada por vizinhos estranhos e por um silêncio cada vez mais inquietante, Rosario logo percebe que algo maligno e ancestral habita aquele lugar. Ao descobrir uma maldição que atravessa gerações, ela precisará enfrentar os segredos enterrados de sua família para proteger não apenas a própria vida, mas também sua alma.</info>
+</item>
+
+<item>
+<title>De Volta ao Sítio - Uma Nova Aventura</title>
+<link>magnet:?xt=urn:btih:950c6b09cd2153de935969b37ebfb0fb4cf99e93&dn=HIDRATORRENTS.ORG..MKV.De.Volta.ao%20S%c3%adtio.Uma.Nova.Aventura.2024.1080p.WEB-DL.NACIONAL.2.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=GMYEriFC_5Q$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="De.Volta.ao.Sítio.-.Uma.Nova.Aventura"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/isWxw5FLMXY5VGbdOonGy2q8yPS.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/y15mmvnNzwF0MjuXTDTAk8LCC5J.jpg</fanart>
+<info>No coração do Sítio, a tranquilidade dá lugar à aventura quando um fazendeiro misterioso surge com a proposta de comprar aquelas terras mágicas. Para Narizinho, isso significa perder o lar, as memórias e os amigos encantados da floresta. Determinada a lutar, ela se une à destemida Emília e ao curioso Pedrinho, iniciando uma jornada repleta de segredos, descobertas e desafios inesperados.</info>
+</item>
+
+<item>
+<title>Furioza 2</title>
+<link>magnet:?xt=urn:btih:b270e394a772082371303f9cea3be1961eb2e5da&dn=HIDRATORRENTS.ORG..MKV.Furioza.2.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=GC9wje4-d78$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Furioza.2"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/huvM6PcelNHpL3ldtgDpxstQWqN.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2yo2k8CmgZxfBQYAZ8TnHIYzEme.jpg</fanart>
+<info>Após um assassinato, o novo líder da Furioza, Golden, toma as rédeas de sua gangue violenta e assume um novo foco entre as fronteiras.</info>
+</item>
+
+<item>
+<title>Garota Roubada</title>
+<link>magnet:?xt=urn:btih:36c3faa0970c3c2581876b36b35dbaa0a71057fc&dn=HIDRATORRENTS.ORG..MKV.Stolen.Girl.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=sJXZiprr4EA$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Garota.Roubada"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/hpwmR1AE8Ro0KO68YPhk1thACvL.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qcDDn7WeKBenM4nLlOPXAeJ4hpg.jpg</fanart>
+<info>Uma mulher americana passa mais de dez anos procurando sua filha, sequestrada e levada para o Oriente Médio pelo pai, enfrentando perigos e desafios em sua busca incansável.</info>
+</item>
+
+<item>
+<title>Depois que Morri, Todos me Amam</title>
+<link>magnet:?xt=urn:btih:8bf468d1d8c43f06f56dd7da8882d0c5ec821c54&dn=HIDRATORRENTS.ORG..MKV.Depois.que.Morri.Todos.me.Amam.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=TjtcYE_7RxY$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Depois.que.Morri,.Todos.me.Amam"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/wGpCLg2opZB2vKMMdgU4kpJSYv5.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uBSAkQNDh9INECJlVEkUc2Q5uZ2.jpg</fanart>
+<info>Dois bancários roubam da conta de uma cliente morta e acabam se metendo com o submundo do crime da Tailândia.</info>
+</item>
+
+<item>
+<title>A Grande Viagem da Sua Vida</title>
+<link>magnet:?xt=urn:btih:724086df28244422db58abcc87eb26b19d407440&dn=HIDRATORRENTS.ORG..MKV.A.Grande.Viagem.da.Sua.Vida.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=dp3ya02TYLo$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="A.Grande.Viagem.da.Sua.Vida"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/yotLf2cL6lgM5HCEbTyIJKv3wjG.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg</fanart>
+<info>E se você pudesse abrir uma porta e atravessá-la para reviver um momento marcante do seu passado? Sarah e David acabam se conhecendo no casamento de um amigo em comum e, por uma reviravolta surpreendente do destino, se veem em uma jornada grandiosa, ousada e bela – uma aventura divertida, fantástica e arrebatadora, na qual revivem momentos importantes de seus respectivos passados, revelando como chegaram aonde estão no presente e possivelmente tendo a chance de mudarem seus futuros.</info>
+</item>
+
+<item>
+<title>O Brilho do Natal</title>
+<link>magnet:?xt=urn:btih:ef456c67d236fff5047221039a015ce804460502&dn=HIDRATORRENTS.ORG..MKV.O.Brilho.do.Natal.2024.1080p.WEB-DL.DUAL.2.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=NeIchZj1xPo$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="O.Brilho.do.Natal"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/mmjPNDQ3W6Io410ZYbrEFaiZQYF.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3qPktw2m0g4Wnd1YCWlsDHViN40.jpg</fanart>
+<info>Um romance de Natal inspirado na história de amor de um astro pop bilionário e um famoso jogador de futebol. O casal tem até o final das festas para confessar seus sentimentos e decidir tentar.</info>
+</item>
+
+
+<item>
 <title>O Peso da Vitória</title>
 <link>magnet:?xt=urn:btih:aa5763e76da76f5a22ad67e552c7842525cb2be5&dn=HIDRATORRENTS.ORG..MKV.O.Peso.da.Vit%C3%B3ria.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
 <link>plugin://plugin.video.elementum/search?q="O.Peso.da.Vitória"$nome=[B]Busca Rajada[/B]</link>
@@ -645,6 +826,7 @@
 <fanart>https://image.tmdb.org/t/p/original/zGT6zikFjC5wRROXbPIipKahZn8.jpg</fanart>
 <info>Uma viúva do século XIX é encarregada de fazer uma escolha impossível quando, durante um inverno especialmente cruel, um navio afunda na costa de sua empobrecida vila de pescadores islandesa. Qualquer tentativa de resgatar sobreviventes corre o risco de esgotar ainda mais os suprimentos dos moradores famintos.</info>
 </item>
+
 
 
 
