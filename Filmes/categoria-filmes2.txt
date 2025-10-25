@@ -3,7 +3,7 @@
  <channel>
  <name>[B][COLOR yellow]Para Rodar os Conteudos é Necessário Elementum[/COLOR][/B]</name>
  <thumbnail>https://uploaddeimagens.com.br/images/003/229/660/full/image.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/refs/heads/main/filmes-teste</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/filmes-teste</externallink>
  <fanart></fanart>
  <info></info>
  </channel>
@@ -13,7 +13,7 @@
 <channel>
 <name>Filmes Extras - Starck</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/refs/heads/main/filmes-teste</externallink>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/filmes-teste</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
@@ -22,7 +22,7 @@
 <channel>
 <name>Coletanea de Filmes</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/refs/heads/main/Filmes/box</externallink>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/Filmes/box</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
