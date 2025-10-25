@@ -32,7 +32,7 @@
 <channel>
 <name>Novidades de Filmes</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/refs/heads/main/Filmes/lancamentos</externallink>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/Filmes/lancamentos</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
 </channel>
