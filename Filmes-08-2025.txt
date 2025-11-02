@@ -1,4 +1,85 @@
 <item>
+<title>A Mulher da Fila</title>
+<link>magnet:?xt=urn:btih:0484cf932485f051b52e8924828ab085909db744&dn=HIDRATORRENTS.ORG..MKV.A.Mulher.da.Fila.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=1e1ilUmAQT0$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="A.Mulher.da.Fila"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/pBN7Ff8KRCsx9nExi4xIRqCWgYY.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fGrlT6p7IzmujKW0GPBESx2pXCp.jpg</fanart>
+<info>Para libertar o filho preso, uma mãe enfrenta um sistema de justiça corrupto e encontra outras mulheres vivendo batalhas semelhantes. Baseado em uma história real.</info>
+</item>
+
+<item>
+<title>Os Ratos: Uma História de The Witcher</title>
+<link>magnet:?xt=urn:btih:dd99a462a3677ab9557aa2a92a3182ab58fe14f0&dn=HIDRATORRENTS.ORG..MKV.Os.Ratos.Uma.Hist%C3%B3ria.de.The.Witcher.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=c-mDyBxBeLI$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Os.Ratos:.Uma.História.de.The.Witcher"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/kC3RUDlTk0KcOFWEPWlgtDxcTTz.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/en0NbTEjf3qKokHvwGeaq9DBPIP.jpg</fanart>
+<info>Para dar um golpe ousado, uma gangue de seis criminosos vai ter que fazer algo inédito: apelar para a confiança e acreditar em um bruxo.</info>
+</item>
+
+<item>
+<title>Aileen: A História de uma Serial Killer</title>
+<link>magnet:?xt=urn:btih:4c6e1a9b997844098a7942cacf16be67357e9370&dn=HIDRATORRENTS.ORG..MKV.Aileen.A.Hist%c3%b3ria.de.uma.Serial.Killer.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=jY5je8XJWTo$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Aileen:.A.História.de.uma.Serial.Killer"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/kc5JdHI4J3hNwCjsMrrXvs3s4EG.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sKDt3ZV0CzmA93hkr3MJ5fKXkbB.jpg</fanart>
+<info>Aileen Wuornos é uma raridade: uma serial killer mulher. Dos abusos na infância às revelações no corredor da morte, este documentário mostra sua vida e seus crimes.</info>
+</item>
+
+<item>
+<title>Relay: Contrato Perigoso</title>
+<link>magnet:?xt=urn:btih:c0ab52c967d2ed1c71f5b10bfb2c7cf3888d6e05&dn=HIDRATORRENTS.ORG..MKV.Relay.2024.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=W1wJEcdb8Vc$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Relay:.Contrato.Perigoso"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/lsOCbWuUon9Anzd7HTqdIQmz8RG.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1ZnEOaOUj2e2Fq6Y7wo9KeH5rS6.jpg</fanart>
+<info>Um lucrativo corretor de suborno entre empresas corruptas e indivíduos que as ameaçam quebra suas próprias regras quando um novo cliente busca sua proteção para se manter vivo.</info>
+</item>
+
+<item>
+<title>Matilha Voraz</title>
+<link>magnet:?xt=urn:btih:f953c3e0729caf3c946bb1f96cce93804354ceab&dn=HIDRATORRENTS.ORG..MKV.Matilha.Voraz.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=RflcasT0WD8$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Matilha.Voraz"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/qvvJ4y8sGdOOXMkkD9ZVleh4eXk.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/48LdnfGahm8LuM2cg7LFWEmrTEd.jpg</fanart>
+<info>Perseguidos pelo pai, Cameron e sua mãe se mudam para uma fazenda isolada, onde Cameron vê e ouve coisas que não são possíveis. Ele começa a questionar tudo e precisa descobrir os segredos antes que eles o separem.</info>
+</item>
+
+<item>
+<title>Vale Maligno</title>
+<link>magnet:?xt=urn:btih:94759cb717cf8d4a9102d57a8a300f1ef2d2372d&dn=HIDRATORRENTS.ORG..MKV.Vale.Maligno.2023.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=XyJtymhLwT0$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Vale.Maligno"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/7DG5vDmpJml0IZsIroC4LrN7JIK.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5czIa6TUyMrtldHGXVZNEjnjbjC.jpg</fanart>
+<info>Claire era apenas uma criança quando seu melhor amigo foi assassinado. 25 anos depois, o pai do garoto morto quer descobrir a verdade sobre o que aconteceu. Com a ajuda de uma vidente, eles se aventuram em um local mal-assombrado, onde algo sombrio e maligno se agita com a presença deles.</info>
+</item>
+
+<item>
+<title>Hedda</title>
+<link>magnet:?xt=urn:btih:a95910a739d1ab84fe764187160e21627952445a&dn=HIDRATORRENTS.ORG..MKV.Hedda.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=m3lgD59KrTw$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Hedda"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/ecflk7AZf0ij205yDswjlvdxlCO.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cKZcDKawR79igCgDMSXlpkn8hLR.jpg</fanart>
+<info>De Nia DaCosta, uma releitura provocativa e moderna da peça clássica de Henrik Ibsen. Hedda (Tessa Thompson) se vê dividida entre a dor que ainda sente por conta de um amor passado e a opressão silenciosa de sua vida atual. No decorrer de uma noite intensa, desejos há muito reprimidos e tensões ocultas irrompem, arrastando Hedda e todos ao seu redor numa espiral de manipulação, paixão e traição.</info>
+</item>
+
+<item>
+<title>Roubo do Cão</title>
+<link>magnet:?xt=urn:btih:75629560155412a2e0497ec974ab5d20b0a38e49&dn=HIDRATORRENTS.ORG..MKV.O.Roubo.do.Cao.2025.1080p.WEB-DL.NACIONAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=XIMLoLxmTDw$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Roubo.do.Cão"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/z1TwJ6tdLFRyq9nSX9St4VJhKmI.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart></fanart>
+<info>Luciana e a chihuahua Rita Lee são melhores amigas. Após a cadelinha virar uma celebridade, Luciana precisará enfrentar bandidos atrapalhados contratados para roubá-la.</info>
+</item>
+
+
+<item>
 <title>Medo no Pacífico</title>
 <link>magnet:?xt=urn:btih:d84273852cc13bfbfd931124b6cf4137d8d56acd&dn=HIDRATORRENTS.ORG..MKV.Medo.no.Pacifico.2024.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=aiZFMrQVkAE$nome=[B]Trailer[/B]</link>
@@ -826,6 +907,7 @@
 <fanart>https://image.tmdb.org/t/p/original/zGT6zikFjC5wRROXbPIipKahZn8.jpg</fanart>
 <info>Uma viúva do século XIX é encarregada de fazer uma escolha impossível quando, durante um inverno especialmente cruel, um navio afunda na costa de sua empobrecida vila de pescadores islandesa. Qualquer tentativa de resgatar sobreviventes corre o risco de esgotar ainda mais os suprimentos dos moradores famintos.</info>
 </item>
+
 
 
 
