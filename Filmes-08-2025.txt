@@ -1,4 +1,199 @@
 <item>
+<title>Outsiders</title>
+<link>magnet:?xt=urn:btih:8331BE1EE06F05C3F87BA704995B62AE1752BC6F&dn=HIDRATORRENTS.ORG..Outsiders.2025.1080p.WEBRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=XIMLoLxmTDw$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Outsiders"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/bDT1odowj6S9J8pPH7ittT7JY9n.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/huTD19PMU6n2sHVKQ66jHzydu9x.jpg</fanart>
+<info>When a young black man’s girlfriend mysteriously disappears, he’s forced to go on the run, staying one step ahead of suspicious police to clear his name and to find out if otherworldly forces are to blame.</info>
+</item>
+
+<item>
+<title>Os Sneetches</title>
+<link>magnet:?xt=urn:btih:ac4098df0a7506ca8e5f16a398959ded07f536ed$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=EDV0sFoFmsQ$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Os.Sneetches"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/w9I5XZ0izVJ0CHqInfv5X9sl2o0.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9Apjnxx4BQ2opZr022r5Me5J8zi.jpg</fanart>
+<info>Duas jovens Sneetches fazem uma amizade inesperada em uma ilha encantada neste musical ambientado no mundo de Dr. Seuss. Eles percebem que suas diferenças devem ser celebradas, não ser uma fonte de conflito.</info>
+</item>
+
+<item>
+<title>Terra de Pistoleiros</title>
+<link>magnet:?xt=urn:btih:8fc9e4025a2f267e07dc488003788840dd3a4967&dn=HIDRATORRENTS.ORG..MKV.Terra.de.Pistoleiros.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=vy26CAynHrI$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Terra.de.Pistoleiros"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/7ZMPLrGRYEgyil6XpgiffNLRY7z.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zksO4lVnRKRoaSYzh2EDn2Z3Pel.jpg</fanart>
+<info>Um pistoleiro com um passado violento enfrenta o ataque brutal de uma multidão sedenta de sangue. O vencedor do Oscar Nicolas Cage, Stephen Dorff e Heather Graham estrelam.</info>
+</item>
+
+<item>
+<title>Quarteto Fantástico: Primeiros Passos</title>
+<link>magnet:?xt=urn:btih:bee9fc2135c9789a47a68c2dce8fb5f3ae3944e0&dn=HIDRATORRENTS.ORG...1080P.MKV.-DUBLADO-DUAL-AUDIO-..$nome=[B]OP 1 1080p[/B]</link>
+<link>magnet:?xt=urn:btih:ebc8952b505e3bb603583a2a75da421e42455ea3&dn=HIDRATORRENTS.ORG...1080P.MKV.-DUBLADO-DUAL-AUDIO-..$nome=[B]OP 2 1080p[/B]</link>
+<link>magnet:?xt=urn:btih:d9b1e25dd2e8fbbe7f7b426b794a2752f52fe2eb&dn=HIDRATORRENTS.ORG...2160P.MKV.-DUBLADO-DUAL-AUDIO-..$nome=[B]OP 3 4K[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=KGa3BUvBnDg$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Quarteto.Fantástico:.Primeiros.Passos"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/hlWOAWRKSno6UxaE0IXDFVvmzTf.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hBvaanw3RfMEs1m1blY7xwRXzul.jpg</fanart>
+<info>No vibrante cenário de um mundo retrofuturista inspirado nos anos 1960, a Primeira Família da Marvel é forçada a equilibrar seus papéis como heróis com a força de seus laços familiares, enquanto defendem a Terra de um deus espacial voraz chamado Galactus e sua enigmática arauta, a Surfista Prateada.</info>
+</item>
+
+<item>
+<title>Luccas e Gi em: Amor de Mãe</title>
+<link>magnet:?xt=urn:btih:9db5e6358566b960292cda4c58e80656369ffa44&dn=HIDRATORRENTS.ORG..MKV.Luccas.e.Gi.em.Amor.de.Mae.2025.1080p.WEB-DL.NACIONAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=pjl2_j5T3do$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Luccas.e.Gi.em:.Amor.de.Mãe"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/uBnDrMltvhdFv67LZ80VCG4yhfv.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ubIP7jOS84RkSvJSDVEuok8iIZR.jpg</fanart>
+<info>Luccas quer muito ajudar a mãe, mas precisa salvar a irmã Gi das garras de uma agência misteriosa. Juntos, os três vão redescobrir o poder do amor e da família.</info>
+</item>
+
+<item>
+<title>Batman Azteca: Choque de Impérios</title>
+<link>magnet:?xt=urn:btih:a323d9f92861c69a7e4b6663d22061eff4883c12&dn=HIDRATORRENTS.ORG..MKV.Batman.Azteca.Choque.de.Imp%C3%A9rios.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=-bd_AUSkrRA$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Batman.Azteca:.Choque.de.Impérios"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/6Dx4uZ3HVkaDLk3WNsOxOaMIYIr.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/9KSboWOt09J72aMY4x8SS1IaOHK.jpg</fanart>
+<info>Em uma ousada releitura da lenda do Batman ambientada no império asteca, um jovem asteca escapa para Tenochtitlán após seu pai ser assassinado por conquistadores espanhóis. Uma vez lá, ele treina no templo do deus morcego Tzinacan e desenvolve armas para vingar a morte do pai. Ao longo do caminho, ele encontra figuras conhecidas, como a Mulher-Onça e o conquistador Hernán Cortés.</info>
+</item>
+
+<item>
+<title>Frankenstein</title>
+<link>magnet:?xt=urn:btih:3ad48a39e69faa40a8c093c442108343eebc3958&dn=HIDRATORRENTS.ORG..MKV.Frankenstein.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=IZ4qobQAto8$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Frankenstein"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/cXsMxClCcAF1oMwoXZvbKwWoNeS.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg</fanart>
+<info>Dr. Victor Frankenstein, um cientista brilhante, mas egoísta, dá vida a uma criatura em um experimento monstruoso que acaba levando à ruína tanto do criador quanto de sua trágica criação.</info>
+</item>
+
+<item>
+<title>Manga</title>
+<link>magnet:?xt=urn:btih:b5ed1c8bb2c898187cbe55d314d54b82fe72190b&dn=HIDRATORRENTS.ORG..MKV.Manga.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]Op 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Ds1-68C8rEc$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Manga"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/2L0zlCe2drJG9ciqxhQpYbW17j7.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hNHSsrBAq6eYKH4Ydy4obYfB78H.jpg</fanart>
+<info>Uma série de vinhetas curtas onde aprendemos o quanto desprezo pela humanidade existe dentro do senso de humor de Yoji Kuri. Uma boa coleção com alguns destaques.</info>
+</item>
+
+<item>
+<title>Um Noivo e Duas Noivas</title>
+<link>magnet:?xt=urn:btih:a8cf69d94d243bff5227098bcbfedc04ba94a3f4&dn=HIDRATORRENTS.ORG...1080P.MKV.-DUBLADO-DUAL-AUDIO-..$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=gnCHSj8QikA$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Um.Noivo.e.Duas.Noivas"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/cQkHnNtdsJhpwLKchAGmnAqhLDi.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vWMt9uu77fJP5PU6MfYXANSH4Cs.jpg</fanart>
+<info>Adam detesta compromisso, mas acabou noivo da filha do chefe e também de outra mulher, seu primeiro amor. Como faz para manter uma vida dupla em segredo?</info>
+</item>
+
+<item>
+<title>Baramulla</title>
+<link>magnet:?xt=urn:btih:4ea537730995f981ea6f29c4f32c17e06f51bf29&dn=HIDRATORRENTS.ORG..MKV.Baramulla.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=02m_KG2xzpY$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Baramulla"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/bQ6ZZg73jxOUK8bERtDS250xAiN.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ajIRfvb5MkpH8spMJ5OCyg2enVS.jpg</fanart>
+<info>Ao investigar um caso de sequestro de crianças, um policial traz à tona segredos sombrios e incidentes sobrenaturais que ameaçam sua família e toda a cidade de Baramulla.</info>
+</item>
+
+<item>
+<title>Animais Perigosos</title>
+<link>magnet:?xt=urn:btih:4468e4c2d807551091147b564b01f1e54d8a847e&dn=HIDRATORRENTS.ORG..MKV.Animais.Perigosos.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=AGVKcc8ycXA$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Animais.Perigosos"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/vgMYt20P7ws2CfB5LaAo1PjD90i.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/eNSUknQqzTXWE5EeT8ZnVccEPR0.jpg</fanart>
+<info>Uma surfista esperta e de espírito livre (Hassie Harrison) é sequestrada por um serial killer obcecado por tubarões (Jai Courtney). Mantida em cativeiro em seu barco, ela precisa descobrir como escapar antes que ele realize um ritual para alimentar os tubarões lá embaixo.</info>
+</item>
+
+<item>
+<title>Um Dia Fora de Controle</title>
+<link>magnet:?xt=urn:btih:8b8401085787dbe47e469429476b10b4f412fc43&dn=HIDRATORRENTS.ORG..MKV.Fora.de.Controle.2023.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=T62xY83tAVw$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Um.Dia.Fora.de.Controle"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/auLOTlulof19GSPrNomyG7myfzN.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/diHlt857a8NhcuTQEHpHxoMlVvO.jpg</fanart>
+<info>Quando o contador desempregado Brian leva seu filho para brincar com o filho de Jeff, pai que fica em casa, ele espera um dia tranquilo. Em vez disso, eles acabam perseguidos por mercenários, e Brian — totalmente despreparado — precisa sobreviver a um obstáculo absurdo atrás do outro. A vida de pai de família vira um caos de filme de ação nesta aventura hilária.</info>
+</item>
+
+<item>
+<title>Soberano</title>
+<link>magnet:?xt=urn:btih:0fc7236c610e4c64883a118b2caff2f9b3d1c42b&dn=HIDRATORRENTS.ORG..MKV.Soberano.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=6ub_Bqcj3FA$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Soberano"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/fAqJZenV3MOusy1ldi9asHve8YK.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart></fanart>
+<info>Reminiscências resgatam a trajetória do Soberano, símbolo da intensa e espontânea produção cinematográfica da Boca do Lixo.</info>
+</item>
+
+<item>
+<title>A Agente Polonesa</title>
+<link>magnet:?xt=urn:btih:eee16963618501afd1aadcf8c439a6f0abce8b45&dn=HIDRATORRENTS.ORG..MKV.A.Agente.Polonesa.2025.1080p.WEB-DL.DUAL.2.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=YkuCMZQNeqk$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="A.Agente.Polonesa"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/kUSX6LLvEZWRZIdrz9guOG5hFvd.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uKYonNS8B67oYgjGIMKMCgYOnER.jpg</fanart>
+<info>Uma espiã polonesa que trabalhou para os britânicos durante a Segunda Guerra Mundial. Após uma traição, ela fica comprometida em Varsóvia e se vê em um mundo obscuro de traição.</info>
+</item>
+
+
+<item>
+<title>Prisioneiro de Guerra</title>
+<link>magnet:?xt=urn:btih:cb921c9cda6018ce36a5eb40bc528befe3668429&dn=HIDRATORRENTS.ORG..MKV.Prisioneiros.de.Guerra.2025.1080p.WEB-DL.DUAL.2.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Q7666Uxmr7U$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Prisioneiro.de.Guerra"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/zCsGDUdCBUXMNGANdyXSDFZPCMO.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yGByIyqgJerCw7AAphTrTAlrdkJ.jpg</fanart>
+<info>Um oficial britânico do SAS durante a Segunda Guerra Mundial é capturado e forçado a lutar em um campo de concentração japonês.</info>
+</item>
+
+<item>
+<title>Jogos de Caça</title>
+<link>magnet:?xt=urn:btih:9516b505373945416b87b1044b0247b680a8c9e1&dn=HIDRATORRENTS.ORG..MKV.Jogos.de.Ca%c3%a7a.2023.1080p.WEB-DL.DUAL.2.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=8PfwV0fl5BU$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Jogos.de.Caça"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/fvAjBKuAIOHAJezNR078Yc172P2.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/x2thJwMJ6oGlhn7UC4vSwHltEw0.jpg</fanart>
+<info>Quando um grupo de ex-militares é contratado para recuperar uma bolsa perdida com dinheiro roubado, sua missão se torna mais difícil depois que um caçador solitário encontra a bolsa primeiro.</info>
+</item>
+
+<item>
+<title>De Tyler Perry: Em Busca da Felicidade</title>
+<link>magnet:?xt=urn:btih:6952f85acdcea9518d32db809930cf65422ef9f2&dn=HIDRATORRENTS.ORG..MKV.De.Tyler.Perry.Em.Busca.da.Felicidade.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=b5FC8Lm61RE$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="De.Tyler.Perry:.Em.Busca.da.Felicidade"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/iMs19K15L0Z7tWrlQRCN51uRn99.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ss8aaeGyPRmOs9l9o9lL7FvcmbQ.jpg</fanart>
+<info>Shannon Thornton é Joy, uma talentosa, porém subestimada, estilista de moda. Sem sorte no amor e no trabalho, ela decide passar a véspera de Natal no Colorado com um cara de quem ela gosta. Mas, após receber uma notícia chocante e ficar presa em uma nevasca, Joy acaba cruzando o caminho de Ridge, um encontro capaz de transformar para sempre sua visão sobre a vida e o amor.</info>
+</item>
+
+<item>
+<title>A Amizade Mora ao Lado</title>
+<link>magnet:?xt=urn:btih:8c1d0f587e7a7a0e7d220473515849c6df8f34fa&dn=HIDRATORRENTS.ORG..MKV.A.Amizade.Mora.ao.Lado.2024.1080p.WEB-DL.DUAL.2.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=ZnUIiEhqb2E$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="A.Amizade.Mora.ao.Lado"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/zxxiT7WeMt4nI6ewCXzXePZixOs.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bPve3uVmhZusFvWDJwPWvDil6xP.jpg</fanart>
+<info>Gunnar é obrigado pelo governo islandês a vender sua fazenda e se mudar para a capital. Sozinho e com saudades de sua antiga casa, ele acaba fazendo amizade com um garoto de dez anos que também não possui amigos.</info>
+</item>
+
+<item>
+<title>De Tyler Perry: Em Busca da Felicidade</title>
+<link>magnet:?xt=urn:btih:a8476980bda39039c0ca3ac0b61d2150dd96ab0c&dn=HIDRATORRENTS.ORG...1080P.MKV.-DUBLADO-DUAL-AUDIO-..$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=b5FC8Lm61RE$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="De.Tyler.Perry:.Em.Busca.da.Felicidade"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/iMs19K15L0Z7tWrlQRCN51uRn99.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ss8aaeGyPRmOs9l9o9lL7FvcmbQ.jpg</fanart>
+<info>Shannon Thornton é Joy, uma talentosa, porém subestimada, estilista de moda. Sem sorte no amor e no trabalho, ela decide passar a véspera de Natal no Colorado com um cara de quem ela gosta. Mas, após receber uma notícia chocante e ficar presa em uma nevasca, Joy acaba cruzando o caminho de Ridge, um encontro capaz de transformar para sempre sua visão sobre a vida e o amor.</info>
+</item>
+
+
+
+<item>
 <title>A Mulher da Fila</title>
 <link>magnet:?xt=urn:btih:0484cf932485f051b52e8924828ab085909db744&dn=HIDRATORRENTS.ORG..MKV.A.Mulher.da.Fila.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=1e1ilUmAQT0$nome=[B]Trailer[/B]</link>
@@ -907,6 +1102,7 @@
 <fanart>https://image.tmdb.org/t/p/original/zGT6zikFjC5wRROXbPIipKahZn8.jpg</fanart>
 <info>Uma viúva do século XIX é encarregada de fazer uma escolha impossível quando, durante um inverno especialmente cruel, um navio afunda na costa de sua empobrecida vila de pescadores islandesa. Qualquer tentativa de resgatar sobreviventes corre o risco de esgotar ainda mais os suprimentos dos moradores famintos.</info>
 </item>
+
 
 
 
