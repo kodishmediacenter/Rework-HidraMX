@@ -1,4 +1,144 @@
 <item>
+<title>Perrengue Fashion</title>
+<link>magnet:?xt=urn:btih:d3c6b7e4b2889931ed0a80f2e09feea897b3aa60&dn=HIDRATORRENTS.ORG..MKV.Perrengue.Fashion.2025.1080p.WEB-DL.NACIONAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=F99YC7TNzqQ$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Perrengue.Fashion"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/qVQ58sWH6c36D6YAQ552tHB2x97.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mAaW3o5LFNuEpspsa3UgceFrzfy.jpg</fanart>
+<info>A trama acompanha a história de Paula Pratta, uma renomada influenciadora de moda, que é convidada para estrelar, junto de seu filho, a campanha de marketing de Dia das Mães em uma das maiores marcas de moda do mundo. Porém, seu filho já tinha outros planos, deixando tudo para trás para ajudar a salvar a floresta amazônica. Sem pensar duas vezes, embarca para a floresta para trazê-lo de volta. Ao tentar convencer o filho a desistir da ideia, Paula se deparará com um estilo de vida completamente diferente do seu e, quem sabe, começará a questionar seus valores e a relação com o filho.</info>
+</item>
+
+<item>
+<title>Antes da Lua Cheia</title>
+<link>magnet:?xt=urn:btih:1932334fb252a4449b4a78c76b811834702100d1&dn=HIDRATORRENTS.ORG..MKV.Antes.da.Lua.Cheia.2025.1080p.WEB-DL.DUAL.2.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=8xXMJ5X1VUo$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Antes.da.Lua.Cheia"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/hcjYvv4k9qs0lDG1Q3GIglT30IW.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7h0qCqkuQzmG5vXN3lGBc06reLd.jpg</fanart>
+<info>Uma jovem garçonete é sequestrada por um culto religioso, que está determinado a curá-la da maldição do lobisomem, um vírus sexualmente transmissível, ou matá-la no processo. Para sobreviver, ela precisa escapar antes da primeira lua cheia.</info>
+</item>
+
+<item>
+<title>O Promotor</title>
+<link>magnet:?xt=urn:btih:1e76887c8d58be08f95cdd1adf5040c25b1602cc&dn=HIDRATORRENTS.ORG..MKV.O.Promotor.2024.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP n 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=PMRuZVzfCsg$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="O.Promotor"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/frthFwTTZlUZqGTjm46na3nMcAn.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4frrYwamVG0eXhdMTy3cpNNcCBp.jpg</fanart>
+<info>Um jovem pobre é injustamente acusado de tráfico de drogas após ser enganado. Um ex-promotor investiga o caso e descobre o esquema de uma equipe de advogados corruptos.</info>
+</item>
+
+<item>
+<title>Fuga Fatal</title>
+<link>magnet:?xt=urn:btih:6d99decc0fc6a8d7804ff172ad58ae65904eb5bd&dn=HIDRATORRENTS.ORG..MKV.Fuga.Fatal.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=uiwCcj1XgpU$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Fuga.Fatal"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/7vCgQ0QXHGIkQNUCMHAq2vZovje.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ytCi1wg6YHpYcFRWCO2jpzN31Kf.jpg</fanart>
+<info>Após anos na prisão, Nate (Egerton) fez inimigos perigosos - incluindo a poderosa gangue para a qual trabalhava lá dentro. Tentando recomeçar, ele corta laços com o grupo ao sair, mas a gangue se vinga colocando a família dele na mira. Nate então foge com Polly, a filha tímida de dez anos que ele mal conhece, para mantê-la em segurança.</info>
+</item>
+
+<item>
+<title>Feliz Assalto!</title>
+<link>magnet:?xt=urn:btih:82b30fc255598ac8023f0055afa46e5b3bf95416&dn=HIDRATORRENTS.ORG..MKV.Feliz.Assalto.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=08rAb6UV-rY$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Feliz.Assalto!"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/d8DZAkIp3ibfZrDHDGKfkdMbiNn.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/y6PLMIoHOP365rNDflD9VgnoALU.jpg</fanart>
+<info>Dois trabalhadores sem grana se unem para assaltar uma loja de departamentos de Londres em plena véspera de Natal. Mais fácil roubar o coração um do outro no caminho.</info>
+</item>
+
+<item>
+<title>Blue Moon</title>
+<link>magnet:?xt=urn:btih:f426dc4cfe1cebc141fcff1901a46dc51fc83ae5&dn=HIDRATORRENTS.ORG..MKV.Blue.Moon.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=qo7gRHip0lI$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Blue.Moon"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/AetJmEIrhww0xnfktYgNl6ztDrl.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uJOkLO8zIjmkKKV0Cw0R4xiUmk9.jpg</fanart>
+<info>Na noite de 31 de março de 1943, o lendário letrista Lorenz Hart confronta sua autoconfiança abalada no bar Sardi's, enquanto seu antigo colaborador Richard Rodgers comemora a estreia de seu inovador musical de sucesso, "Oklahoma!".</info>
+</item>
+
+<item>
+<title>Caçadores da Fronteira</title>
+<link>magnet:?xt=urn:btih:f47ebfb0cc5d07a91cdecbadd83e0fe0b14e9e13&dn=HIDRATORRENTS.ORG..MKV.Ca%c3%a7adores.da.Fronteira.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=kilUMLR0OhA$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Caçadores.da.Fronteira"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/qaKdcFfWp8SlN4V2P4zEM6PSnvs.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tRdorrIjlybrGsebXOzgF7vRyYy.jpg</fanart>
+<info>Conta a história de um militar dos EUA que se dirige ao México em busca de vingança, depois que seu irmão policial é morto por um traficante de drogas com conexões com o cartel mexicano.</info>
+</item>
+
+<item>
+<title>A Meia-Irmã Feia</title>
+<link>magnet:?xt=urn:btih:8773b730721b1bd213f49b23c5d9ca9855789334&dn=HIDRATORRENTS.ORG..MKV.A.Meia-Irm%C3%A3.Feia.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=LCLMFJj5Rao$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="A.Meia-Irmã.Feia"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/9MBZe0Uk2TXLjgsgtG6HPGmeKLK.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ev9kxdoJ5IYVprt1OvH2SMWJdU1.jpg</fanart>
+<info>Em um reino de conto de fadas onde a beleza é um negócio brutal, Elvira luta para competir com sua meia-irmã incrivelmente linda, e ela fará de tudo para chamar a atenção do príncipe. Uma versão moderna e bem diferente do Conto da "Cinderela".</info>
+</item>
+
+<item>
+<title>Dois Mundos, Um Desejo</title>
+<link>magnet:?xt=urn:btih:367c9b6c6c3e07b79b60323c973d61105485c6ed&dn=HIDRATORRENTS.ORG..MKV.Dois.Mundos.Um.Desejo.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=PJMpcTmn6Bc$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Dois.Mundos,.Um.Desejo"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/5L791lEbRhl4HhuYHrWAUDqFEWk.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rnMn1zN3N6aGjC7E1zcwTWsgtVQ.jpg</fanart>
+<info>Vinte e um anos depois de um encontro mágico em um hospital infantil, Bilge e Can de repente começam a ouvir a voz um do outro telepaticamente. O que parece um milagre logo revela um segredo escondido, pois o destino, ao reuni-los depois de décadas, lhes reserva muito mais. Uma aventura emocionante e uma história de amor épica os aguardam.</info>
+</item>
+
+<item>
+<title>As Irmãs Macaluso</title>
+<link>magnet:?xt=urn:btih:5d9502bcfd466caba2477fd5d4834315f42cfdba&dn=HIDRATORRENTS.ORG..MKV.As.Irmas.Macaluso.2020.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=3uX83ef2O4Y$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="As.Irmãs.Macaluso"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/y9Rw0ke2EiSExK86CLXACrNGiNh.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lbmAcK9e3qec2wJXOZZG70kbjem.jpg</fanart>
+<info>Maria, Pinuccia, Lia, Katia e Antonella são cinco irmãs que vivem em um apartamento em Palermo. Quando Antonella morre acidentalmente, as relações das irmãs mudam para o resto de suas vidas.</info>
+</item>
+
+<item>
+<title>High Ground: Cerco Fechado</title>
+<link>magnet:?xt=urn:btih:9fcc296e8d937f5c43dc214dec33cad8109ceed5&dn=HIDRATORRENTS.ORG..MKV.High.Ground.Cerco.Fechado.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP n 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=DbltceVEFjY$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="High.Ground:.Cerco.Fechado"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/7aEZwHKgvwhZDKICnS9AJqDJUbb.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kyp7PSCKPZKGosthRbjfXPm8gJg.jpg</fanart>
+<info>Quando um misterioso prisioneiro chega à sua prisão, um xerife de uma cidade fronteiriça enfrenta a ira de um cartel brutal neste thriller repleto de ação.</info>
+</item>
+
+<item>
+<title>Amanhecer Sangrento</title>
+<link>magnet:?xt=urn:btih:eee9c035072c16cc88aebc23a3cd747b100914f3&dn=HIDRATORRENTS.ORG..MKV.Amanhecer.Sangrento.2025.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=a7pqL6E10F8$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Amanhecer.Sangrento"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/dD91yowrHP7kjbrzxbYzQVzQKCk.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dOi9s5qoWTEf3PgOPfbvgGsosMX.jpg</fanart>
+<info>Um recém-nomeado xerife e seu vice relutante enfrentam mentiras e corrupção ao investigar um assassinato.</info>
+</item>
+
+<item>
+<title>Tangos: O Exílio de Gardel</title>
+<link>magnet:?xt=urn:btih:de70f91b63b841600b434e0dcbebd42aa12dd2f6&dn=HIDRATORRENTS.ORG..MKV.Exilio.2025.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=PMCZdY9z6eQ$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Tangos:.O.Exílio.de.Gardel"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/zQRi8YujjyglVuBiMjDOGjB5xFs.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tOH2ZhhVSJsxl66vHZM53ElvUgO.jpg</fanart>
+<info>Paris, 1980. Um grupo de artistas argentinos se refugia no país, como forma de fazer frente aos duros tempos da ditadura militar argentina. Lá eles enfrentam todas as dificuldades típicas que assolam os latino-americanos para se estabelecerem nos chamados países do primeiro mundo. Na solidão do exílio, buscam conexão com sua identidade e cultura através de apresentações de tango e se empenham na montagem do espetáculo Tanguedia (tango + tragédia + comedia): “O Exílio de Gardel”.</info>
+</item>
+
+<item>
+<title>A Casa Mágica da Gabby: O Filme</title>
+<link>magnet:?xt=urn:btih:0fb7de9ac10242ec02cad0b3ea5760a0e822d5d8&dn=HIDRATORRENTS.ORG.-MAGNET-LINK.MKV.A.Casa.M%C3%A1gica.da.Gabby.O.Filme.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP n 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=usYZ2AqRveo$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="A.Casa.Mágica.da.Gabby:.O.Filme"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/uI06eThZ4ELei2VzTicHHQb21ld.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/MrcSSzWGsXf2IUJpjPPFLlNbjX.jpg</fanart>
+<info>Gabby parte em uma viagem de carro com sua avó Gigi para a metrópole encantada de Cat Francisco. Mas quando a casa de bonecas da Gabby, seu bem mais precioso, vai parar nas mãos de uma excêntrica senhora dos gatos chamada Vera, a garota embarca em uma aventura pelo mundo real para reunir os Gabby Cats.</info>
+</item>
+
+<item>
 <title>Outsiders</title>
 <link>magnet:?xt=urn:btih:8331BE1EE06F05C3F87BA704995B62AE1752BC6F&dn=HIDRATORRENTS.ORG..Outsiders.2025.1080p.WEBRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=XIMLoLxmTDw$nome=[B]Trailer[/B]</link>
@@ -1102,6 +1242,7 @@
 <fanart>https://image.tmdb.org/t/p/original/zGT6zikFjC5wRROXbPIipKahZn8.jpg</fanart>
 <info>Uma viúva do século XIX é encarregada de fazer uma escolha impossível quando, durante um inverno especialmente cruel, um navio afunda na costa de sua empobrecida vila de pescadores islandesa. Qualquer tentativa de resgatar sobreviventes corre o risco de esgotar ainda mais os suprimentos dos moradores famintos.</info>
 </item>
+
 
 
 
