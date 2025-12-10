@@ -62,6 +62,7 @@
 <link>https://cdn-s01.mywallpaper-4k-image.net/stream/animes/samurai-champloo-dublado/25.mp4/index.m3u8$nome=[B]EP 25[/B]</link>
 <link>https://cdn-s01.mywallpaper-4k-image.net/stream/animes/samurai-champloo-dublado/26.mp4/index.m3u8$nome=[B]EP 26[/B]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=xWKzbhAUeZE$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q=">Samurai.Champloo"$nome=[B]Busca Rajada[/B]</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_face/t6x0fNlD89oOKDJDfgjYDNGLp5R.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/aZRGh7ccNAdqQWhHypvlT9UuXjZ.jpg</fanart>
 <info>Fuu, uma jovem de 15 anos, quer encontrar "o samurai com cheiro de girassóis" e tudo o que sabe a respeito dele, além disso, é que ele habita a outra extremidade do Japão e, no seu caminho, cruza com Mugen, um vagabundo de 20 anos, e Jin, um rônin de 20 anos, que deverão segui-la devido à uma aposta estupidamente perdida.</info>
@@ -83,7 +84,43 @@
 <link>https://lightspeedst.net/s3/mp4/ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai/sd/11.mp4$nome=[B]EP 11[/B]</link>
 <link>https://lightspeedst.net/s3/mp4/ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai-movie/sd/1.mp4$nome=[B]Filme[/B]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=x8fvwC5xVGg$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="AnoHana"$nome=[B]Busca Rajada[/B]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_face/2tgOAvOttp7rak3r2U5vIAaeyDt.jpg|User-Agent=Mozilla/5.0</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/piynV4N6Vq4m0tWFdAhlTvb6ZnG.jpg</fanart>
 <info>Após um trágico acidente, Jinta Yadomi e seu grupo de amigos de infância se afastaram, e cada um seguiu seu caminho. Agora no colegial, uma surpresa repentina os força a confrontar a culpa e o remorso que sentem pelo que aconteceu naquele dia, e a ficar em paz com esse fantasma do passado.</info>
+</item>
+
+<item>
+<title>Frieren e a Jornada para o Além</title> 
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4$nome=[B]EP 1[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/2.mp4$nome=[B]EP 2[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/3.mp4$nome=[B]EP 3[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/4.mp4$nome=[B]EP 4[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/5.mp4$nome=[B]EP 5[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/6.mp4$nome=[B]EP 6[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/7.mp4$nome=[B]EP 7[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/8.mp4$nome=[B]EP 8[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/9.mp4$nome=[B]EP 9[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/10.mp4$nome=[B]EP 10[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/11.mp4$nome=[B]EP 11[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/12.mp4$nome=[B]EP 12[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/13.mp4$nome=[B]EP 13[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/14.mp4$nome=[B]EP 14[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/15.mp4$nome=[B]EP 15[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/16.mp4$nome=[B]EP 16[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/17.mp4$nome=[B]EP 17[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/18.mp4$nome=[B]EP 18[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/19.mp4$nome=[B]EP 19[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/20.mp4$nome=[B]EP 20[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/21.mp4$nome=[B]EP 21[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/22.mp4$nome=[B]EP 22[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/23.mp4$nome=[B]EP 23[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/24.mp4$nome=[B]EP 24[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/25.mp4$nome=[B]EP 25[/B]</link>
+<link>https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/26.mp4$nome=[B]EP 26[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=eXjbk-4ljgc$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Frieren.e.a.Jornada.para.o.Além"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_face/qykTIEJQF8cunKD0CKOqab15wns.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/96RT2A47UdzWlUfvIERFyBsLhL2.jpg</fanart>
+<info>Após uma missão de 10 anos ao lado do herói Himmel e seu grupo, a poderosa maga Frieren derrotou o Rei Demônio e trouxe paz ao reino. Como uma elfa, Frieren tem uma vida de mais de mil anos pela frente. Ela promete retornar para seus amigos e, assim, parte em uma jornada solitária. 50 anos se passam quando Frieren finalmente volta para visitar Himmel e os outros. Embora ela não tenha envelhecido nada, seus amigos têm pouco tempo de vida restante. É então que Frieren testemunha a morte de Himmel, o que a leva a lamentar não ter passado mais tempo junto dele. Com esse arrependimento em seu coração, ela embarca em uma nova jornada com o objetivo de se conectar e conhecer melhor as pessoas. Ao longo dessa viagem, a elfa Frieren encontrará diversas pessoas e viverá incontáveis aventuras emocionantes!</info>
 </item>
