@@ -41,7 +41,7 @@
 
 <channel>
 <name>Kaiju Filmes</name>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/heads/main/icones/kodish-tux.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/refs/heads/main/kaiju-filmes</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
 <info></info>
