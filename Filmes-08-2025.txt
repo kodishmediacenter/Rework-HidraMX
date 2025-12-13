@@ -1,4 +1,208 @@
 <item>
+<title>Mauricio de Sousa: O Filme</title>
+<link>magnet:?xt=urn:btih:d2a295fce9d8ba1bbf455afc79cfc4ee22d16591&dn=HIDRATORRENTS.ORG.-MAGNET-LINK.MKV.Mauricio.De.Sousa.O.Filme.2025.1080p.WEB-DL.NACIONAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=vy_xAhYI8Wg$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Mauricio.de.Sousa:.O.Filme"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/rogQWN4xiiGs1xaba6m8D0Vj6w1.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/33qGY01IGXGRFtm7dygK4lW9vpD.jpg</fanart>
+<info>Veja a vida do criador da Turma da Mônica desde sua infância, da descoberta e paixão pelos quadrinhos à invenção de uma carreira considerada impossível na época, e suas aventuras para se sustentar e crescer profissionalmente.</info>
+</item>
+
+<item>
+<title>Vivo ou Morto: Um Mistério Knives Out</title>
+<link>magnet:?xt=urn:btih:4bb7ca25a90cb0d6fc17f424aabee663a48e6cb3&dn=HIDRATORRENTS.ORG..MKV.Vivo.ou.Morto.Um.Misterio.Knives.Out.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=NcDlXx2k0i8$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Vivo.ou.Morto:.Um.Mistério.Knives.Out"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/fkMrqJxCgTgJWXnf5SaMT6hZ85E.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aANEJh0COcHKG6pBw9qnO4wZRRC.jpg</fanart>
+<info>O detetive Benoit Blanc conta com a ajuda de um jovem padre para investigar um crime perfeitamente impossível na igreja de uma cidadezinha que tem uma história sombria.</info>
+</item>
+
+<item>
+<title>Pai do Ano</title>
+<link>magnet:?xt=urn:btih:77c9ea9388f580e0e455aa1bf6e35018f13b652a&dn=HIDRATORRENTS.ORG..MKV.Pai.do.Ano.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=xSBdorJ3fds$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Pai.do.Ano"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/3ozZ7B5AJp8l7OA5hWH8BMQU5QB.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1jXebnKdnb580YOzGuyhuujSGbc.jpg</fanart>
+<info>A vida de Andy Goodrich muda quando sua esposa entra em um programa de reabilitação, deixando-o sozinho com seus filhos pequenos. Andy se apoia em Grace, sua filha do primeiro casamento, e acaba se transformando no pai que ela nunca teve.</info>
+</item>
+
+<item>
+<title>Xamã: O Exorcista Pagão</title>
+<link>magnet:?xt=urn:btih:5ee585021ec148b2e26e5c58b4d6255c1e9e6790&dn=HIDRATORRENTS.ORG..MKV.Xama.O.Exorcista.Pagao.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=FIDb9mxNIRU$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Xamã:.O.Exorcista.Pagão"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/lfL58qsUrmTRwrqjr0iezK0jUfq.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kWm4HxanOhRWfW9PzigkUXulwdG.jpg</fanart>
+<info>A fé de uma pregadora é posta à prova quando seu filho é possuído por um ente demoníaco durante uma missão no Equador.</info>
+</item>
+
+<item>
+<title>Matadouro 2: Death Metal</title>
+<link>magnet:?xt=urn:btih:a8b1d6c1732d4d257662b633d2ae8c3f0ab6d321&dn=HIDRATORRENTS.ORG..MKV.Matadouro.2.Death.Metal.2024.1080p.WEB-DL.DUAL.2.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=PqB_-qHoJR8$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Matadouro.2:.Death.Metal"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/tb5kXHsFzgaFRxIAZmlpUq1UTir.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vJ1z82bLSfg71sQcJ370N4TpWqf.jpg</fanart>
+<info>Ao contrário de Buddy Bacon no 'Matadouro' original, seu irmão Cleavon deixou a fazenda de porcos manchada de sangue para uma vida melhor. Mas, assim como seu pai, Cleavon tem um filho mudo que é apaixonado por Wonder Jerky, criado em casa e grelhado na brasa. Qualquer um que entrar no rancho de Bacon, de carros americanos abandonados, logo se tornará parte da história de sucesso do Wonder Jerky.</info>
+</item>
+
+<item>
+<title>Diga-me Baixinho</title>
+<link>plugin://plugin.video.youtube/play/?video_id=sI1sT_xGE8Y$nome=[B]Trailer[/B]</link>
+<link>magnet:?xt=urn:btih:0cd6681c5431b3e72166e6c955183cec3a16cbb3&dn=HIDRATORRENTS.ORG..MKV.Diga.me.Baixinho.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Diga-me.Baixinho"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/jafRpwC4P67XFNb0V7Ym4Usp20T.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rtv6da2U8poERiAZSAbCOePXzql.jpg</fanart>
+<info>Kamila tem tudo sob controle: estudos, vida social, sua imagem... Tudo exceto o retorno inesperado de seus vizinhos, os irmãos Di Bianco, depois de sete anos de ausência. Thiago foi seu primeiro beijo, e Taylor era seu melhor amigo, mas agora a volta deles vai bagunçar a vida dela. Será que os três vão conseguir superar o passado que os prende? Ou tudo vai desabar mais uma vez?</info>
+</item>
+
+<item>
+<title>A Sogra Perfeita 2</title>
+<link>magnet:?xt=urn:btih:ba8b54bb7c07a59bf6a889295cee322bd36700e4&dn=HIDRATORRENTS.ORG..MKV.A.Sogra.Perfeita.2.2025.1080p.WEB-DL.NACIONAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=_pqHVXoUcyY$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="A.Sogra.Perfeita.2"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/x434Dw7Aj8JkrTBo9uapCLDtA42.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oBknrzcXuxGk9PmePeqbP1trZrs.jpg</fanart>
+<info>Depois de conquistar a casa para si com grande esforço, Neide está determinada a manter sua independência. Por isso, quando seu namorado português a pede em casamento, o medo de comprometer a liberdade faz com que Neide responda um sonoro "não". O que ela não esperava era que Dona Oliveira, sua sogra portuguesa, chegasse de mala e cuia para a cerimônia.</info>
+</item>
+
+<item>
+<title>O Sobrevivente</title>
+<link>magnet:?xt=urn:btih:16c7071410606e3362ecacdf42afd73d3e94cf75&dn=HIDRATORRENTS.ORG..MKV.O.Sobrevivente.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=BNubMqvYfRA$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="O.Sobrevivente"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/8nBuPCAXLFSuUBjO1WvJ2blEVmK.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg</fanart>
+<info>Em um futuro próximo, "O Sobrevivente" é o show de maior audiência na televisão – uma competição mortal onde os participantes precisam sobreviver 30 dias enquanto são caçados por assassinos profissionais. Cada passo é transmitido a um público sedento por sangue e cada dia sobrevivido aumenta o prêmio em dinheiro para o vencedor.</info>
+</item>
+
+<item>
+<title>Sequestro Fake</title>
+<link>magnet:?xt=urn:btih:405a24e99938418e31c4ed5e67e3503e66173255&dn=HIDRATORRENTS.ORG..MKV.Sequestro.Fake.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=jZ0nE0rPgMA$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Sequestro.Fake"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/h3wKqZT6OWltbT9pufSlbWKSZHg.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/Ae00E0rpUIihDrJ1C0HvhufYa5d.jpg</fanart>
+<info>Falido, Sattam se envolve em uma tramoia muito louca quando decide pagar suas dívidas de um jeito inusitado: sequestrando o próprio pai.</info>
+</item>
+
+<item>
+<title>Guerra 2</title>
+<link>magnet:?xt=urn:btih:f80c0bc59f0b2409a693e3a6a93d3e83010a7d43&dn=HIDRATORRENTS.ORG..MKV.Guerra.2.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=d1wsPSV_lQs$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Guerra.2"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/fv4tSQb0ukuNcGHcxBsMSmxiXpV.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pKIRUTnwY3YYU9urSdsuobdcliP.jpg</fanart>
+<info>Um agente indiano renegado que virou vilão confronta o agente Vikram, o melhor agente da Índia, em uma perseguição mundial com decisões cruciais.</info>
+</item>
+
+<item>
+<title>Deslumbrado</title>
+<link>magnet:?xt=urn:btih:8a0c7b0bc6bdf26ab86247a8bbb7f01d3316b633&dn=HIDRATORRENTS.ORG..MKV.Deslumbrado.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=x4x7-3Alm_A$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Deslumbrado"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/its1Oa9uZvVgEsxgWPnJjxy8519.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kMGZK18hxu8y2HeNRvF94pkdefq.jpg</fanart>
+<info>Bem quando consegue um papel importante, um famoso ator perde misteriosamente a capacidade de atuar. É o início de uma jornada de autoconhecimento.</info>
+</item>
+
+<item>
+<title>Ne Zha 2: O Renascer da Alma</title>
+<link>magnet:?xt=urn:btih:e538b9af13419a92a5d9db7f1d7537a1ebad6320&dn=HIDRATORRENTS.ORG..MKV.Ne.Zha.2.O.Renascer.da.Alma.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=g69iTMYjVUM$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Ne.Zha.2:.O.Renascer.da.Alma"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/wJnb4ikygiVuYLuvj4b4Jpvudn1.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8btfz81bOJ2lC7cujYBTw03wzg3.jpg</fanart>
+<info>Após uma grande catástrofe, as almas de Ne Zha e Ao Bing são salvas, mas seus corpos enfrentam a ruína. Para lhes dar uma nova vida, Taiyi Zhenren recorre à mística lótus de sete cores em uma ousada tentativa de reconstruí-los e mudar seus destinos.</info>
+</item>
+
+<item>
+<title>Merv</title>
+<link>magnet:?xt=urn:btih:5b94d208cb249a0352ae83336e3b4b207b2d5f18&dn=HIDRATORRENTS.ORG..MKV.Merv.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=g4tdvXr6kQM$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Merv"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/nfGlYjINEcGtxV46viW4olwHHSz.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5OA1FwA11SztGEEqqBihStLmMH2.jpg</fanart>
+<info>Quando seu amado cachorro Merv perde o ânimo depois da separação deles, Anna e Russ são forçados ao acordo coparental mais estranho do mundo. Na esperança de reanimar Merv, Russ o leva para a Flórida para uma viagem, quando Anna aparece de repente. Merv recupera lentamente o ânimo, e parece que reparar o coração partido do cachorro deles pode resultar em acender fagulhas próprias.</info>
+</item>
+
+<item>
+<title>Feras no Jardim</title>
+<link>magnet:?xt=urn:btih:af76efc361a1427fe106cc51115de8341e8f5337&dn=HIDRATORRENTS.ORG..MKV.Feras.no.Jardim.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=-YN5wOKy6tE$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Feras.no.Jardim"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/vgcx6hyj4k4qTcU2tOt8N7sOSSV.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/LbLP1yi4WHI3HZO7iQW43B5FZU.jpg</fanart>
+<info>Aos oito anos, Bobo vive na fazenda de sua família no Zimbábue (antiga Rodésia) ao final da Guerra da Independência em 1980. Dividida pelo amor pelas pessoas de lados opostos, ela tenta entender sua vida de um jeito mágico. Através de seu olhar, testemunhamos os últimos dias da Rodésia, o vínculo inquebrável da família com a África e as cicatrizes profundas que a guerra deixa nos sobreviventes.</info>
+</item>
+
+<item>
+<title>Bom Menino</title>
+<link>magnet:?xt=urn:btih:db1b5b44c49a5e710692ece82008e9d660efa9ca&dn=HIDRATORRENTS.ORG..MKV.Bom.Menino.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Q2kknfpXzPE$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Bom.Menino"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/6qQBPlWj5PEFPsVObUIy9SMZ9P.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mPtPJzBkwksUoMEKpkZqxBrlKpZ.jpg</fanart>
+<info>Um cão fiel se muda com Todd, seu tutor, para uma casa de campo. Lá, ele descobre forças sobrenaturais escondidas nas sombras. Quando as entidades sombrias ameaçam seu dono, o corajoso cão deve lutar para protegê-lo.</info>
+</item>
+
+
+<item>
+<title>Missão Pet</title>
+<link>magnet:?xt=urn:btih:aaa3cfcdda2bd395cdb0fa9d88b308dc7b87f035&dn=HIDRATORRENTS.ORG..MKV.Missao.Pet.2025.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Eg_II7D_SYA$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Missão.Pet"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/lfHzGlhnfFWSsvjaZGmZI0d7Czn.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3Gjo73aMqNWxNdBa7PeEj7AXJ3E.jpg</fanart>
+<info>Quando um trem parte inesperadamente, levando consigo apenas animais de estimação, os animais descobrem que Hans, um texugo rancoroso, está por trás de tudo. Embora o acidente pareça inevitável, os animais podem contar com Falcon, um guaxinim travesso que fará de tudo para salvá-los.</info>
+</item>
+
+<item>
+<title>Os Pecados do Padre</title>
+<link>magnet:?xt=urn:btih:5258a37eecf5a909b69477facc392857506c4e43&dn=HIDRATORRENTS.ORG..MKV.Os.Pecados.do.Padre.2024.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Tp-pImGQrQk$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Os.Pecados.do.Padre"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/ztYf1MA90Cn7kEFGAIblfykdaMl.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/4irutKm11zVNs4N6dKraYvLKG1A.jpg</fanart>
+<info>Após a recuperação inexplicável de sua esposa doente, o padre Theodor torna-se uma sensação religiosa. Mas quando um cético começa a investigar seus supostos milagres, segredos sombrios vêm à tona.</info>
+</item>
+
+
+<item>
+<title>Enigma Sombrio</title>
+<link>magnet:?xt=urn:btih:81920d4eda7e59e268e079278fb26776ee6bbc4c&dn=HIDRATORRENTS.ORG..MKV.Enigma.Sombrio.2024.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=4T7bBy4DwzU$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Enigma.Sombrio"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/tO4PLOx2Ey9PZunmwEAsGhc4Ah0.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/m9k4N5KKGzSyJRyzvYfF0FUmyv8.jpg</fanart>
+<info>Uma mulher procura por um caçador de monstros desaparecido e descobre ter uma ligação profunda com a criatura que está sendo caçada.</info>
+</item>
+
+<item>
+<title>Chainsaw Man – O Filme: Arco da Reze</title>
+<link>magnet:?xt=urn:btih:dc61ee6830fe2fb1c32918ac8a7cb7b79f8d8425&dn=HIDRATORRENTS.ORG.-MAGNET-LINK.MKV.Chainsaw.Man.O.Filme.Arco.da.Reze.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=N2jnVpXKOq0$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Chainsaw.Man.–.O.Filme:.Arco.da.Reze"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/tj1XhCQ2Rw2sT2o7lIdqPIYvjsx.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kfXgo2rMF1A19celCwLyQ4Xwpf8.jpg</fanart>
+<info>Denji trabalhava como Caçador de Demônios para a yakuza, tentando pagar a dívida que herdou de seus pais, até que um dia, ele é traído e morre. Em seus últimos momentos de consciência, ele forma um pacto com Pochita e essa fusão cria o Homem-Motosserra. Agora, em uma guerra brutal contra demônios, caçadores e inimigos secretos, uma garota misteriosa chamada Reze entrou em seu universo e Denji precisa enfrentar sua batalha mais perigosa até hoje, movido pelo amor em um mundo onde a sobrevivência não conhece regras.</info>
+</item>
+
+<item>
+<title>Jurassic Predator</title>
+<link>magnet:?xt=urn:btih:79664afc2cf9290c69200fefe429471e06d014e0&dn=HIDRATORRENTS.ORG..MKV.Predators.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=-fx52wd1QYI$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Jurassic.Predator"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/kQkx3WUH0ahWKYUJjkGpEOoK6Ep.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hLKcpdVYvuvnlJ17Khiwrw2yTYe.jpg</fanart>
+<info>Em um centro de pesquisa ultra-secreto americano, cientistas conseguiram recriar um dinossauro usando mostras de DNA pré-histórico. Contrariando as expectativas dos pesquisadores, o T-Rex começa a crescer em ritmo acelerado e consegue escapar do centro científico. A invenção que traria glória para os cientistas se torna um perigo imensurável para a sociedade ao redor, levando o governo a contratar um esquadrão de oficiais para caçar a criatura nas florestas. Mas, nessa aventura, é matar ou morrer.</info>
+</item>
+
+
+
+<item>
 <title>Quem Vai Salvar o Natal? 2</title>
 <link>magnet:?xt=urn:btih:a7adab7f81424ad06da85aeae440cf7439121f0a&dn=HIDRATORRENTS.ORG..MKV.Quem.Vai.Salvar.o.Natal%202.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=u5R4BaBL5lc$nome=[B]Trailer[/B]</link>
@@ -1474,6 +1678,7 @@
 <fanart>https://image.tmdb.org/t/p/original/zGT6zikFjC5wRROXbPIipKahZn8.jpg</fanart>
 <info>Uma viúva do século XIX é encarregada de fazer uma escolha impossível quando, durante um inverno especialmente cruel, um navio afunda na costa de sua empobrecida vila de pescadores islandesa. Qualquer tentativa de resgatar sobreviventes corre o risco de esgotar ainda mais os suprimentos dos moradores famintos.</info>
 </item>
+
 
 
 
