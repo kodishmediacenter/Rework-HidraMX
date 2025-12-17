@@ -1,4 +1,55 @@
 <item>
+<title>Eddington</title>
+<link>magnet:?xt=urn:btih:512f282b666287502ba0b89a15b0dc539f86d1ad&dn=HIDRATORRENTS.ORG..MKV.Eddington.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=KpCAYhhFq-I$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Eddington"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/8wO4CmjKp2JQeq8nA52K1VcMl1z.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/5PJkK2iVXRO1ydrtgwuJdevmnOe.jpg</fanart>
+<info>Em maio de 2020, um impasse entre o xerife e o prefeito de uma pequena cidade gera um conflito entre vizinhos em Eddington, Novo México.</info>
+</item>
+
+<item>
+<title>Sisu: Estrada da Vingança</title>
+<link>magnet:?xt=urn:btih:5fe32b90fdba5ccf28d2152c14bbe7600c624f9a&dn=HIDRATORRENTS.ORG..MKV.Sisu.Estrada.para.a.Vingan%C3%A7a.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Vo1OSxOJ-iM$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Sisu:.Estrada.da.Vingança"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/o8DhyfswTLGiIkAXPSGgMj586rG.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yCatt8lmp3oRFEcOZF8KHhsiASQ.jpg</fanart>
+<info>Ao retornar à casa onde sua família foi brutalmente assassinada durante a guerra, "o homem que se recusa a morrer" a desmonta, carrega seus destroços em um caminhão e está determinado a reconstruí-la em algum lugar seguro em sua homenagem. Quando o comandante do Exército Vermelho que matou sua família retorna, decidido a terminar o serviço, inicia-se uma perseguição implacável e alucinante por todo o país — uma luta até a morte.</info>
+</item>
+
+<item>
+<title>Crônicas de Exorcismo: O Início</title>
+<link>magnet:?xt=urn:btih:cc5c27c9dc140a7d55d454146160afc90bbcdecc&dn=HIDRATORRENTS.ORG..MKV.Cr%c3%b4nicas.de.Exorcismo.O.In%c3%adcio.2025.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=zOJ4OZuvGTA$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Crônicas.de.Exorcismo:.O.Início"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/vJyme99bj0AP599hnDdesTnPAGL.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lDPiNMKFZUg2d1vfBpduYmzTMfs.jpg</fanart>
+<info>O Padre Park, um médico que se tornou sacerdote, foi excomungado por realizar exorcismos em uma igreja que se recusava a acreditar em seres sobrenaturais atacando inocentes. Quando seu velho amigo, um monge de um templo secreto e mágico, o chama para proteger uma criança ingênua, mas poderosa, de seu mestre corrupto, o Padre Park deve enfrentar seus demônios internos para resgatar o menino ou arriscar repetir a mesma tragédia que ele pegou a cruz para evitar.</info>
+</item>
+
+<item>
+<title>Luiz Gonzaga: Légua Tirana</title>
+<link>magnet:?xt=urn:btih:e11ce9f6d7fa61384a0896a64f4ee44a69368a8b&dn=HIDRATORRENTS.ORG..MKV.Luiz.Gonzaga.Legua.Tirana.2025.1080p.WEB-DL.NACIONAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=l3LX08YNodo$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Luiz.Gonzaga:.Légua.Tirana"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/o92hSn5kSJiyTCdJXuoVOIS2Ai0.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6p2ED7OhmbRxYlNqzp1mokeIXm5.jpg</fanart>
+<info>Retrata a vida e obra do icônico Luiz Gonzaga do Nascimento. Focando em sua infância e adolescência, o filme busca explorar as profundas conexões entre o artista em formação e os mitos que moldaram a cultura nordestina.</info>
+</item>
+
+<item>
+<title>Entre Chegadas e Despedidas</title>
+<link>magnet:?xt=urn:btih:14ad002fa5bc7f86319655edbf05883b37c212c2&dn=HIDRATORRENTS.ORG..1080P.MKV.Entre.Chegadas.e.Despedidas.2025.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=oD569HEsQL8$nome=[B]Trailer[/B]</link>
+<link>plugin://plugin.video.elementum/search?q="Entre.Chegadas.e.Despedidas"$nome=[B]Busca Rajada[/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/nUHX8dLriLUlafp8rZlMPBkFj4a.jpg|User-Agent=Mozilla/5.0</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/j6s2SZTsRx4WnTGQErt65ygkT2V.jpg</fanart>
+<info>Stephen Seary, um carismático e bem-sucedido cenógrafo, retorna à sua cidade natal na Austrália para se despedir da mãe doente. O que seria uma breve visita se transforma em caos, drama e momentos hilários enquanto ele lida com responsabilidades familiares, uma relação difícil com o pai, velhos amigos e amores, tentando retornar à Europa para um grande contrato de ópera.</info>
+</item>
+
+
+<item>
 <title>Mauricio de Sousa: O Filme</title>
 <link>magnet:?xt=urn:btih:d2a295fce9d8ba1bbf455afc79cfc4ee22d16591&dn=HIDRATORRENTS.ORG.-MAGNET-LINK.MKV.Mauricio.De.Sousa.O.Filme.2025.1080p.WEB-DL.NACIONAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=[B]OP 1 1080p[/B]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=vy_xAhYI8Wg$nome=[B]Trailer[/B]</link>
@@ -1678,6 +1729,7 @@
 <fanart>https://image.tmdb.org/t/p/original/zGT6zikFjC5wRROXbPIipKahZn8.jpg</fanart>
 <info>Uma viúva do século XIX é encarregada de fazer uma escolha impossível quando, durante um inverno especialmente cruel, um navio afunda na costa de sua empobrecida vila de pescadores islandesa. Qualquer tentativa de resgatar sobreviventes corre o risco de esgotar ainda mais os suprimentos dos moradores famintos.</info>
 </item>
+
 
 
 
