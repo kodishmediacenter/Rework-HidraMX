@@ -1,5 +1,14 @@
 <channel>
-<name>Novidades de Filmes</name>
+<name>Lançamentos - Filmes</name>
+<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/refs/heads/main/Filmes-01-2026</externallink>
+<fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channel>
+<name>Novidades de Filmes 1</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/Filmes-08-2025.txt</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
@@ -8,7 +17,7 @@
 </channels>
 
 <channel>
-<name>Novidades de Filmes 1</name>
+<name>Novidades de Filmes 2</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/Filmes-04-2025</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
@@ -18,7 +27,7 @@
 
 
 <channel>
-<name>Novidades de Filmes 2</name>
+<name>Novidades de Filmes 3</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/Filmes-2025-01</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
@@ -27,7 +36,7 @@
 </channels>
 
 <channel>
-<name>Novidades de Filmes 3</name>
+<name>Novidades de Filmes 4</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/Filmes-2024-09</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
@@ -36,7 +45,7 @@
 </channels>
 
 <channel>
-<name>Novidades de Filmes 4 </name>
+<name>Novidades de Filmes 5 </name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/Filmes-2024-05</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
@@ -45,7 +54,7 @@
 </channels>
 
 <channel>
-<name>Novidades de Filmes 5</name>
+<name>Novidades de Filmes 6</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/Filmes-2024-01</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
@@ -56,7 +65,7 @@
 
 <channels>
 <channel>
-<name>Novidades de Filmes 6 </name>
+<name>Novidades de Filmes 7 </name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/Filmes-Novidades02</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
@@ -66,7 +75,7 @@
 
 <channels>
 <channel>
-<name>Novidades de Filmes 7</name>
+<name>Novidades de Filmes 8</name>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/novidades-01filmes</externallink>
 <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/filmea.jpg</fanart>
