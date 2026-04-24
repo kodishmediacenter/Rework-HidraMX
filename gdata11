@@ -7,15 +7,6 @@
  </channel>
  </channels>
 
-<channel>
- <name>[COLOR white][B]Lista TV Aberta[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/catalogo2.xml</externallink>
- <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
- <info>Listas iptv</info>
- </channel>
- </channels>
-
 <channels>
  <channel>
  <name>[COLOR white][B]500 Mais da Kiss FM 31/12 12:00[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
@@ -25,7 +16,6 @@
  <info>Listas iptv</info>
  </channel>
  </channels>
-
 
 <channels>
  <channel>
@@ -48,27 +38,11 @@
  </channel>
  </channels>
 
- 
- 
- 
-
 <channels></channels>
 <channel>
 <name>[COLOR white][B]Filmes[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/Filmes/categoria-filmes2.txt</externallink>
 <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/filme.jpg</thumbnail>
-<fanart></fanart>
-<info></info>
-</channel>
-</channels>
-
-
-
-<channels></channels>
-<channel>
-<name>[COLOR white][B]Series[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/series-cat.txt</externallink>
-<thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/series.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 </channel>
