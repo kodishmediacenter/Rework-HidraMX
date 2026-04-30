@@ -19,7 +19,7 @@
 
 <channels>
  <channel>
- <name>[COLOR white][B]Lista TV Aberta[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]Lista Web TV Aberta[/B][/COLOR][COLOR cyan][B] ||| Hidra [/B][/COLOR][COLOR pink][B]Tuxedo |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/iptv</externallink>
  <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
