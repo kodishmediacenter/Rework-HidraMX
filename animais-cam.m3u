@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://zoo.sandiegozoo.org/sites/default/files/styles/landing_page_view_thumbnail/public/teaser_image/thumb-pandacam.jpg?h=0894a192&itok=vbJ_Qtbh", Panda Gigante 
+https://zssd-panda2024.hls.camzonecdn.com/CamzoneStreams/zssd-panda2024/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://zoo.sandiegozoo.org/sites/default/files/styles/landing_page_view_thumbnail/public/teaser_image/thumb-koalacam.jpg?h=0894a192&itok=MTMJwaRy",Coala 
+https://zssd-koala.hls.camzonecdn.com/CamzoneStreams/zssd-koala/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://zoo.sandiegozoo.org/sites/default/files/styles/landing_page_view_thumbnail/public/teaser_image/thumb-babooncam.jpg?h=0894a192&itok=PpLk3BED",Babuino
+https://zssd-baboon.hls.camzonecdn.com/CamzoneStreams/zssd-baboon/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://zoo.sandiegozoo.org/sites/default/files/styles/landing_page_view_thumbnail/public/teaser_image/thumb-polarcam.jpg?h=0894a192&itok=Rl4LSuLc",Urso Polar
+https://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://zoo.sandiegozoo.org/sites/default/files/styles/landing_page_view_thumbnail/public/teaser_image/thumb-penguincam.jpg?h=0894a192&itok=iE-HLKmq",Pinguim 
+https://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://zoo.sandiegozoo.org/sites/default/files/styles/landing_page_view_thumbnail/public/teaser_image/thumb-hippo-cam.jpg?h=0894a192&itok=V76eFoOM",Hipopótamo
+https://zssd-hippo.hls.camzonecdn.com/CamzoneStreams/zssd-hippo/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://zoo.sandiegozoo.org/sites/default/files/styles/landing_page_view_thumbnail/public/teaser_image/thumb-apecam.jpg?h=0894a192&itok=WuZv6DuK",Macaco
+https://ape.hls.camzonecdn.com/CamzoneStreams/ape/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://zoo.sandiegozoo.org/sites/default/files/styles/landing_page_view_thumbnail/public/teaser_image/thumb-cam-tiger.jpg?h=0894a192&itok=BQKaoa_w",Tigre
+https://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://zoo.sandiegozoo.org/sites/default/files/styles/landing_page_view_thumbnail/public/teaser_image/elephants.jpg?h=0894a192&itok=gskXeu_v",Elefante
+https://zssd-elephant-2025.hls.camzonecdn.com/CamzoneStreams/zssd-elephant-2025/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://zoo.sandiegozoo.org/sites/default/files/styles/landing_page_view_thumbnail/public/teaser_image/giraffe.jpg?h=0894a192&itok=og8C0ku0",Girafa
+https://zssd-kijami.hls.camzonecdn.com/CamzoneStreams/zssd-kijami/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://zoo.sandiegozoo.org/sites/default/files/styles/landing_page_view_thumbnail/public/teaser_image/thumb-owl.jpg?h=0894a192&itok=b9sTY2oJ",Coruja-buraqueira
+https://zssd-owlburrow.hls.camzonecdn.com/CamzoneStreams/zssd-owlburrow/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://zoo.sandiegozoo.org/sites/default/files/styles/landing_page_view_thumbnail/public/teaser_image/thumb-cam-condor.jpg?h=0894a192&itok=Gf0YsAhx",Condor 
+https://zssd-condorhd.hls.camzonecdn.com/CamzoneStreams/zssd-condorhd/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://zoo.sandiegozoo.org/sites/default/files/styles/landing_page_view_thumbnail/public/teaser_image/4275_SDZ23_Red-Panda_cam_web_tumb_668x540.jpg?h=0894a192&itok=52bddxs7",Panda Vermelho
+https://zssd-rpanda.hls.camzonecdn.com/CamzoneStreams/zssd-rpanda/Playlist.m3u8
